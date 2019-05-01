@@ -21,7 +21,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 
 # Available Positions
 
-We are seeking candidates for research fellow (from fresh post-docs to senior research fellows) and PhD positions in the areas of:
+We are seeking candidates for **research fellow** (from fresh post-docs to senior research fellows) and **PhD student** positions in the areas of:
 - symmetric key cryptography
 - lightweight cryptography
 - side-channel attacks
