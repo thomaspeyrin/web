@@ -1,3 +1,8 @@
+---
+layout: single
+toc: true
+---
+
 # 2019  
 
 ## Journals  
