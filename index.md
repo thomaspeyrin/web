@@ -16,7 +16,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
   - SKINNY-AEAD/SKINNY-HASH
   - SUNDAE-GIFT
   - TGIF
-- \[Feb. 19\] **Deoxys-II winner of the CAESAR competition (Portfolio "Defence-in-depth")**
+- \[Feb. 19\] **Deoxys-II winner of the CAESAR competition (Portfolio "Defense in depth")**
 - \[Jan. 19\] Our paper "From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1" accepted to Eurocrypt 2019 
 
 ---
