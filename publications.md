@@ -17,6 +17,8 @@
 
 ## Journals  
 
+- P. Derbez, T. Iwata, L. Sun, S. Sun, Y. Todo, H. Wang, M. Wang, "*Cryptanalysis of AES-PRF and Its Dual*" in **IACR Transactions on Symmetric Cryptology** ToSC 2018-2 / Fast Software Encryption - **FSE 2019** 
+
 ## International Conferences and Workshops 
 
 - M. Khairallah, Z. Najm, A. Chattopadhyay, T. Peyrin, "*Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey*" in International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation - **SAMOS 2018**
@@ -24,6 +26,16 @@
 - C. Cid, T. Huang, T. Peyrin, Y. Sasaki, L. Song, "*Boomerang Connectivity Table: a New Cryptanalysis Tool*" in Advances in Cryptology - **EUROCRYPT 2018**
 
 - A. Baksi, S. Bhasin, J. Breier, M. Khairallah, T. Peyrin, "*Protecting Block Ciphers against Differential Fault Attacks without Re-keying*" in IEEE International Symposium on Hardware Oriented Security and Trust - **HOST 2018**
+
+- A. Baksi, V. Pudi, S. Mandal, A. Chattopadhyay, "*Lightweight ASIC Implementation of AEGIS-128*" in **ISVLSI 2018**
+
+- M. A. Elmohr, S. Kumar, M. Khairallah, A. Chattopadhyay, "*A Hardware-Efficient Implementation of CLOC for On-chip Authenticated Encryption*" in **ISVLSI 2018**
+
+- M. Khairallah, R. Sadhukhan, R. Samanta, J. Breier, S. Bhasin, R. S. Chakraborty, A. Chattopadhyay, D. Mukhopadhyay, "*DFARPA: Differential fault attack resistant physical design automation*" in **DATE 2018**
+
+- M. Khairallah, A. Chattopadhyay, B. Mandal, S. Maitra, "*On Hardware Implementation of Tang-Maitra Boolean Functions*" in **WAIFI 2018**
+
+- D. Toh, J. Teo, K. Khoo, S. M. Sim, "*Lightweight MDS Serial-Type Matrices with Minimal Fixed XOR Count*" in **AFRICACRYPT 2018**
 
 
 ---
@@ -36,6 +48,7 @@
 - S. Bhasin, D. Jap, T. Peyrin, "*Practical Evaluation of FSE 2016 Customized Encoding Countermeasure*" in **IACR Transactions on Symmetric Cryptology** ToSC 2017-3 / Fast Software Encryption - **FSE 2018** 
 - C. Cid, T. Huang, T. Peyrin, Y. Sasaki, L. Song, "*Cryptanalysis of Deoxys and its Internal Tweakable Block Ciphers*" in **IACR Transactions on Symmetric Cryptology** ToSC 2017-3 / Fast Software Encryption - **FSE 2018** 
 - K. Khoo, E. Lee, T. Peyrin, S. M. Sim, "*Human-readable Proof of the Related-Key Security of AES-128*" in **IACR Transactions on Symmetric Cryptology** ToSC 2017-2 / Fast Software Encryption - **FSE 2018**   
+- S. Sarkar, S. Maitra, A. Baksi, "*Observing Biases in the State: Case Studies with Trivium and Trivia-SC*" in **Designs, Codes and Cryptography** - 2017
 
 ## International Conferences and Workshops
 
@@ -44,6 +57,8 @@
 - S. Banik, S.K. Pandey, T. Peyrin, Y. Sasaki, S. M. Sim, Y. Todo. "*GIFT: A Small Present*" in Cryptographic Hardware and Embedded Systems - **CHES 2017** 
 - T. Iwata, K. Minematsu, T. Peyrin, Y. Seurin, "*ZMAC: A Fast Tweakable Block Cipher Mode for Highly Secure Message Authentication*" in Advances in Cryptology - **CRYPTO 2017**
 - R. Ankele, S. Banik, A. Chakraborti, E. List, F. Mendel, S. M. Sim, G. Wang, "*Related-Key Impossible-Differential Attack on Reduced-Round SKINNY*" in **ACNS 2017** 
+- S. V. D. Kumar, S. Patranabis, J. Breier, D. Mukhopadhyay, S. Bhasin, A. Chattopadhyay, A. Baksi, "*A Practical Fault Attack on ARX-Like Ciphers with a Case Study on ChaCha20*" in **FDTC 2017** 
+
 
 ---
 
@@ -57,7 +72,6 @@
 - J. Jean, I. Nikolić, Y. Sasaki, L. Wang, "*Practical Forgeries and Distinguishers against PAES*" in **IEICE Transactions** - 2016
 - Y. Sasaki, L. Wang, "*Generic Internal State Recovery on Strengthened HMAC: n-bit Secure HMAC Requires Key in All Blocks*" in **IEICE Transactions** - 2016 
 - Y. Sasaki, L. Wang, "*Message Extension Attack against Authenticated Encryptions: Application to PANDA*" in **IEICE Transactions** - 2016  
-- S. Sarkar, S. Maitra, A. Baksi, "*Observing Biases in the State: Case Studies with Trivium and Trivia-SC*" in **Designs, Codes and Cryptography** - 2016
 - F. Landelle, T. Peyrin, "*Cryptanalysis of Full RIPEMD-128*" in **Journal of Cryptology** - 2016
 - T. Pandit, S.K. Pandey, R. Barua, "* Attribute-Based Signcryption: Signer Privacy, Strong Unforgeability and IND-CCA Security in Adaptive-Predicates Model (Extended Version)*" in **JISIS** - 2016  
 
@@ -90,7 +104,7 @@
 ## International Conferences and Workshops
 
 - I. Nikolić, Y. Sasaki, "*Refinements of the k-tree Algorithm for the Generalized Birthday Problem*" in Advances in Cryptology - **ASIACRYPT 2015**
-- B. Minaud, P. Derbez, P-A. Fouque, P. Karpman, "*Key-Recovery Attacks on ASASA*" in Advances in Cryptology - **ASIACRYPT 2015** - (Invited to JoC)
+- B. Minaud, P. Derbez, P-A. Fouque, P. Karpman, "*Key-Recovery Attacks on ASASA*" in Advances in Cryptology - **ASIACRYPT 2015** - (<span style="color:red">Invited to JoC</span>)
 - J. Jean, Y. Sasaki, L. Wang, "*Analysis of the CAESAR Candidate Silver*" in Selected Areas in Cryptography 2015 - **SAC 2015**
 - P. Karpman, "*From Distinguishers to Key Recovery: Improved Related-Key Attacks on Even-Mansour*" in Information Security Conference - **ISC 2015**
 - C. Blondeau, T. Peyrin, L. Wang, "*Known-key Distinguisher on Full PRESENT*" in Advances in Cryptology - **CRYPTO 2015**
@@ -151,7 +165,7 @@
 - J. Jean, M. Naya-Plasencia, T. Peyrin, "*Multiple Limited-Birthday Distinguishers and Applications*" in Selected Areas of Cryptography - **SAC 2013**
 - R. Benadjila, J. Guo, V. Lomné, T. Peyrin, "*Implementing Lightweight Block Ciphers on x86 Architectures*" in Selected Areas of Cryptography - **SAC 2013**
 - P.-A. Fouque, J. Jean, T. Peyrin, "*Structural Evaluation of AES and Chosen-Key Distinguisher of 9-round AES-128*" in Advances in Cryptology - **CRYPTO 2013**
-- F. Landelle, T. Peyrin, "*Cryptanalysis of Full RIPEMD-128*" in Advances in Cryptology - **EUROCRYPT 2013** - (Invited to JoC)
+- F. Landelle, T. Peyrin, "*Cryptanalysis of Full RIPEMD-128*" in Advances in Cryptology - **EUROCRYPT 2013** - (<span style="color:red">Invited to JoC</span>)
 - F. Sagstetter, M. Lukasiewycz, S. Steinhorst, M. Wolf, A. Bouard, W. R. Harris, S. Jha, T. Peyrin, A. Poschmann, S. Chakraborty, "*Security Challenges in Automotive Hardware/Software Architecture Design*" in Design, Automation & Test in Europe - **DATE 2013**
 - J. Jean, I. Nikolic, T. Peyrin, L. Wang, S. Wu, "*Security Analysis of PRINCE*" in Fast Software Encryption - **FSE 2013**
 - I. Nikolić, L. Wang, S. Wu, "*Cryptanalysis of Round-Reduced LED*" in Fast Software Encryption - **FSE 2013**
