@@ -1,3 +1,8 @@
+---
+layout: single
+toc: true
+---
+
 ## Faculty
 
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
