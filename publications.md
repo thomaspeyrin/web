@@ -7,7 +7,6 @@
 ## International Conferences and Workshops 
 
 - M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin, T. Peyrin, "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*" in ACM ASIA Conference on Computer and Communications Security - **AsiaCCS 2019**
-
 - G. Leurent, T. Peyrin, "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*" in Advances in Cryptology - **EUROCRYPT 2019**
 
 
@@ -22,27 +21,16 @@
 ## International Conferences and Workshops 
 
 - M. Khairallah, Z. Najm, A. Chattopadhyay, T. Peyrin, "*Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey*" in International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation - **SAMOS 2018**
-
 - Z. Najm, M. J. S. Flórez, F. Regazzoni, "*Session details: Security threats caused by novel technologies*" in International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation - **SAMOS 2018**
-
 - C. Cid, T. Huang, T. Peyrin, Y. Sasaki, L. Song, "*Boomerang Connectivity Table: a New Cryptanalysis Tool*" in Advances in Cryptology - **EUROCRYPT 2018**
-
 - A. Baksi, S. Bhasin, J. Breier, M. Khairallah, T. Peyrin, "*Protecting Block Ciphers against Differential Fault Attacks without Re-keying*" in IEEE International Symposium on Hardware Oriented Security and Trust - **HOST 2018**
-
 - Z. Najm, D. Jap, B. Jungk, S. Picek, S. Bhasin, "*On Comparing Side-channel Properties of AES and ChaCha20 on Microcontrollers*" in IEEE Asia Pacific Conference on Circuits and Systems - **APCCAS 2018**
-
 - P. Ravi, B. Jungk, D. Jap, Z. Najm, S. Bhasin, "*Feature Selection Methods for Non-Profiled Side-Channel Attacks on ECC*" in IEEE International Conference on Digital Signal Processing - **DSL 2018**
-
 - A. Baksi, V. Pudi, S. Mandal, A. Chattopadhyay, "*Lightweight ASIC Implementation of AEGIS-128*" in IEEE Computer Society Annual Symposium on VLSI - **ISVLSI 2018**
-
 - M. A. Elmohr, S. Kumar, M. Khairallah, A. Chattopadhyay, "*A Hardware-Efficient Implementation of CLOC for On-chip Authenticated Encryption*" in IEEE Computer Society Annual Symposium on VLSI - **ISVLSI 2018**
-
 - M. Khairallah, R. Sadhukhan, R. Samanta, J. Breier, S. Bhasin, R. S. Chakraborty, A. Chattopadhyay, D. Mukhopadhyay, "*DFARPA: Differential fault attack resistant physical design automation*" in Design, Automation and Test in Europe - **DATE 2018**
-
 - M. Khairallah, A. Chattopadhyay, B. Mandal, S. Maitra, "*On Hardware Implementation of Tang-Maitra Boolean Functions*" in **WAIFI 2018**
-
 - D. Toh, J. Teo, K. Khoo, S. M. Sim, "*Lightweight MDS Serial-Type Matrices with Minimal Fixed XOR Count*" in **AFRICACRYPT 2018**
-
 
 ---
 
