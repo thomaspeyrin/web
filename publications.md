@@ -1,23 +1,58 @@
 # 2019  
 
+## Journals  
+
+- H. Wang, T. Peyrin, "*Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys*" in **IACR Transactions on Symmetric Cryptology** ToSC 2019-1 / Fast Software Encryption - **FSE 2019** 
+
+## International Conferences and Workshops 
+
+- M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin, T. Peyrin, "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*" in ACM ASIA Conference on Computer and Communications Security - **AsiaCCS 2019**
+
+- G. Leurent, T. Peyrin, "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*" in Advances in Cryptology - **EUROCRYPT 2019**
+
+
+---
+
 # 2018  
+
+## Journals  
+
+## International Conferences and Workshops 
+
+- M. Khairallah, Z. Najm, A. Chattopadhyay, T. Peyrin, "*Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey*" in International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation - **SAMOS 2018**
+
+- C. Cid, T. Huang, T. Peyrin, Y. Sasaki, L. Song, "*Boomerang Connectivity Table: a New Cryptanalysis Tool*" in Advances in Cryptology - **EUROCRYPT 2018**
+
+- A. Baksi, S. Bhasin, J. Breier, M. Khairallah, T. Peyrin, "*Protecting Block Ciphers against Differential Fault Attacks without Re-keying*" in IEEE International Symposium on Hardware Oriented Security and Trust - **HOST 2018**
+
+
+---
 
 # 2017  
 
 ## Journals  
-- K. Khoo, E. Lee, T. Peyrin, S. M. Sim, "*Human-readable Proof of the Related-Key Security of AES-128*" in **IACR Transactions on Symmetric Cryptology**/Fast Software Encryption - **FSE 2018**  
-- J. Guo, J. Jean, I. Nikolić, K. Qiao, Y. Sasaki, S. M. Sim, "*Invariant Subspace Attack Against Midori64 and The Resistance Criteria for S-box Designs*" in **IACR Transactions on Symmetric Cryptology**/Fast Software Encryption - **FSE 2017**  
-- J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Meet-in-the-Middle Attacks on Classes of Contracting and Expanding Feistel Constructions*" in **IACR Transactions on Symmetric Cryptology**/Fast Software Encryption - **FSE 2017**
 
-## International Conferences and Workshops  
+- J. Jean, T. Peyrin, S. M. Sim, "*Optimizing Implementations of Lightweight Building Blocks*" in **IACR Transactions on Symmetric Cryptology** ToSC 2017-4 / Fast Software Encryption - **FSE 2018** 
+- S. Bhasin, D. Jap, T. Peyrin, "*Practical Evaluation of FSE 2016 Customized Encoding Countermeasure*" in **IACR Transactions on Symmetric Cryptology** ToSC 2017-3 / Fast Software Encryption - **FSE 2018** 
+- C. Cid, T. Huang, T. Peyrin, Y. Sasaki, L. Song, "*Cryptanalysis of Deoxys and its Internal Tweakable Block Ciphers*" in **IACR Transactions on Symmetric Cryptology** ToSC 2017-3 / Fast Software Encryption - **FSE 2018** 
+- K. Khoo, E. Lee, T. Peyrin, S. M. Sim, "*Human-readable Proof of the Related-Key Security of AES-128*" in **IACR Transactions on Symmetric Cryptology** ToSC 2017-2 / Fast Software Encryption - **FSE 2018**   
+
+## International Conferences and Workshops
+
+- M. Khairallah, A. Chattopadhyay, T. Peyrin, "*Looting the LUTs: FPGA Optimization of AES and AES-like Ciphers for Authenticated Encryption*" in **INDOCRYPT 2017**  
+- J. Jean, A. Moradi, T. Peyrin, P. Sasdrich. "*Bit-Sliding: A Generic Technique for Bit-Serial Implementations of SPN-based Primitives*" in Cryptographic Hardware and Embedded Systems - **CHES 2017** 
 - S. Banik, S.K. Pandey, T. Peyrin, Y. Sasaki, S. M. Sim, Y. Todo. "*GIFT: A Small Present*" in Cryptographic Hardware and Embedded Systems - **CHES 2017** 
-- T. Iwata, K. Minematsu, T. Peyrin and Y. Seurin, "*ZMAC: A Fast Tweakable Block Cipher Mode for Highly Secure Message Authentication*" in Advances in Cryptology - **CRYPTO 2017**
-- R. Ankele, S. Banik, A. Chakraborti, E. List, F. Mendel, S. M. Sim and G. Wang, "*Related-Key Impossible-Differential Attack on Reduced-Round SKINNY*" in **ACNS 2017** 
+- T. Iwata, K. Minematsu, T. Peyrin, Y. Seurin, "*ZMAC: A Fast Tweakable Block Cipher Mode for Highly Secure Message Authentication*" in Advances in Cryptology - **CRYPTO 2017**
+- R. Ankele, S. Banik, A. Chakraborti, E. List, F. Mendel, S. M. Sim, G. Wang, "*Related-Key Impossible-Differential Attack on Reduced-Round SKINNY*" in **ACNS 2017** 
+
+---
 
 # 2016  
 
 ## Journals  
 
+- J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Meet-in-the-Middle Attacks on Classes of Contracting and Expanding Feistel Constructions*" in **IACR Transactions on Symmetric Cryptology** ToSC 2016-2 / Fast Software Encryption - **FSE 2017**
+- J. Guo, J. Jean, I. Nikolić, K. Qiao, Y. Sasaki, S. M. Sim, "*Invariant Subspace Attack Against Midori64 and The Resistance Criteria for S-box Designs*" in **IACR Transactions on Symmetric Cryptology** ToSC 2016-1 / Fast Software Encryption - **FSE 2017** 
 - J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Extended meet-in-the-middle attacks on some Feistel constructions*" in **Designs, Codes and Cryptography** - 2016
 - J. Jean, I. Nikolić, Y. Sasaki, L. Wang, "*Practical Forgeries and Distinguishers against PAES*" in **IEICE Transactions** - 2016
 - Y. Sasaki, L. Wang, "*Generic Internal State Recovery on Strengthened HMAC: n-bit Secure HMAC Requires Key in All Blocks*" in **IEICE Transactions** - 2016 
@@ -31,7 +66,7 @@
 - I. Nikolić, Y. Sasaki, "*A New Algorithm for the Unbalanced Meet-in-the-Middle Problem*" in Advances in Cryptology - **ASIACRYPT 2016** 
 - P-A. Fouque, P. Karpman, P. Kirchner, B. Minaud, "*Efficient and Provable White-Box Primitives*" in Advances in Cryptology - **ASIACRYPT 2016**  
 - C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich, S. M. Sim, "*The SKINNY Family of Block Ciphers and its Low-Latency Variant MANTIS*" in Advances in Cryptology - **CRYPTO 2016**  
-- T. Peyrin and Y. Seurin, "*Counter-in-Tweak: Authenticated Encryption Modes for Tweakable Block Ciphers*" in Advances in Cryptology -  **CRYPTO 2016**  
+- T. Peyrin, Y. Seurin, "*Counter-in-Tweak: Authenticated Encryption Modes for Tweakable Block Ciphers*" in Advances in Cryptology -  **CRYPTO 2016**  
 - M. Stevens, P. Karpman, T. Peyrin, "*Freestart collision on full SHA-1*" in Advances in Cryptology - **EUROCRYPT 2016**
 - M. Liu, S. M. Sim, "*Lightweight MDS Generalized Circulant Matrices*" in Fast Software Encryption - **FSE 2016**
 - J. Jean, I. Nikolić, "*Efficient Design Strategies Based on the AES Round Function*" in Fast Software Encryption - **FSE 2016**
@@ -41,15 +76,19 @@
 - D. Jap, W. He, S. Bhasin. "*Supervised and Unsupervised Machine Learning for Side-Channel based Trojan Detection*" in **ASAP 2016**
 - K.C. Gupta, S.K. Pandey, I.G. Ray, "*Format Preserving Sets: On Diffusion Layers of Format Preserving Encryption Schemes.*" in **INDOCRYPT 2016**
 
+--- 
+
 # 2015
 
 ## Journals
+
 - T. Peyrin, "*Collision Attack on Grindahl*" in **Journal of Cryptology** - 2015
 - I. Nikolić, L. Wang, S. Wu, "*The parallel-cut meet-in-the-middle attack*" in **Cryptography and Communications** - September 2015
 - Y. Sasaki, L. Wang, "*Bitwise Partial-sum: A New Tool for Integral Analysis against ARX Designs*" in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences** - January 2015
 - Y. Sasaki, G. Wang, L. Wang, "*Improved Single-Key Distinguisher on HMAC-MD5 and Key Recovery Attacks on Sandwich-MAC-MD5 and MD5-MAC*" in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences** - January 2015
 
 ## International Conferences and Workshops
+
 - I. Nikolić, Y. Sasaki, "*Refinements of the k-tree Algorithm for the Generalized Birthday Problem*" in Advances in Cryptology - **ASIACRYPT 2015**
 - B. Minaud, P. Derbez, P-A. Fouque, P. Karpman, "*Key-Recovery Attacks on ASASA*" in Advances in Cryptology - **ASIACRYPT 2015** - (Invited to JoC)
 - J. Jean, Y. Sasaki, L. Wang, "*Analysis of the CAESAR Candidate Silver*" in Selected Areas in Cryptography 2015 - **SAC 2015**
@@ -63,9 +102,12 @@
 - T. Peyrin, S. M. Sim, L. Wang, G. Zhang, "*Cryptanalysis of JAMBU*" in Fast Software Encryption - **FSE 2015**
 - G. Leurent, L. Wang, "*The Sum Can Be Weaker Than Each Part*" in Advances in Cryptology - **EUROCRYPT 2015**
 
+--- 
+
 # 2014
 
 ## Journals
+
 - J. Jean, M. Naya-Plasencia, T. Peyrin, "*Improved Cryptanalysis of AES-like Permutations*" in **Journal of Cryptology** - July 2013
 - S. Emami, S. Ling, I. Nikolić, J. Pieprzyk, H. Wang, "*The Resistance of PRESENT-80 Against Related-Key Differential Attacks*" in **Cryptography and Communications** - September 2014
 - D. Khovratovich, I. Nikolić, C. Rechberger, "*Rotational Rebound Attacks on Reduced Skein*" in **Journal of Cryptology** - July 2014
@@ -73,6 +115,7 @@
 - Y. Sasaki, L. Wang, "*Distinguishers on Double-Branch Compression Function and Applications to Round-Reduced RIPEMD-128 and RIPEMD-160*" in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences** - January 2014
 
 ## International Conferences and Workshops
+
 - N. Anandakumar, T. Peyrin, A. Poschmann, "*A Very Compact FPGA Implementation of LED and PHOTON*" - **INDOCRYPT 2014**
 - J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Meet-in-the-Middle Attacks on Generic Feistel Constructions*" in Advances in Cryptology - **ASIACRYPT 2014**
 - S. Emami, S. Ling, I. Nikolić, J. Pieprzyk, H. Wang, "*Low Probability Differentials and the Cryptanalysis of Full-Round CLEFIA-128*" in Advances in Cryptology - **ASIACRYPT 2014**
@@ -93,9 +136,12 @@
 - J. Guo, P. Karpman, I. Nikolić, L. Wang, S. Wu, "*Analysis of BLAKE2*" in RSA Conference Cryptographers' Track - **CT-RSA 2014**
 - Y. Sasaki, Y. Tokushige, L. Wang, M. Iwamoto, K. Ohta , "*An Automated Evaluation Tool for Improved Rebound Attack: New ShiftBytes Parameters for Grøstl*" in RSA Conference Cryptographers' Track - **CT-RSA 2014**
 
+--- 
+
 # 2013
 
 ## International Conferences and Workshops
+
 - P-A. Fouque, P. Karpman, "*Security Amplification against Meet-in-the-Middle Attacks Using Whitening*" - **IMA CC 2013**
 - G. Leurent, T. Peyrin, L. Wang, "*New Generic Attacks Against Hash-based MACs*" in Advances in Cryptology - **ASIACRYPT 2013**
 - F. Mendel, T. Peyrin, M. Schläffer, L. Wang, S. Wu, "*Improved Cryptanalysis of Reduced RIPEMD-160*" in Advances in Cryptology - **ASIACRYPT 2013**
@@ -114,9 +160,11 @@
 - Y. Naito, Y. Sasaki, L. Wang, K. Yasuda, "*Generic State-Recovery and Forgery Attacks on ChopMD-MAC and NMAC/HMAC*" in International Workshop on Security - **IWSEC 2013**
 - Y. Sasaki, W. Komatsubara, Y. Sakai, L. Wang , M. Iwamoto, K. Ohta, K. Sakiyama, "*Meet-in-the-Middle Preimage Attacks Revisited: New Results on MD5 and HAVAL*" in International Conference on Security and Cryptography - **SECRYPT 2013**
 
+--- 
 # 2012
 
 ## International Conferences and Workshops
+
 - T. Peyrin, Y. Sasaki, L. Wang, "*Generic Related-key Attacks for HMAC*" in Advances in Cryptology - **ASIACRYPT 2012**
 - Y. Sasaki, L. Wang, S. Wu, W.L. Wu, "*Investigating Fundamental Security Requirements on Whirlpool: Improved Preimage and Collision Attacks*" in Advances in Cryptology - **ASIACRYPT 2012**
 - J. Choy, H. Yap, K. Khoo, J. Guo, T. Peyrin, A. Poschmann, C. H. Tan, "*SPN-Hash: Improving the Provable Resistance Against Differential Collision Attacks*" in Progress in Cryptology - **AFRICACRYPT 2012**
