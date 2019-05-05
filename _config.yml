@@ -230,7 +230,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -239,7 +239,7 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -291,7 +291,7 @@ defaults:
       layout: single
       author_profile: false
       read_time: false
-      comments: # true
+      comments: false
       share: false
       related: false
       sidebar:
