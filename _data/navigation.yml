@@ -53,5 +53,3 @@ docs:
       - title: "JavaScript"
         url: /docs/javascript/
 
-sidebar:
-  nav: "docs"
