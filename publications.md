@@ -1,7 +1,9 @@
 ---
 layout: single
-toc: true
+toc: false
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 # 2019  
