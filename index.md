@@ -32,7 +32,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 
 # Contact
 
-Dr. Thomas Peyrin  
+Thomas Peyrin  
 Division of Mathematical Sciences  
 School of Physical and Mathematical Sciences  
 Nanyang Technological University  
