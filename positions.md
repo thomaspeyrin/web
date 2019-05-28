@@ -1,6 +1,6 @@
 ---
 layout: single
-toc: true
+toc: false
 classes: wide
 ---
 
