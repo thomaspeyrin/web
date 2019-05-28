@@ -1,3 +1,11 @@
+main:
+  - title: "Home"
+    url: /index/
+  - title: "Members"
+    url: /members/
+  - title: "Publications"
+    url: /publications/
+
 docs:
   - title: Getting Started
     children:
