@@ -1,6 +1,7 @@
 ---
 layout: single
 toc: true
+classes: wide
 ---
 
 Welcome to the **Symmetric Key and Lightweight Cryptography Lab** (<span style="color:red">**SyLLab**</span>) page.
