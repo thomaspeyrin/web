@@ -6,6 +6,8 @@ sidebar:
   nav: "docs"
 ---
 
+---
+
 ## Faculty
 
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
