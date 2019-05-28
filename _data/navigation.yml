@@ -1,10 +1,12 @@
 main:
-  - title: "Home"
+  - title: "News"
     url: /index/
   - title: "Members"
     url: /members/
   - title: "Publications"
     url: /publications/
+  - title: "Available Positions"
+    url: /positions/
 
 docs:
   - title: Getting Started
