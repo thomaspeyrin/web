@@ -1,6 +1,7 @@
 ---
 layout: single
 toc: true
+classes: wide
 ---
 
 ## Faculty
