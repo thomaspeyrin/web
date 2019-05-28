@@ -9,47 +9,43 @@ main:
     url: /positions/
 
 docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+  - title: News
+    url: /
 
-  - title: Customization
+  - title: Members
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Faculty"
+        url: /members/#faculty
+      - title: "Postdocs"
+        url: /members/#postdocs
+      - title: "Researchers"
+        url: /members/#researchers
+      - title: "PhD Students"
+        url: /members/#phd-students
+      - title: "Visitors"
+        url: /members/#visitors      
+      - title: "Alumni"
+        url: /members/#alumni 
+        
+  - title: Publications
+    children:
+      - title: "2019"
+        url: /publications/#2019
+      - title: "2018"
+        url: /publications/#2018
+      - title: "2017"
+        url: /publications/#2017
+      - title: "2016"
+        url: /publications/#2016
+      - title: "2015"
+        url: /publications/#2015
+      - title: "2014"
+        url: /publications/#2014
+      - title: "2013"
+        url: /publications/#2013
+      - title: "2012"
+        url: /publications/#2012
 
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+  - title: Available Positions
+    url: /positions/
 
