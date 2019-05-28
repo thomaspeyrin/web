@@ -20,8 +20,8 @@ docs:
 
   - title: Available Positions
     url: /positions/
-
-  docsm:
+    
+docsm:
   - title: News
     url: /
 
@@ -47,8 +47,7 @@ docs:
   - title: Available Positions
     url: /positions/
 
-
- docsp:
+docsp:
   - title: News
     url: /
 
