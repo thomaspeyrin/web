@@ -6,7 +6,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Available Positions"
-    url: /positions/
+    url: /
 
 docs:
   - title: Getting Started
