@@ -32,10 +32,10 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 
 # Contact
 
-Dr. Thomas Peyrin
-Division of Mathematical Sciences
-School of Physical and Mathematical Sciences
-Nanyang Technological University
-SPMS-MAS-05-14, 21 Nanyang Link, Singapore 637371, Singapore
-Phone: +65-65132027
+Dr. Thomas Peyrin  
+Division of Mathematical Sciences  
+School of Physical and Mathematical Sciences  
+Nanyang Technological University  
+SPMS-MAS-05-14, 21 Nanyang Link, Singapore 637371, Singapore  
+Phone: +65-65132027  
 E-mail: thomas.peyrin(at)ntu.edu.sg
