@@ -14,6 +14,19 @@ docs:
 
   - title: Members
     url: /members/
+        
+  - title: Publications
+    url: /publications/
+
+  - title: Available Positions
+    url: /positions/
+
+  docsm:
+  - title: News
+    url: /
+
+  - title: Members
+    url: /members/
     children:
       - title: "Faculty"
         url: /members/#faculty
@@ -27,6 +40,20 @@ docs:
         url: /members/#visitors      
       - title: "Alumni"
         url: /members/#alumni 
+        
+  - title: Publications
+    url: /publications/
+
+  - title: Available Positions
+    url: /positions/
+
+
+ docsp:
+  - title: News
+    url: /
+
+  - title: Members
+    url: /members/
         
   - title: Publications
     url: /publications/
