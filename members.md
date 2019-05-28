@@ -5,7 +5,6 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
-
 ---
 
 ## Faculty
