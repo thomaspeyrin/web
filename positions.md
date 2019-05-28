@@ -5,7 +5,7 @@ classes: wide
 sidebar:
   nav: "docs"
 ---
-
+---
 # Available Positions
 
 We are seeking candidates for **research fellow** (from fresh post-docs to senior research fellows) and **PhD student** positions in the areas of:
