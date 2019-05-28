@@ -13,6 +13,7 @@ docs:
     url: /
 
   - title: Members
+    url: /members/
     children:
       - title: "Faculty"
         url: /members/#faculty
@@ -28,6 +29,7 @@ docs:
         url: /members/#alumni 
         
   - title: Publications
+    url: /publications/
     children:
       - title: "2019"
         url: /publications/#2019
