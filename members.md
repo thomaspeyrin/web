@@ -7,6 +7,7 @@ sidebar:
 ---
 
 # Faculty
+{: .blue #blue-h}
 
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
 
