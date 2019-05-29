@@ -6,24 +6,23 @@ sidebar:
   nav: "docsm"
 ---
 
-
-## Faculty
+# Faculty
 
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
 
 
-## Postdocs
+# Postdocs
 
 - **[David Gerault](http://www.gerault.net/)**
 
 
-## Researchers
+# Researchers
 
 - **Zakaria Najm**
 - **Sonu Kumar Jha**
 
 
-## PhD Students
+# PhD Students
 
 - **Anubhab Baksi**
 - **[Mustafa Khairallah](https://www.mustafa-khairallah.com/)**
@@ -31,6 +30,6 @@ sidebar:
 - **Haoyang Wang**
 
 
-## Visitors
+# Visitors
 
-## Alumni
+# Alumni
