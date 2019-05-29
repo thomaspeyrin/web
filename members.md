@@ -6,8 +6,17 @@ sidebar:
   nav: "docsm"
 ---
 
+<style>
+.red {
+  color: red;
+}
+.bold {
+  font-weight: bold;
+}
+</style>
+
 # Faculty
-{color: red;}
+{: .red}
 
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
 
