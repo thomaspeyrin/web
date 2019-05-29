@@ -274,7 +274,7 @@ tag_archive:
 #     tag: /tags/:name/
 
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: true
   collections: false
 
