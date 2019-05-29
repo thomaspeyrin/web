@@ -3,7 +3,10 @@ layout: single
 toc: false
 classes: wide
 sidebar:
-  nav: "docsm"
+  - title: " "
+    image: /assets/images/ntu-logo-blue-transparent.png
+    image_alt: "image"
+    nav: "docsm"
 ---
 
 # Faculty
