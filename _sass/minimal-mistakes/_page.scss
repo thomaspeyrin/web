@@ -19,10 +19,6 @@
   }
 }
 
-.article-wrap p {
-  font-size: 5px; /* 16 is the default increase if you want it larger */
-}
-
 .page {
   @include breakpoint($large) {
     float: right;
