@@ -3,8 +3,8 @@ layout: single
 toc: false
 classes: wide
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
+  - title: " "
+    image: /assets/images/ntu-logo-blue-transparent.png
     image_alt: "image"
     nav: "docs"
 ---
