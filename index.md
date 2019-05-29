@@ -3,6 +3,7 @@ layout: single
 toc: false
 classes: wide
 sidebar:
+  image: http://placehold.it/350x250
   nav: "docs"
 ---
 
