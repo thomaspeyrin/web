@@ -19,12 +19,14 @@ sidebar:
 
 
 # Researchers
+{: .myh1}
 
 - **Zakaria Najm**
 - **Sonu Kumar Jha**
 
 
 # PhD Students
+{: .myh1}
 
 - **Anubhab Baksi**
 - **[Mustafa Khairallah](https://www.mustafa-khairallah.com/)**
@@ -33,5 +35,7 @@ sidebar:
 
 
 # Visitors
+{: .myh1}
 
 # Alumni
+{: .myh1}
