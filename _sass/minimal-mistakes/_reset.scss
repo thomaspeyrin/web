@@ -44,6 +44,10 @@ body { margin: 0; }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
 
+.article-wrap p {
+  font-size: 5px; /* 16 is the default increase if you want it larger */
+}
+
 article,
 aside,
 details,
