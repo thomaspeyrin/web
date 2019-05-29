@@ -6,15 +6,6 @@ sidebar:
   nav: "docsm"
 ---
 
-<style>
-.red {
-  color: red;
-}
-.bold {
-  font-weight: bold;
-}
-</style>
-
 # Faculty
 {: .red}
 
