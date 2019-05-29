@@ -1,6 +1,7 @@
 main:
   - title: "News"
     url: /
+    image: http://placehold.it/350x250
   - title: "Members"
     url: /members/
   - title: "Publications"
