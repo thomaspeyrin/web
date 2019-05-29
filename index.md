@@ -13,6 +13,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 ---
 
 # News
+{: .myh1}
 
 - \[Apr. 19\] Our paper "SoK : On DFA Vulnerabilities of Substitution-Permutation Networks" accepted to AsiaCCS 2019
 - \[Mar. 19\]  8 submissions from SyLLab to the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography):
@@ -31,6 +32,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
 ---
 
 # Contact
+{: .myh1}
 
 Thomas Peyrin  
 Division of Mathematical Sciences  
