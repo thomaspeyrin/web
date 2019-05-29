@@ -3,8 +3,10 @@ layout: single
 toc: false
 classes: wide
 sidebar:
-  image: http://placehold.it/350x250
-  nav: "docs"
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    nav: "docs"
 ---
 
 Welcome to the **Symmetric Key and Lightweight Cryptography Lab** (**SyLLab**) page.
