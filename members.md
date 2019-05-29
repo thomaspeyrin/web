@@ -7,13 +7,13 @@ sidebar:
 ---
 
 # Faculty
-{: .red}
+{: .myh1}
 
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
 
 
 # Postdocs
-{: .red}
+{: .myh1}
 
 - **[David Gerault](http://www.gerault.net/)**
 
