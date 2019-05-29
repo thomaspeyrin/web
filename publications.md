@@ -3,7 +3,10 @@ layout: single
 toc: false
 classes: wide
 sidebar:
-  nav: "docsp"
+  - title: " "
+    image: /assets/images/ntu-logo-blue-transparent.png
+    image_alt: "image"
+    nav: "docsp"
 ---
 
 
