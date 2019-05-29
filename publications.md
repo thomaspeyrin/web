@@ -9,12 +9,12 @@ sidebar:
 
 # 2019  
 
-## Journals  
+### Journals  
 
 - H. Wang, T. Peyrin, "*Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2019-1 / Fast Software Encryption - **FSE 2019** 
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin, T. Peyrin, "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*"  
 in ACM ASIA Conference on Computer and Communications Security - **AsiaCCS 2019**
@@ -26,12 +26,12 @@ in Advances in Cryptology - **EUROCRYPT 2019**
 
 # 2018  
 
-## Journals  
+### Journals  
 
 - P. Derbez, T. Iwata, L. Sun, S. Sun, Y. Todo, H. Wang, M. Wang, "*Cryptanalysis of AES-PRF and Its Dual*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2018-2 / Fast Software Encryption - **FSE 2019** 
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - M. Khairallah, Z. Najm, A. Chattopadhyay, T. Peyrin, "*Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey*"  
 in International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation - **SAMOS 2018**
