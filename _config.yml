@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Symmetric Key and Lightweight Cryptography Lab (SyLLab)"
+title                    : "   Symmetric Key and Lightweight Cryptography Lab (SyLLab)"
 title_separator          : "-"
 name                     : "Thomas Peyrin"
 description              : "The website of the Symmetric Key and Lightweight Cryptography Lab (SyLLab) in NTU, Singapore"
