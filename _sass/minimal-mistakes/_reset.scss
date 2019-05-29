@@ -8,18 +8,18 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 14px;
+  font-size: 1.4px;
 
   @include breakpoint($medium) {
-    font-size: 16px;
+    font-size: 1.6px;
   }
 
   @include breakpoint($large) {
-    font-size: 18px;
+    font-size: 1.8px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 20px;
+    font-size: 2.0px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -43,10 +43,6 @@ body { margin: 0; }
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
-
-.article-wrap p {
-  font-size: 5px; /* 16 is the default increase if you want it larger */
-}
 
 article,
 aside,
