@@ -5,7 +5,7 @@ classes: wide
 sidebar:
   nav: "docsm"
 ---
----
+
 
 ## Faculty
 
