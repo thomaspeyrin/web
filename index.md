@@ -2,6 +2,7 @@
 layout: single
 toc: false
 classes: wide
+footer: false
 sidebar:
   - title: " "
     image: /assets/images/ntu-logo-blue-transparent-side.png
