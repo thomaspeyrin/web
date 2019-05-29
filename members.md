@@ -24,8 +24,8 @@ sidebar:
 # Researchers
 {: .myh1}
 
-- **Zakaria Najm**
 - **Sonu Kumar Jha**
+- **Zakaria Najm**
 
 
 # PhD Students
