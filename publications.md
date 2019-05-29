@@ -60,7 +60,7 @@ in **AFRICACRYPT 2018**
 
 # 2017  
 
-## Journals  
+### Journals  
 
 - J. Jean, T. Peyrin, S. M. Sim, "*Optimizing Implementations of Lightweight Building Blocks*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2017-4 / Fast Software Encryption - **FSE 2018** 
@@ -73,7 +73,7 @@ in **IACR Transactions on Symmetric Cryptology** ToSC 2017-2 / Fast Software Enc
 - S. Sarkar, S. Maitra, A. Baksi, "*Observing Biases in the State: Case Studies with Trivium and Trivia-SC*"  
 in **Designs, Codes and Cryptography** - 2017
 
-## International Conferences and Workshops
+### International Conferences and Workshops
 
 - M. Khairallah, A. Chattopadhyay, T. Peyrin, "*Looting the LUTs: FPGA Optimization of AES and AES-like Ciphers for Authenticated Encryption*"  
 in **INDOCRYPT 2017**  
@@ -93,7 +93,7 @@ in **FDTC 2017**
 
 # 2016  
 
-## Journals  
+### Journals  
 
 - J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Meet-in-the-Middle Attacks on Classes of Contracting and Expanding Feistel Constructions*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2016-2 / Fast Software Encryption - **FSE 2017**
@@ -112,7 +112,7 @@ in **Journal of Cryptology** - 2016
 - T. Pandit, S.K. Pandey, R. Barua, "* Attribute-Based Signcryption: Signer Privacy, Strong Unforgeability and IND-CCA Security in Adaptive-Predicates Model (Extended Version)*"  
 in **JISIS** - 2016  
 
-## International Conferences and Workshops
+### International Conferences and Workshops
 
 - I. Nikolić, Y. Sasaki, "*A New Algorithm for the Unbalanced Meet-in-the-Middle Problem*"  
 in Advances in Cryptology - **ASIACRYPT 2016** 
@@ -143,7 +143,7 @@ in **INDOCRYPT 2016**
 
 # 2015
 
-## Journals
+### Journals
 
 - T. Peyrin, "*Collision Attack on Grindahl*"  
 in **Journal of Cryptology** - 2015
@@ -154,7 +154,7 @@ in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sc
 - Y. Sasaki, G. Wang, L. Wang, "*Improved Single-Key Distinguisher on HMAC-MD5 and Key Recovery Attacks on Sandwich-MAC-MD5 and MD5-MAC*"  
 in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences** - January 2015
 
-## International Conferences and Workshops
+### International Conferences and Workshops
 
 - I. Nikolić, Y. Sasaki, "*Refinements of the k-tree Algorithm for the Generalized Birthday Problem*"  
 in Advances in Cryptology - **ASIACRYPT 2015**
@@ -185,7 +185,7 @@ in Advances in Cryptology - **EUROCRYPT 2015**
 
 # 2014
 
-## Journals
+### Journals
 
 - J. Jean, M. Naya-Plasencia, T. Peyrin, "*Improved Cryptanalysis of AES-like Permutations*"  
 in **Journal of Cryptology** - July 2013
@@ -198,7 +198,7 @@ in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sc
 - Y. Sasaki, L. Wang, "*Distinguishers on Double-Branch Compression Function and Applications to Round-Reduced RIPEMD-128 and RIPEMD-160*"  
 in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences** - January 2014
 
-## International Conferences and Workshops
+### International Conferences and Workshops
 
 - N. Anandakumar, T. Peyrin, A. Poschmann, "*A Very Compact FPGA Implementation of LED and PHOTON*" - **INDOCRYPT 2014**
 - J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Meet-in-the-Middle Attacks on Generic Feistel Constructions*"  
@@ -240,7 +240,7 @@ in RSA Conference Cryptographers' Track - **CT-RSA 2014**
 
 # 2013
 
-## International Conferences and Workshops
+### International Conferences and Workshops
 
 - P-A. Fouque, P. Karpman, "*Security Amplification against Meet-in-the-Middle Attacks Using Whitening*" - **IMA CC 2013**
 - G. Leurent, T. Peyrin, L. Wang, "*New Generic Attacks Against Hash-based MACs*"  
@@ -279,7 +279,7 @@ in International Conference on Security and Cryptography - **SECRYPT 2013**
 --- 
 # 2012
 
-## International Conferences and Workshops
+### International Conferences and Workshops
 
 - T. Peyrin, Y. Sasaki, L. Wang, "*Generic Related-key Attacks for HMAC*"  
 in Advances in Cryptology - **ASIACRYPT 2012**
