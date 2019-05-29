@@ -4,7 +4,7 @@ toc: false
 classes: wide
 sidebar:
   - title: " "
-    image: /assets/images/ntu-logo-blue-transparent.png
+    image: /assets/images/ntu-logo-blue-transparent-side.png
     image_alt: "image"
     nav: "docsm"
 ---
