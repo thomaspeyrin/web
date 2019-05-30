@@ -13,13 +13,11 @@ sidebar:
 # 2019  
 
 ### Journals 
-{: .myh3}
 
 - H. Wang, T. Peyrin, "*Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2019-1 / Fast Software Encryption - **FSE 2019** 
 
 ### International Conferences and Workshops 
-{: .myh3}
 
 - M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin, T. Peyrin, "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*"  
 in ACM ASIA Conference on Computer and Communications Security - **AsiaCCS 2019**
@@ -30,16 +28,13 @@ in Advances in Cryptology - **EUROCRYPT 2019**
 ---
 
 # 2018  
-{: .myh1}
 
 ### Journals  
-{: .myh3}
 
 - P. Derbez, T. Iwata, L. Sun, S. Sun, Y. Todo, H. Wang, M. Wang, "*Cryptanalysis of AES-PRF and Its Dual*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2018-2 / Fast Software Encryption - **FSE 2019** 
 
 ### International Conferences and Workshops 
-{: .myh3}
 
 - M. Khairallah, Z. Najm, A. Chattopadhyay, T. Peyrin, "*Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey*"  
 in International Conference on Embedded Computer Systems: Architectures, Modeling, and Simulation - **SAMOS 2018**
@@ -67,10 +62,8 @@ in **AFRICACRYPT 2018**
 ---
 
 # 2017  
-{: .myh1}
 
 ### Journals  
-{: .myh3}
 
 - J. Jean, T. Peyrin, S. M. Sim, "*Optimizing Implementations of Lightweight Building Blocks*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2017-4 / Fast Software Encryption - **FSE 2018** 
@@ -84,7 +77,6 @@ in **IACR Transactions on Symmetric Cryptology** ToSC 2017-2 / Fast Software Enc
 in **Designs, Codes and Cryptography** - 2017
 
 ### International Conferences and Workshops
-{: .myh3}
 
 - M. Khairallah, A. Chattopadhyay, T. Peyrin, "*Looting the LUTs: FPGA Optimization of AES and AES-like Ciphers for Authenticated Encryption*"  
 in **INDOCRYPT 2017**  
@@ -103,10 +95,8 @@ in **FDTC 2017**
 ---
 
 # 2016  
-{: .myh1}
 
 ### Journals  
-{: .myh3}
 
 - J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Meet-in-the-Middle Attacks on Classes of Contracting and Expanding Feistel Constructions*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2016-2 / Fast Software Encryption - **FSE 2017**
@@ -126,7 +116,6 @@ in **Journal of Cryptology** - 2016
 in **JISIS** - 2016  
 
 ### International Conferences and Workshops
-{: .myh3}
 
 - I. Nikolić, Y. Sasaki, "*A New Algorithm for the Unbalanced Meet-in-the-Middle Problem*"  
 in Advances in Cryptology - **ASIACRYPT 2016** 
@@ -156,10 +145,8 @@ in **INDOCRYPT 2016**
 --- 
 
 # 2015
-{: .myh1}
 
 ### Journals
-{: .myh3}
 
 - T. Peyrin, "*Collision Attack on Grindahl*"  
 in **Journal of Cryptology** - 2015
@@ -171,7 +158,6 @@ in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sc
 in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences** - January 2015
 
 ### International Conferences and Workshops
-{: .myh3}
 
 - I. Nikolić, Y. Sasaki, "*Refinements of the k-tree Algorithm for the Generalized Birthday Problem*"  
 in Advances in Cryptology - **ASIACRYPT 2015**
@@ -201,10 +187,8 @@ in Advances in Cryptology - **EUROCRYPT 2015**
 --- 
 
 # 2014
-{: .myh1}
 
 ### Journals
-{: .myh3}
 
 - J. Jean, M. Naya-Plasencia, T. Peyrin, "*Improved Cryptanalysis of AES-like Permutations*"  
 in **Journal of Cryptology** - July 2013
@@ -218,7 +202,6 @@ in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sc
 in **IEICE Trans. on Fundamentals of Electronics, Communications and Computer Sciences** - January 2014
 
 ### International Conferences and Workshops
-{: .myh3}
 
 - N. Anandakumar, T. Peyrin, A. Poschmann, "*A Very Compact FPGA Implementation of LED and PHOTON*" - **INDOCRYPT 2014**
 - J. Guo, J. Jean, I. Nikolić, Y. Sasaki, "*Meet-in-the-Middle Attacks on Generic Feistel Constructions*"  
@@ -259,10 +242,8 @@ in RSA Conference Cryptographers' Track - **CT-RSA 2014**
 --- 
 
 # 2013
-{: .myh1}
 
 ### International Conferences and Workshops
-{: .myh3}
 
 - P-A. Fouque, P. Karpman, "*Security Amplification against Meet-in-the-Middle Attacks Using Whitening*" - **IMA CC 2013**
 - G. Leurent, T. Peyrin, L. Wang, "*New Generic Attacks Against Hash-based MACs*"  
@@ -300,10 +281,8 @@ in International Conference on Security and Cryptography - **SECRYPT 2013**
 
 --- 
 # 2012
-{: .myh1}
 
 ### International Conferences and Workshops
-{: .myh3}
 
 - T. Peyrin, Y. Sasaki, L. Wang, "*Generic Related-key Attacks for HMAC*"  
 in Advances in Cryptology - **ASIACRYPT 2012**
