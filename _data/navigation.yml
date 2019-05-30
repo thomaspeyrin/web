@@ -9,6 +9,10 @@ main:
     url: /positions/
 
 docs:
+  - title: " "   
+    image: /assets/images/ntu-logo-blue-transparent-side.png
+    image_alt: "image"
+    
   - title: News
     url: /
 
