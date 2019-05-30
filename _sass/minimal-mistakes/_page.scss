@@ -77,7 +77,19 @@
   dl {
     //font-size: 1em;
     margin: 0.2;
-    font-size: 15px;
+    font-size: 9px;   
+
+     @include breakpoint($medium) {
+       font-size: 11px; // change to whatever
+     }
+
+     @include breakpoint($large) {
+       font-size: 13px; // change to whatever
+     }
+
+     @include breakpoint($x-large) {
+       font-size: 15px; // change to whatever
+     }      
   }
 
   /* paragraph indents */
