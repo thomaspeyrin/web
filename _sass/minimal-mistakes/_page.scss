@@ -67,23 +67,57 @@
 }
 
 .page__content {
-  h2 {
+   h1 {   
+    font-size: 20px;   
+    color: #1976d2;
+
+    @include breakpoint($medium) {
+      font-size: 22px; // change to whatever
+    }
+
+    @include breakpoint($large) {
+      font-size: 24px; // change to whatever
+    }
+
+    @include breakpoint($x-large) {
+      font-size: 26px; // change to whatever
+    }      
+  }
+   
+   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
-     font-size: 17px;   
-     color: #1976d2
+    font-size: 17px;   
+    color: #1976d2;
 
-     @include breakpoint($medium) {
-       font-size: 19px; // change to whatever
-     }
+    @include breakpoint($medium) {
+      font-size: 19px; // change to whatever
+    }
 
-     @include breakpoint($large) {
-       font-size: 21px; // change to whatever
-     }
+    @include breakpoint($large) {
+      font-size: 21px; // change to whatever
+    }
 
-     @include breakpoint($x-large) {
-       font-size: 23px; // change to whatever
-     }      
+    @include breakpoint($x-large) {
+      font-size: 23px; // change to whatever
+    }      
+  }
+   
+  h3 {
+    font-size: 14px;   
+    color: #1976d2;
+
+    @include breakpoint($medium) {
+      font-size: 16px; // change to whatever
+    }
+
+    @include breakpoint($large) {
+      font-size: 18px; // change to whatever
+    }
+
+    @include breakpoint($x-large) {
+      font-size: 20px; // change to whatever
+    }      
   }
 
   p,
