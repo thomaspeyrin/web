@@ -10,7 +10,6 @@ sidebar:
 ---
 
 # Available Positions
-{: .myh1}
 
 We are seeking candidates for **research fellow** (from fresh post-docs to senior research fellows) and **PhD student** positions in the areas of:
 - symmetric key cryptography
