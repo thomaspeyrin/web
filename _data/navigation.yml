@@ -8,11 +8,7 @@ main:
   - title: "Available Positions"
     url: /positions/
 
-docs:
-  - title: " "   
-    image: /assets/images/ntu-logo-blue-transparent-side.png
-    image_alt: "image"
-    
+docs:    
   - title: News
     url: /
 
