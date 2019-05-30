@@ -10,26 +10,22 @@ sidebar:
 ---
 
 # Faculty
-{: .myh1}
 
 - **[Thomas Peyrin](https://sites.google.com/site/thomaspeyrin/)**
 
 
 # Postdocs
-{: .myh1}
 
 - **[David Gerault](http://www.gerault.net/)**
 
 
 # Researchers
-{: .myh1}
 
 - **Sonu Kumar Jha**
 - **Zakaria Najm**
 
 
 # PhD Students
-{: .myh1}
 
 - **Anubhab Baksi**
 - **[Mustafa Khairallah](https://www.mustafa-khairallah.com/)**
@@ -38,7 +34,6 @@ sidebar:
 
 
 # Visitors
-{: .myh1}
 
 - Yu Sasaki (NTT, Japan) - 28/01/2019 to 22/02/2019
 - Ling Sun (Shandong University) - 06/02/2018 to 05/02/2019
@@ -58,7 +53,6 @@ sidebar:
 - Yu Sasaki (NTT, Japan) - 01/07/2012 to 05/07/2012
 
 # Alumni
-{: .myh1}
 
 - Vesselin Velichkov (The University of Edinburgh, UK) - 05/2017 to 01/2019
 - Siang Meng Sim (DSO Laboratories, Singapore) - 01/2014 to 01/2018
