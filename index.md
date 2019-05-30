@@ -3,12 +3,15 @@ layout: single
 toc: false
 classes: wide
 sidebar:
-  - title: " "
-    @include mq(small) {
+  @include mq(small) {
+    nav: "docs"
+    }
+  @include mq(xlarge) {
+    - title: " "   
       image: /assets/images/ntu-logo-blue-transparent-side.png
       image_alt: "image"
-    }
     nav: "docs"
+    }  
 ---
 
 Welcome to the **Symmetric Key and Lightweight Cryptography Lab** (**SyLLab**) page.
