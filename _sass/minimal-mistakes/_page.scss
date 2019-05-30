@@ -76,7 +76,8 @@
   li,
   dl {
     //font-size: 1em;
-    font-size: 1.8px;
+    margin: 0;
+    font-size: 12px;
   }
 
   /* paragraph indents */
@@ -122,12 +123,6 @@
   blockquote + .small {
     margin-top: -1.5em;
     padding-left: 1.25rem;
-  }
-}
-
-.article-wrap {
-  p {
-    font-size: 1.8px;
   }
 }
 
