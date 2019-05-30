@@ -14,16 +14,19 @@ sidebar:
 
 ### Journals 
 
+- P. Ravi, S. S. Gupta, A. Chattopadhyay, M. Khairallah, Z. Najm, S. Bhasin, "*Security is an Architectural Design Constraint*"  
+in **The Journal of Microprocessors and Microsystems**
 - H. Wang, T. Peyrin, "*Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2019-1 / Fast Software Encryption - **FSE 2019** 
 
 ### International Conferences and Workshops 
 
+- M. Khairallah, S. Bhasin, A. Chattopadhyay, "*On Misuse of Nonce-Misuse Resistance: Adapting Differential Fault Attacks on (few) CAESAR Winners*"  
+in IEEE International Workshop on Advances in Sensors and Interfaces - **IWASI 2019**
 - M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin, T. Peyrin, "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*"  
 in ACM ASIA Conference on Computer and Communications Security - **AsiaCCS 2019**
 - G. Leurent, T. Peyrin, "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*"  
 in Advances in Cryptology - **EUROCRYPT 2019**
-
 
 ---
 
