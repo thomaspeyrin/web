@@ -6,7 +6,7 @@ sidebar:
   @include mq(small) {
     nav: "docs"
     }
-  @include mq(xlarge) {
+  @include mq(x-large) {
     - title: " "   
       image: /assets/images/ntu-logo-blue-transparent-side.png
       image_alt: "image"
