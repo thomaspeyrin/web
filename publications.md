@@ -11,7 +11,6 @@ sidebar:
 
 
 # 2019  
-{: .myh1}
 
 ### Journals 
 {: .myh3}
