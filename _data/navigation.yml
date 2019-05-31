@@ -3,6 +3,8 @@ main:
     url: /
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Resume"
     url: /resume/
   - title: Syllab
@@ -30,7 +32,9 @@ docs:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /research/
+    url: /research/  
+  - title: "Publications"
+    url: /publications/
   - title: "Resume"
     url: /resume/
   - title: Syllab
