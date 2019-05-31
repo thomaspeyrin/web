@@ -7,6 +7,14 @@
    ========================================================================== */
 
 .sidebar {
+   img {
+    display: none;
+
+    @include breakpoint($large) {
+      display: block;
+    }
+   }
+   
   @include clearfix();
   @include breakpoint(max-width $large) {
     /* fix z-index order of follow links */
