@@ -11,15 +11,14 @@ sidebar:
     nav: "research"
 ---
 
-Welcome to the **Symmetric Key and Lightweight Cryptography Lab** (**SyLLab**) page.
+I am an Associate Professor and lead the [**SYmmetric and Lightweight cryptography Lab (SYLLAB)**](https://syllab-ntu.github.io/syllab/) at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore since April 2012. 
 
-We are part of the *School of Physical and Mathematical Sciences* of **Nanyang Technological University**, Singapore. The lab is led by Prof. Thomas Peyrin and its research scope is cryptography in general, with a special focus on the analysis, design and implementation of symmetric-key primitives (hash functions, block and stream ciphers, MACs, etc) and lightweight cryptography. 
+Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (former France Télécom R&D) and University of Versailles under the supervision of Henri Gilbert and Marc Girault. I also worked two years at [Ingenico](http://www.ingenico.com/) as Cryptography Expert, and at [Nanyang Technological University](http://www.ntu.edu.sg/) as Research Fellow. My main research topic is the design and the cryptanalysis of hash functions, and more generally symmetric cryptography primitives.
 
 ---
 
 # News
 
-- \[Apr. 19\] Our paper "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*" accepted to AsiaCCS 2019
 - \[Mar. 19\]  8 submissions from SyLLab to the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography):
   - GIFT-COFB
   - PHOTON-BEETLE
@@ -30,7 +29,7 @@ We are part of the *School of Physical and Mathematical Sciences* of **Nanyang T
   - SUNDAE-GIFT
   - TGIF
 - \[Feb. 19\] **[Deoxys-II](https://sites.google.com/view/deoxyscipher) winner of the [CAESAR competition](http://competitions.cr.yp.to/caesar-submissions.html) (Portfolio "Defense in depth")**
-- \[Jan. 19\] Our paper "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*" accepted to Eurocrypt 2019 
+- \[Jan. 19\] Article "*From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1*" accepted to Eurocrypt 2019 
 
 
 ---
