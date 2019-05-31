@@ -8,7 +8,7 @@ sidebar:
     image_alt: "image"
     nav: "docs"
   - title: " "
-  - title: "Yo"
+  - title: "<p style="color:#FF0000";>Red text</p>"
 ---
 
 Welcome to the **Symmetric Key and Lightweight Cryptography Lab** (**SyLLab**) page.
