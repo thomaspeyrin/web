@@ -6,7 +6,9 @@ sidebar:
   - title: " "   
     image: /assets/images/ntu-logo-blue-transparent-side.png
     image_alt: "image"
-    nav: "docs"   
+    nav: "docs"
+  - title: " "
+  - title: "Yo"
 ---
 
 Welcome to the **Symmetric Key and Lightweight Cryptography Lab** (**SyLLab**) page.
