@@ -11,7 +11,7 @@ main:
 research:
   - title: "Research highlights"
     children:
-      - title: "<span style="color:red">Deoxys</span> (CAESAR winner)"
+      - title: "Deoxys (CAESAR winner)"
         url: "https://sites.google.com/view/deoxyscipher"
       - title: "Skinny"
         url: "https://sites.google.com/site/skinnycipher/"
