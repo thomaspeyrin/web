@@ -10,13 +10,21 @@ main:
 
 research:
   - title: "Research highlights"
-    text: "[Deoxys](https://sites.google.com/view/deoxyscipher") ([CAESAR winner](https://competitions.cr.yp.to/caesar-submissions.html))  
-    [Skinny](https://sites.google.com/site/skinnycipher/)  
-    [GIFT](https://giftcipher.github.io/gift/)"
-  - title: "PHOTON (ISO/IEC 29192-5:2016)"
-    url: "https://sites.google.com/site/photonhashfunction/"
-  - title: "LED"
-    url: "https://sites.google.com/site/ledblockcipher/"
+    children:
+      - title: "Deoxys"
+        url: "https://sites.google.com/view/deoxyscipher"
+        text: "[CAESAR winner](https://competitions.cr.yp.to/caesar-submissions.html)"
+      - title: "Skinny"
+        url: "https://sites.google.com/site/skinnycipher/"
+      - title: "GIFT"
+        url: "https://giftcipher.github.io/gift/"
+      - title: "PHOTON"
+        url: "https://sites.google.com/site/photonhashfunction/"
+        text: "ISO/IEC 29192-5:2016"
+      - title: "LED"
+        url: "https://sites.google.com/site/skinnycipher/"
+      - title: "Skinny"
+        url: "https://sites.google.com/site/ledblockcipher/"
 
 docs:    
   - title: News
