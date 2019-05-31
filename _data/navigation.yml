@@ -1,12 +1,12 @@
 main:
-  - title: "News"
+  - title: "Home"
     url: /
-  - title: "Members"
-    url: /members/
-  - title: "Publications"
-    url: /publications/
-  - title: "Available Positions"
-    url: /positions/
+  - title: "Research"
+    url: /research/
+  - title: "Resume"
+    url: /resume/
+  - title: Syllab
+    url: "https://syllab-ntu.github.io/syllab/"
 
 research:
   - title: "Research highlights"
@@ -27,71 +27,12 @@ research:
         url: "https://sites.google.com/site/itstheshappening/"
    
 docs:    
-  - title: News
+  - title: "Home"
     url: /
-
-  - title: Members
-    url: /members/
-        
-  - title: Publications
-    url: /publications/
-
-  - title: Available Positions
-    url: /positions/
+  - title: "Research"
+    url: /research/
+  - title: "Resume"
+    url: /resume/
+  - title: Syllab
+    url: "https://syllab-ntu.github.io/syllab/"
     
-docsm:
-  - title: News
-    url: /
-
-  - title: Members
-    url: /members/
-    children:
-      - title: "Faculty"
-        url: /members/#faculty
-      - title: "Postdocs"
-        url: /members/#postdocs
-      - title: "Researchers"
-        url: /members/#researchers
-      - title: "PhD Students"
-        url: /members/#phd-students
-      - title: "Visitors"
-        url: /members/#visitors      
-      - title: "Alumni"
-        url: /members/#alumni 
-        
-  - title: Publications
-    url: /publications/
-
-  - title: Available Positions
-    url: /positions/
-
-docsp:
-  - title: News
-    url: /
-
-  - title: Members
-    url: /members/
-        
-  - title: Publications
-    url: /publications/
-    children:
-      - title: "2019"
-        url: /publications/#2019
-      - title: "2018"
-        url: /publications/#2018
-      - title: "2017"
-        url: /publications/#2017
-      - title: "2016"
-        url: /publications/#2016
-      - title: "2015"
-        url: /publications/#2015
-      - title: "2014"
-        url: /publications/#2014
-      - title: "2013"
-        url: /publications/#2013
-      - title: "2012"
-        url: /publications/#2012
-
-  - title: Available Positions
-    url: /positions/
-
