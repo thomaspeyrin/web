@@ -11,22 +11,20 @@ main:
 research:
   - title: "Research highlights"
     children:
-      - title: "Crypto Designs"
-      children:
-        - title: "Deoxys (CAESAR winner)"
-          url: "https://sites.google.com/view/deoxyscipher"
-        - title: "Skinny"
-          url: "https://sites.google.com/site/skinnycipher/"
-        - title: "GIFT"
-          url: "https://giftcipher.github.io/gift/"
-        - title: "PHOTON (ISO/IEC)"      
-          url: "https://sites.google.com/site/photonhashfunction/"
-        - title: "LED"
-          url: "https://sites.google.com/site/ledblockcipher/"
-        - title: "SHA-1 chosen-prefix col."
-          url: "https://eprint.iacr.org/2019/459"
-        - title: "SHA-1 free-start col."
-          url: "https://sites.google.com/site/itstheshappening/"
+      - title: "Deoxys (CAESAR winner)"
+        url: "https://sites.google.com/view/deoxyscipher"
+      - title: "Skinny"
+        url: "https://sites.google.com/site/skinnycipher/"
+      - title: "GIFT"
+        url: "https://giftcipher.github.io/gift/"
+      - title: "PHOTON (ISO/IEC)"      
+        url: "https://sites.google.com/site/photonhashfunction/"
+      - title: "LED"
+        url: "https://sites.google.com/site/ledblockcipher/"
+      - title: "SHA-1 chosen-prefix col."
+        url: "https://eprint.iacr.org/2019/459"
+      - title: "SHA-1 free-start col."
+        url: "https://sites.google.com/site/itstheshappening/"
    
 docs:    
   - title: News
