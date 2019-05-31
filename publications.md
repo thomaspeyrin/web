@@ -15,7 +15,7 @@ sidebar:
 ### Journals 
 
 - P. Ravi, S. S. Gupta, A. Chattopadhyay, M. Khairallah, Z. Najm, S. Bhasin, "*Security is an Architectural Design Constraint*"  
-in **The Journal of Microprocessors and Microsystems**
+in **The Journal of Microprocessors and Microsystems** - 2019
 - H. Wang, T. Peyrin, "*Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys*"  
 in **IACR Transactions on Symmetric Cryptology** ToSC 2019-1 / Fast Software Encryption - **FSE 2019** 
 
