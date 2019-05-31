@@ -7,6 +7,8 @@ sidebar:
     image: /assets/images/ntu-logo-blue-transparent-side.png
     image_alt: "image"
     nav: "docsm"
+  - title: " "
+    nav: "research"
 ---
 
 # Faculty
