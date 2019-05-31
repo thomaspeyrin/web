@@ -6,7 +6,7 @@ sidebar:
   - title: " "
     image: /assets/images/ntu-logo-blue-transparent-side.png
     image_alt: "image"
-    nav: "docsm"
+    nav: "docs"
   - title: " "
     nav: "research"
 ---
