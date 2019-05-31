@@ -15,10 +15,10 @@ sidebar:
 # Resume
 
 ## Education
-- 2005 - 2008: **Ph.D Thesis in Cryptology** (3 years) at [Orange Labs](http://www.orange.com/en_EN/) (former France Télécom R&D) and [University of Versailles](http://www.uvsq.fr/) - with honours. 
-- 2004 - 2005: Master Parisien de Recherche en Informatique ([MPRI](http://mpri.master.univ-paris7.fr/)) - **Postgraduate degree** (1 year) following Master in Computer Science and involving four schools : University of Paris 7, École Polytechnique, École Normale Supérieure (Ulm and Cachan) - with honours.
-- 2003 - 2004: École Polytechnique Fédérale de Lausanne ([EPFL](http://www.epfl.ch/)) - Last year of engineering school done within the context of an exchange (Erasmus program).
-- 1999 - 2004: École Supérieure de Chimie Physique Électronique of Lyon ([CPE Lyon](http://www.cpe.fr/fr2/gb/default_gb.asp)), Section Electronic and Computer Science - **Master's degree** in a french engineering school - with honours.
+- __2005 - 2008__: **Ph.D Thesis in Cryptology** (3 years) at [Orange Labs](http://www.orange.com/en_EN/) (former France Télécom R&D) and [University of Versailles](http://www.uvsq.fr/) - with honours. 
+- __2004 - 2005__: Master Parisien de Recherche en Informatique ([MPRI](http://mpri.master.univ-paris7.fr/)) - **Postgraduate degree** (1 year) following Master in Computer Science and involving four schools : University of Paris 7, École Polytechnique, École Normale Supérieure (Ulm and Cachan) - with honours.
+- __2003 - 2004__: École Polytechnique Fédérale de Lausanne ([EPFL](http://www.epfl.ch/)) - Last year of engineering school done within the context of an exchange (Erasmus program).
+- __1999 - 2004__: École Supérieure de Chimie Physique Électronique of Lyon ([CPE Lyon](http://www.cpe.fr/fr2/gb/default_gb.asp)), Section Electronic and Computer Science - **Master's degree** in a french engineering school - with honours.
 
 ## Work Experience
 - August 2017 - present: Associate Professor, in [Nanyang Technological University](http://www.ntu.edu.sg/).
