@@ -19,19 +19,15 @@ research:
           url: "https://sites.google.com/site/skinnycipher/"
         - title: "GIFT"
           url: "https://giftcipher.github.io/gift/"
-        - title: "PHOTON"      
+        - title: "PHOTON (ISO/IEC)"      
           url: "https://sites.google.com/site/photonhashfunction/"
-        - title: "Skinny"
-          url: "https://sites.google.com/site/skinnycipher/"
         - title: "LED"
           url: "https://sites.google.com/site/ledblockcipher/"
-      - title: "Cryptanalysis"
-      children:
-        - title: "SHA-1 chosen-prefix collision"
+        - title: "SHA-1 chosen-prefix col."
           url: "https://eprint.iacr.org/2019/459"
-        - title: "SHA-1 free-start collision"
+        - title: "SHA-1 free-start col."
           url: "https://sites.google.com/site/itstheshappening/"
-
+   
 docs:    
   - title: News
     url: /
