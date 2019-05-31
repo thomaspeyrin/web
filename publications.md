@@ -21,6 +21,10 @@ in **IACR Transactions on Symmetric Cryptology** ToSC 2019-1 / Fast Software Enc
 
 ### International Conferences and Workshops 
 
+- D. Gerault, I. Boureanu, "*Distance bounding under different assumptions: opinion*"  
+in ACM Conference on Security and Privacy in Wireless and Mobile Networks - **WiSec 2019**
+- D. Gerault, I. Boureanu, "*Here and there at once, with my mobile phone!*"  
+in International Conference on Security and Cryptography - **Secrypt 2019**
 - M. Khairallah, S. Bhasin, A. Chattopadhyay, "*On Misuse of Nonce-Misuse Resistance: Adapting Differential Fault Attacks on (few) CAESAR Winners*"  
 in IEEE International Workshop on Advances in Sensors and Interfaces - **IWASI 2019**
 - M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin, T. Peyrin, "*SoK : On DFA Vulnerabilities of Substitution-Permutation Networks*"  
