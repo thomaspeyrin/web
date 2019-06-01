@@ -16,7 +16,7 @@ sidebar:
 
 ## 2019
 
-- "**Tweakable Block Cipher Based Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/docs/invited/LCD2019_slides.pdf)  
+- "**Tweakable Block Cipher Based Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/LCD2019_slides.pdf)  
 at [Lightweight Crypto Day 2019](http://www.cs.haifa.ac.il/~orrd/LWD/), Tel-Aviv, Israel, March 31st 2019
 
 
