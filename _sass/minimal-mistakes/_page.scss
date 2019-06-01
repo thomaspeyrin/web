@@ -69,7 +69,7 @@
 .page__content {
    h1 {   
     font-size: 20px;   
-    color: #f9b248;
+    color: #fc3a528;
 
     @include breakpoint($medium) {
       font-size: 22px; // change to whatever
@@ -88,7 +88,7 @@
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
     font-size: 16px;   
-    color: #f9b248;
+    color: #fc3a52;
 
     @include breakpoint($medium) {
       font-size: 18px; // change to whatever
@@ -105,7 +105,7 @@
    
   h3 {
     font-size: 14px;   
-    color: #f9b248;
+    color: #fc3a52;
 
     @include breakpoint($medium) {
       font-size: 16px; // change to whatever
