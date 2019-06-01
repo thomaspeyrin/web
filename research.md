@@ -85,7 +85,7 @@ at [TCCM-CACR 2016](http://www.cacrnet.org.cn/templates/H_second/index.aspx?node
 
 ## 2015
 
-- "**Free-start collision on full SHA-1**""
+- "**Free-start collision on full SHA-1**""  
 at [Huawei Security Research Workshop 2015](http://www.huawei.com), Singapore, December 17th 2015
 
 - "**Deoxys and Joltik**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/docs/invited/DIAC2015_slides.pdf)  
@@ -178,14 +178,14 @@ at [Séminaire de cryptographie de l'Université de Rennes](http://math2007.univ
 - "**Cryptanalyse des fonctions éponges**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/docs/invited/CaenSeminar2008_slides.pdf)  
 at [Séminaire de cryptographie de l'Université de Caen](http://users.info.unicaen.fr/%7Eflaguill/seminaire.html), Caen, France, November 20th 2008  
 
-- "**Security Analysis of Extended Sponge Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/docs/invited/EcryptHashWorkshop2008_slides.pdf) 
+- "**Security Analysis of Extended Sponge Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/docs/invited/EcryptHashWorkshop2008_slides.pdf)  
 at [ECRYPT Hash Workshop](http://www.lorentzcenter.nl/lc/web/2008/309/info.php3?wsid=309), Leiden, The Netherlands, June 4th 2008  
 
 
 ## 2007
 
 - "**Collisions on SHA-0 in One Hour**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/docs/invited/IPAWorkshop2007_slides.pdf)  
-at [IPA Cryptography Workshop, Tokyo, Japan, December 13rd 2007  
+at IPA Cryptography Workshop, Tokyo, Japan, December 13rd 2007  
 
 - "**Cryptanalysis of Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "slides")](https://thomaspeyrin.github.io/web/docs/invited/IPAForum2007_slides.pdf)  
 at [IPA Cryptography Forum](http://www.ipa.go.jp/security/event/2007/crypt-forum/index.html), Tokyo, Japan, December 12nd 2007 
