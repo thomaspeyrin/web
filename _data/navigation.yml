@@ -40,3 +40,20 @@ docs:
   - title: Syllab
     url: "https://syllab-ntu.github.io/syllab/"
     
+docssa:    
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+    children:
+      - title: "Scientific Activities"
+      url: /research/#scientific-activities
+      - title: "Invited Talks"
+      url: /research/#invited-talks
+  - title: "Publications"
+    url: /publications/
+  - title: "Resume"
+    url: /resume/
+  - title: Syllab
+    url: "https://syllab-ntu.github.io/syllab/"
+    
