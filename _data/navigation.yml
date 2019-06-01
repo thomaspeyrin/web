@@ -46,11 +46,6 @@ docssa:
     
   - title: "Research"
     url: /research/
-    children:
-      - title: "Scientific Activities"
-      url: /research/#scientific-activities
-      - title: "Invited Talks"
-      url: /research/#invited-talks
       
   - title: "Publications"
     url: /publications/
