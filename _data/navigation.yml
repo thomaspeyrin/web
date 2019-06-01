@@ -44,7 +44,6 @@ docssa:
   - title: "Home"
     url: /
   - title: "Research"
-    url: /research/
     children:
       - title: "Scientific Activities"
       url: /research/#scientific-activities
