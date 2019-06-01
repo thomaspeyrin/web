@@ -7,8 +7,6 @@ sidebar:
     image: /assets/images/ntu-logo-transparent-side.png
     image_alt: "image"
     nav: "docsp"
-  - title: " "
-    nav: "research"
 ---
 
 
