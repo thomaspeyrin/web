@@ -21,11 +21,6 @@ sidebar:
 - General Chair for [FSE 2013](http://fse2013.spms.ntu.edu.sg/)
 
 - Program Committee / Editorial Board for 
-[FSE 2016]("http://fse.rub.de")
-[ASIACRYPT 2017]("http://asiacrypt.iacr.org/2017")
-[ASIACRYPT 2018]("https://asiacrypt.iacr.org/2018")
-[ASK 2011]("http://www1.spms.ntu.edu.sg/~ask2011")
-[FSE 2013]("http://fse2013.spms.ntu.edu.sg")
   - [CRYPTO 2010]("http://www.iacr.org/conferences/crypto2010"), [CRYPTO 2012]("http://www.iacr.org/conferences/crypto2012"), [CRYPTO 2015]("http://www.iacr.org/conferences/crypto2015"), [CRYPTO 2016]("http://www.iacr.org/conferences/crypto2016"), [CRYPTO 2019]("http://www.iacr.org/conferences/crypto2019")
   - [EUROCRYPT 2012]("http://www.cs.bris.ac.uk/eurocrypt2012")
   - [ASIACRYPT 2011]("http://cist.korea.ac.kr/~asiacrypt2011/index.php?cont=home"), [ASIACRYPT 2014]("http://www.iacr.org/conferences/asiacrypt2014"), [ASIACRYPT 2016]("http://asiacrypt2016.com")
@@ -35,7 +30,7 @@ sidebar:
   - [INDOCRYPT 2013]("http://indocrypt.hbni.ac.in"), [INDOCRYPT 2014]("http://cse.iitkgp.ac.in/conf/INDOCRYPT2014"), [INDOCRYPT 2016]("https://sites.google.com/site/thomaspeyrin/goog_1654583412")
   - [WEWoRC 2011]("http://www.uni-weimar.de/cms/medien/mediensicherheit/weworc-2011/home.html"), [WeWORC 2013]("http://2013.weworc.eu"), [WeWORC 2015]("http://2015.weworc.eu")
   - [ACNS 2015]("http://acns2015.cs.columbia.edu"), [ACNS 2016]("http://acns2016.sccs.surrey.ac.uk"), [ACNS 2017]("https://cy2sec.comm.eng.osaka-u.ac.jp/acns2017"), [ACNS 2018]("https://www.cosic.esat.kuleuven.be/events/acns2018")
-  - ACISP 2016]("http://nsclab.org/acisp2016"), [ACISP 2017]("http://acisp.massey.ac.nz"), [ACISP 2018]("https://ssl.informatics.uow.edu.au/acisp2018")
+  - [ACISP 2016]("http://nsclab.org/acisp2016"), [ACISP 2017]("http://acisp.massey.ac.nz"), [ACISP 2018]("https://ssl.informatics.uow.edu.au/acisp2018")
   - [LatinCrypt 2014]("https://sites.google.com/site/latincrypt2014")
   - [SCN 2014]("http://www.di.unisa.it/conferences/SCN14"), [SCN 2018]("http://scn.di.unisa.it")
   - [COSADE 2015]("https://cosade.telecom-paristech.fr/cosade15/index.html"), [COSADE 2018]("http://www.cosade.org")
