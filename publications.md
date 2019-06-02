@@ -13,7 +13,7 @@ sidebar:
 
 # 2019
 
-## Journals
+### Journals
 
 - *H. Wang and T. Peyrin *  
 "**Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys**"  
@@ -23,7 +23,7 @@ paper
 
 # 2017
 
-## Journals
+### Journals
 
 - *J. Jean, T. Peyrin and S. M. Sim *  
 "**Optimizing Implementations of Lightweight Building Blocks**"  
@@ -48,7 +48,7 @@ eprint
 
 # 2016
 
-## Journals
+### Journals
 
 - *F.Landelle and T. Peyrin*  
 "**Cryptanalysis of Full RIPEMD-128**"  
@@ -58,7 +58,7 @@ eprint
 
 # 2015
 
-## Journals
+### Journals
 
 - *T. Peyrin*  
 "**Collision Attack on Grindahl**"  
@@ -68,7 +68,7 @@ eprint
 
 # 2014
 
-## Journals
+### Journals
 
 - *J. Jean, M. Naya-Plasencia and T. Peyrin*  
 "**Improved Cryptanalysis of AES-like Permutations**"  
@@ -78,7 +78,7 @@ eprint
 
 # 2009
 
-## Journals
+### Journals
 
 - *J. Yajima, T. Iwasaki, Y.Naito, Y. Sasaki, T. Shimoyama, T. Peyrin, N. Kunihiro and K. Ohta*  
 "**A Strict Evaluation on the Number of Conditions for SHA-1 Collision Search**"  
@@ -89,7 +89,7 @@ paper
 
 # 2019
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin and T. Peyrin *  
 "**SoK : On DFA Vulnerabilities of Substitution-Permutation Networks**"  
@@ -107,7 +107,7 @@ in Fast Software Encryption - FSE 2019 and Transactions on Symmetric Cryptology 
 
 # 2018
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *M. Khairallah, Z. Najm, A. Chattopadhyay and T. Peyrin *  
 "**Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey**"  
@@ -147,7 +147,7 @@ eprint
 
 # 2017
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *M. Khairallah, A. Chattopadhyay and T. Peyrin*  
 "**Looting the LUTs: FPGA Optimization of AES and AES-like Ciphers for Authenticated Encryption**"  
@@ -172,7 +172,7 @@ in Advances in Cryptology - CRYPTO 2017 [![](https://thomaspeyrin.github.io/web/
 
 # 2016
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich, S.M. Sim*  
 "**The SKINNY Family of Block Ciphers and its Low-Latency Variant MANTIS**"  
@@ -192,7 +192,7 @@ eprint - website
 
 # 2015
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *C. Blondeau, T. Peyrin, and L. Wang*  
 "**Known-key Distinguisher on Full PRESENT**"  
@@ -217,7 +217,7 @@ in Fast Software Encryption - FSE 2015 [![](https://thomaspeyrin.github.io/web/a
 
 # 2014
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *N. Anandakumar, T. Peyrin and A. Poschmann*  
 "**A Very Compact FPGA Implementation of LED and PHOTON**"  
@@ -252,7 +252,7 @@ in Advances in Cryptology - EUROCRYPT 2014 [![](https://thomaspeyrin.github.io/w
 
 # 2013
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *G. Leurent, T. Peyrin and L. Wang*  
 "**New Generic Attacks Against Hash-based MACs**"  
@@ -300,7 +300,7 @@ in Fast Software Encryption - FSE 2013  [![](https://thomaspeyrin.github.io/web/
 
 # 2012
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *T. Peyrin, Y. Sasaki and L. Wang*  
 "**Generic Related-key Attacks for HMAC**"  
@@ -333,7 +333,7 @@ paper -
 
 # 2011
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *J. Guo, T. Peyrin, A. Poschmann and M. Robshaw*  
 "**The LED Block Cipher**"  
@@ -357,7 +357,7 @@ paper -
 
 # 2010
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *E. Brier and T. Peyrin*  
 "**A Forward-Secure Symmetric-Key Derivation Protocol - How to Improve Classical DUKPT**"  
@@ -394,7 +394,7 @@ paper -
 
 # 2009
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *N. Mouha, G. Sekar, J-P. Aumasson, T. Peyrin, S. Thomsen, M. S. Turan and B. Preneel*  
 "**Cryptanalysis of the ESSENCE Family of Hash Functions**"  
@@ -426,7 +426,7 @@ paper -
 
 # 2008
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *M. Gorski, S. Lucks and T. Peyrin*  
 "**Slide Attacks on a Class of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/fse2008/50860017/50860017.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gorski-etal-AsiaCrypt2008_slides.pdf)  
@@ -443,7 +443,7 @@ in Fast Software Encryption - FSE 2008
 
 # 2007
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *T. Peyrin (- Best Paper Award -)*  
 "**Cryptanalysis of Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2007/48330554/48330554.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-AsiaCrypt2007_slides.pdf)  
@@ -476,7 +476,7 @@ in Fast Software Encryption - FSE 2007
 
 # 2006
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *T. Peyrin, H. Gilbert, F. Muller and M. Robshaw*  
 "**Combining Compression Functions and Block Cipher-Based Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/asiacrypt2006/42840317/42840317.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-AsiaCrypt2006_slides.pdf)  
@@ -489,7 +489,7 @@ in International Conference on Information Security and Cryptology - ICISC 2006
 
 # 2005
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *F. Muller and T. Peyrin*  
 "**Linear Cryptanalysis of the TSC family of Stream Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2005/368/368.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Muller-Peyrin-AsiaCrypt2005_slides.ppt)  
@@ -502,7 +502,7 @@ in Security and Privacy in the Age of Ubiquitous Computing - SEC 2005
 
 # 2004
 
-## International Conferences and Workshops 
+### International Conferences and Workshops 
 
 - *G. Avoine, J. Monnerat and T. Peyrin*  
 "**Advances in Alternative Non-Adjacent Form Representations**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Avoine-etal-IndoCrypt2004.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Avoine-etal-IndoCrypt2004_slides.pdf)  
