@@ -177,7 +177,7 @@ in [Journal of Cryptology - October 2014 ](http://link.springer.com/article/10.1
 "**A Very Compact FPGA Implementation of LED and PHOTON**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/738.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Anandakumar-etal-INDOCRYPT2014_slides.pdf)  
 in Progress in Cryptology - [INDOCRYPT 2014](http://cse.iitkgp.ac.in/conf/INDOCRYPT2014/)  
  
-- *J. Jean, I. Nikolic and T. Peyrin*  <span style="color:red"><strong>(- Deoxys-II WINNER of the CAESAR competition - Use case 3 -)</strong></span>   
+- *J. Jean, I. Nikolic and T. Peyrin*  <span style="color:red"><strong>(- Deoxys-II WINNER of the [CAESAR](https://competitions.cr.yp.to/caesar-submissions.html) competition - Use case 3 -)</strong></span>   
 "**Tweaks and Keys for Block Ciphers: the TWEAKEY Framework**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/831.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-ASIACRYPT2014_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/view/deoxyscipher)  
 in Advances in Cryptology - [ASIACRYPT 2014](http://des.cse.nsysu.edu.tw/asiacrypt2014/)   
 
