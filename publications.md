@@ -220,34 +220,28 @@ in Fast Software Encryption - FSE 2015 [![](https://thomaspeyrin.github.io/web/a
 ### International Conferences and Workshops 
 
 - *N. Anandakumar, T. Peyrin and A. Poschmann*  
-"**A Very Compact FPGA Implementation of LED and PHOTON**"  
-in Progress in Cryptology - INDOCRYPT 2014 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/738.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Anandakumar-etal-INDOCRYPT2014_slides.pdf)
+"**A Very Compact FPGA Implementation of LED and PHOTON**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/738.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Anandakumar-etal-INDOCRYPT2014_slides.pdf)  
+in Progress in Cryptology - INDOCRYPT 2014 
  
-
-- *J. Jean, I. Nikolic and T. Peyrin   (- Deoxys-II WINNER of the CAESAR competition - Use case 3 -)*  
-"**Tweaks and Keys for Block Ciphers: the TWEAKEY Framework**"  
-in Advances in Cryptology - ASIACRYPT 2014 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/831.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-ASIACRYPT2014_slides.pdf)
- - website
+- *J. Jean, I. Nikolic and T. Peyrin*  <span style="color:red"><strong>(- Deoxys-II WINNER of the CAESAR competition - Use case 3 -)</strong></span>   
+"**Tweaks and Keys for Block Ciphers: the TWEAKEY Framework**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/831.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-ASIACRYPT2014_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/view/deoxyscipher)  
+in Advances in Cryptology - ASIACRYPT 2014  
 
 - *K. Khoo, T. Peyrin, A. Poschmann and H. Yap*  
-"**FOAM: Searching for Hardware-Optimal SPN Structures and Components with a Fair Comparison**"  
-in Cryptographic Hardware and Embedded System - CHES 2014 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/530.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Khoo-etal-CHES2014_slides.pptx)
-
+"**FOAM: Searching for Hardware-Optimal SPN Structures and Components with a Fair Comparison**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/530.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Khoo-etal-CHES2014_slides.pptx)  
+in Cryptographic Hardware and Embedded System - CHES 2014  
 
 - *J. Guo, T. Peyrin, Y. Sasaki and L. Wang*  
-"**Updates on Generic Attacks against HMAC and NMAC**"  
-in Advances in Cryptology - CRYPTO 2014  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-CRYPTO2014_slides.pdf)
-slides 
+"**Updates on Generic Attacks against HMAC and NMAC**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/crypto2014/86160312/86160312.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-CRYPTO2014_slides.pdf)  
+in Advances in Cryptology - CRYPTO 2014  
 
 - *J. Guo, J. Jean, G. Leurent, T. Peyrin and L. Wang*  
-"**The Usage of Counter Revisited: Second-Preimage Attack on New Russian Standardized Hash Function**"  
-in Selected Areas of Cryptography - SAC 2014 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/675.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-SAC2014_slides.pdf)
-
+"**The Usage of Counter Revisited: Second-Preimage Attack on New Russian Standardized Hash Function**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/675.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-SAC2014_slides.pdf)  
+in Selected Areas of Cryptography - SAC 2014  
 
 - *T. Peyrin and L. Wang*  
-"**Generic Universal Forgery Attack on Iterative Hash-based MACs**"  
-in Advances in Cryptology - EUROCRYPT 2014 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/403.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-EUROCRYPT2014_slides.pdf)
-
+"**Generic Universal Forgery Attack on Iterative Hash-based MACs**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/403.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-EUROCRYPT2014_slides.pdf)  
+in Advances in Cryptology - EUROCRYPT 2014  
 
 
 # 2013
@@ -255,47 +249,40 @@ in Advances in Cryptology - EUROCRYPT 2014 [![](https://thomaspeyrin.github.io/w
 ### International Conferences and Workshops 
 
 - *G. Leurent, T. Peyrin and L. Wang*  
-"**New Generic Attacks Against Hash-based MACs**"  
-in Advances in Cryptology - ASIACRYPT 2013 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/406.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-ASIACRYPT2013_slides.pdf)
-
+"**New Generic Attacks Against Hash-based MACs**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/406.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-ASIACRYPT2013_slides.pdf)  
+in Advances in Cryptology - ASIACRYPT 2013  
 
 - *F. Mendel, T. Peyrin, M. Schläffer, L. Wang and S. Wu*  
-"**Improved Cryptanalysis of Reduced RIPEMD-160**"  
-in Advances in Cryptology - ASIACRYPT 2013 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/600.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Mendel-etal-ASIACRYPT2013_slides.pdf)
-
+"**Improved Cryptanalysis of Reduced RIPEMD-160**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/600.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Mendel-etal-ASIACRYPT2013_slides.pdf)  
+in Advances in Cryptology - ASIACRYPT 2013  
 
 - *M. Iwamoto, T. Peyrin and Y. Sasaki*  
-"**Limited-birthday Distinguishers for Hash Functions - Collisions Beyond the Birthday Bound can be Meaningful**"  
-in Advances in Cryptology - ASIACRYPT 2013 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/611.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Iwamoto-etal-ASIACRYPT2013_slides.pdf)
-
+"**Limited-birthday Distinguishers for Hash Functions - Collisions Beyond the Birthday Bound can be Meaningful**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/611.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Iwamoto-etal-ASIACRYPT2013_slides.pdf)    
+in Advances in Cryptology - ASIACRYPT 2013  
 
 - *P.-A. Fouque, J. Jean and T. Peyrin*  
-"**Structural Evaluation of AES and Chosen-Key Distinguisher of 9-round AES-128**"  
-in Advances in Cryptology - CRYPTO 2013 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/366.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Fouque-etal-CRYPTO2013_slides.pdf)
-
+"**Structural Evaluation of AES and Chosen-Key Distinguisher of 9-round AES-128**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/366.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Fouque-etal-CRYPTO2013_slides.pdf)  
+in Advances in Cryptology - CRYPTO 2013  
 
 - *J. Jean, M. Naya-Plasencia and T. Peyrin*  
-"**Multiple Limited-Birthday Distinguishers and Applications**"  
-in Selected Areas of Cryptography - SAC 2013 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/521.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-SAC2013_slides.pdf)
-
+"**Multiple Limited-Birthday Distinguishers and Applications**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/521.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-SAC2013_slides.pdf)  
+in Selected Areas of Cryptography - SAC 2013  
 
 - *R. Benadjila, J. Guo, V. Lomné and T. Peyrin*  
-"**Implementing Lightweight Block Ciphers on x86 Architectures**"  
-in Selected Areas of Cryptography - SAC 2013 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/445.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Benadjila-etal-SAC2013_slides.pdf)
- - website
+"**Implementing Lightweight Block Ciphers on x86 Architectures**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/445.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Benadjila-etal-SAC2013_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/rb-anssi/lightweight-crypto-lib)   
+in Selected Areas of Cryptography - SAC 2013  
 
-- *F. Landelle and T. Peyrin  (- Invited to JoC -)*  
-"**Cryptanalysis of Full RIPEMD-128**"  
-in Advances in Cryptology - EUROCRYPT 2013 [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/607.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Landelle-Peyrin-EUROCRYPT2013_slides.pdf)
-eprint -
+- *F. Landelle and T. Peyrin*  <span style="color:red"><strong>(- Invited to JoC -)</strong></span>   
+"**Cryptanalysis of Full RIPEMD-128**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/607.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Landelle-Peyrin-EUROCRYPT2013_slides.pdf)  
+in Advances in Cryptology - EUROCRYPT 2013  
 
 - *F. Sagstetter, M. Lukasiewycz, S. Steinhorst, M. Wolf, A. Bouard, W. R. Harris, S. Jha, T. Peyrin, A. Poschmann and S. Chakraborty*  
-"**Security Challenges in Automotive Hardware/Software Architecture Design**"  
-in Design, Automation & Test in Europe - DATE 2013  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Sagstetter-etal-DATE2013_slides.pdf)
+"**Security Challenges in Automotive Hardware/Software Architecture Design**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Sagstetter-etal-DATE2013.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Sagstetter-etal-DATE2013_slides.pdf)  
+in Design, Automation & Test in Europe - DATE 2013  
 
 - *J. Jean, I. Nikolic, T. Peyrin, L. Wang and S. Wu*  
-"**Security Analysis of PRINCE**"  
-in Fast Software Encryption - FSE 2013  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-FSE2013_slides.pdf)
+"**Security Analysis of PRINCE**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/372.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-FSE2013_slides.pdf)  
+in Fast Software Encryption - FSE 2013  
 
 
 # 2012
@@ -314,7 +301,7 @@ in Progress in Cryptology - AFRICACRYPT 2012
 "**On the (In)Security of IDEA in Various Hashing Modes**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2012/264.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Lei-etal-FSE2012_slides.pdf)  
 in Fast Software Encryption - FSE 2012 
 
-- *J. Jean, M. Naya-Plasencia and T. Peyrin*  <span style="color:red">(- Best Paper Award -)</span>  
+- *J. Jean, M. Naya-Plasencia and T. Peyrin*  <span style="color:red"><strong>(- Best Paper Award -)</strong></span>  
 "**Improved Rebound Attack on the Finalist Grøstl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/fse2012/75490110/75490110.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-FSE2012_slides.pdf)  
 in Fast Software Encryption - FSE 2012  
 
@@ -431,7 +418,7 @@ in Fast Software Encryption - FSE 2008
 
 ### International Conferences and Workshops 
 
-- *T. Peyrin*  <span style="color:red">(- Best Paper Award -)</span>
+- *T. Peyrin*  <span style="color:red"><strong>(- Best Paper Award -)</strong></span>  
 "**Cryptanalysis of Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2007/48330554/48330554.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-AsiaCrypt2007_slides.pdf)  
 in Advances in Cryptology - ASIACRYPT 2007  
 
