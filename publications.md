@@ -314,7 +314,7 @@ in Progress in Cryptology - AFRICACRYPT 2012
 "**On the (In)Security of IDEA in Various Hashing Modes**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2012/264.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Lei-etal-FSE2012_slides.pdf)  
 in Fast Software Encryption - FSE 2012 
 
-- *J. Jean, M. Naya-Plasencia and T. Peyrin*  ***(- Best Paper Award -)***  
+- *J. Jean, M. Naya-Plasencia and T. Peyrin*  <span style="color:red">(- Best Paper Award -)</span>  
 "**Improved Rebound Attack on the Finalist Grøstl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/fse2012/75490110/75490110.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Jean-etal-FSE2012_slides.pdf)  
 in Fast Software Encryption - FSE 2012  
 
@@ -332,7 +332,7 @@ in Fast Software Encryption - FSE 2012
 ### International Conferences and Workshops 
 
 - *J. Guo, T. Peyrin, A. Poschmann and M. Robshaw*  
-"**The LED Block Cipher**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2012/600.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-CHES2011_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/photonhashfunction/home) 
+"**The LED Block Cipher**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2012/600.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-CHES2011_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/ledblockcipher/)  
 in Cryptographic Hardware and Embedded System - CHES 2011
 
 - *J. Guo, T. Peyrin and A. Poschmann*  
@@ -365,11 +365,11 @@ in Advances in Cryptology - CRYPTO 2010
 in Cryptographic Hardware and Embedded System - CHES 2010 
 
 - *J-P. Aumasson, E. Käsper, L. Knudsen, K. Matusiewicz, R. Ødegaard, T. Peyrin and M. Schläffer*  
-"**Distinguishers for the Compression Function and Output Transformation of Hamsi-256"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2010/091.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Aumasson-et-al-ACISP2010_slides.pdf)  
-in Australasian Conference on Information Security and Privacy - ACISP 2010** 
+"**Distinguishers for the Compression Function and Output Transformation of Hamsi-256"**  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2010/091.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Aumasson-et-al-ACISP2010_slides.pdf)  
+in Australasian Conference on Information Security and Privacy - ACISP 2010  
 
 - *P. Gauravaram, G. Leurent, F. Mendel, M. Naya-Plasencia, T. Peyrin, C. Rechberger and M. Schläffer*  
-"**Cryptanalysis of the 10-Round Hash and Full Compression Function of SHAvite-3-512**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Gauravaram-etal-AfricaCrypt2010.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gauravaram-etal-AfricaCrypt2010_slides.pdf)
+"**Cryptanalysis of the 10-Round Hash and Full Compression Function of SHAvite-3-512**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Gauravaram-etal-AfricaCrypt2010.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gauravaram-etal-AfricaCrypt2010_slides.pdf)  
 in Progress in Cryptology - AFRICACRYPT 2010  
 
 - *H. Gilbert and T. Peyrin*  
@@ -386,7 +386,7 @@ in Fast Software Encryption - FSE 2010
 ### International Conferences and Workshops 
 
 - *N. Mouha, G. Sekar, J-P. Aumasson, T. Peyrin, S. Thomsen, M. S. Turan and B. Preneel*  
-"**Cryptanalysis of the ESSENCE Family of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Mouha-etal-InsCrypt2009.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Mouha-etal-InsCrypt2009_slides.pdf)
+"**Cryptanalysis of the ESSENCE Family of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Mouha-etal-InsCrypt2009.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Mouha-etal-InsCrypt2009_slides.pdf)  
 in International Conference on Information Security and Cryptology - INSCRYPT 2009 
 
 - *E. Brier, S. Khazaei, W. Meier and T. Peyrin*  
@@ -402,7 +402,7 @@ in Selected Areas of Cryptography - SAC 2009
 in Australasian Conference on Information Security and Privacy - ACISP 2009 
 
 - *E. Brier and T. Peyrin*  
-"**Cryptanalysis of CubeHash**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Brier-Peyrin-ACNS2009.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Brier-Peyrin-ACNS2009_slides.pdf) 
+"**Cryptanalysis of CubeHash**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Brier-Peyrin-ACNS2009.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Brier-Peyrin-ACNS2009_slides.pdf)  
 in Applied Cryptography and Network Security - ACNS 2009  
 
 - *T. Fuhr and T. Peyrin*  
@@ -431,7 +431,7 @@ in Fast Software Encryption - FSE 2008
 
 ### International Conferences and Workshops 
 
-- *T. Peyrin (- Best Paper Award -)*  
+- *T. Peyrin*  <span style="color:red">(- Best Paper Award -)</span>
 "**Cryptanalysis of Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2007/48330554/48330554.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-AsiaCrypt2007_slides.pdf)  
 in Advances in Cryptology - ASIACRYPT 2007  
 
