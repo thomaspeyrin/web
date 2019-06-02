@@ -429,7 +429,7 @@ paper -
 ## International Conferences and Workshops 
 
 - *M. Gorski, S. Lucks and T. Peyrin*  
-"**Slide Attacks on a Class of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/fse2008/50860017/50860017.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gorski-etal-AsiaCrypt2008_slides.pdf)
+"**Slide Attacks on a Class of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/fse2008/50860017/50860017.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gorski-etal-AsiaCrypt2008_slides.pdf)  
 in Advances in Cryptology - ASIACRYPT 2008 
 
 - *E. Bresson, B. Chevallier-Mames, C. Clavier, A. Gouget, P. Paillier and T. Peyrin*  
@@ -437,7 +437,7 @@ in Advances in Cryptology - ASIACRYPT 2008
 in Provable Security - ProvSec 2008 
 
 - *S. Manuel and T. Peyrin*  
-"**Collisions on SHA-0 in One Hour**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2008/263.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Manuel-Peyrin-FSE2008_slides.pdf) 
+"**Collisions on SHA-0 in One Hour**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2008/263.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Manuel-Peyrin-FSE2008_slides.pdf)  
 in Fast Software Encryption - FSE 2008  
 
 
@@ -446,15 +446,15 @@ in Fast Software Encryption - FSE 2008
 ## International Conferences and Workshops 
 
 - *T. Peyrin (- Best Paper Award -)*  
-"**Cryptanalysis of Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2007/48330554/48330554.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-AsiaCrypt2007_slides.pdf) 
+"**Cryptanalysis of Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2007/48330554/48330554.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-AsiaCrypt2007_slides.pdf)  
 in Advances in Cryptology - ASIACRYPT 2007  
 
 - *A. Joux and T. Peyrin*  
-"**Hash Functions and the (Amplified) Boomerang Attack**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/crypto2007/46220242/46220242.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Joux-Peyrin-CRYPTO2007_slides.pdf) 
+"**Hash Functions and the (Amplified) Boomerang Attack**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/crypto2007/46220242/46220242.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Joux-Peyrin-CRYPTO2007_slides.pdf)  
 in Advances in Cryptology - CRYPTO 2007  
 
 - *A. Joux and T. Peyrin*  
-"**Hash Functions and the (Amplified) Boomerang Attack**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Joux-Peyrin-EcryptHashWorkshop2007.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Joux-Peyrin-EcryptHashWorkshop2007_slides.pdf)
+"**Hash Functions and the (Amplified) Boomerang Attack**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Joux-Peyrin-EcryptHashWorkshop2007.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Joux-Peyrin-EcryptHashWorkshop2007_slides.pdf)  
 in ECRYPT Hash Workshop 2007   
 
 - *E. Bresson, B. Chevallier-Mames, C. Clavier, B. Debraize, P.-A. Fouque, L. Goubin, A. Gouget, G. Leurent, P. Q. Nguyen, P. Paillier, T. Peyrin and S. Zimmer*  
@@ -462,15 +462,15 @@ in ECRYPT Hash Workshop 2007
 in ECRYPT Hash Workshop 2007 
 
 - *O. Billet, M. Robshaw and T. Peyrin*  
-"**On Building Hash Functions From Multivariate Quadratic Equations**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Billet-etal-ACISP2007.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Billet-etal-ACISP2007_slides.pdf)
+"**On Building Hash Functions From Multivariate Quadratic Equations**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Billet-etal-ACISP2007.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Billet-etal-ACISP2007_slides.pdf)  
 in Australian Conference on Information Security and Privacy - ACISP 2007  
 
 - *Y. Seurin and T. Peyrin*  
-"**Security Analysis of Constructions Combining FIL Random Oracles**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/fse2007/45930117/45930117.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Seurin-Peyrin-FSE2007_slides.pdf) 
+"**Security Analysis of Constructions Combining FIL Random Oracles**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/fse2007/45930117/45930117.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Seurin-Peyrin-FSE2007_slides.pdf)  
 in Fast Software Encryption - FSE 2007  
 
 - *K. Matusiewicz, T. Peyrin, O. Billet, S. Contini and J. Pieprzyk*  
-"**Cryptanalysis of FORK-256**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/fse2007/45930019/45930019.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Matusiewicz-etal-FSE2007_slides.pdf)
+"**Cryptanalysis of FORK-256**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/fse2007/45930019/45930019.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Matusiewicz-etal-FSE2007_slides.pdf)  
 in Fast Software Encryption - FSE 2007  
 
 
@@ -479,7 +479,7 @@ in Fast Software Encryption - FSE 2007
 ## International Conferences and Workshops 
 
 - *T. Peyrin, H. Gilbert, F. Muller and M. Robshaw*  
-"**Combining Compression Functions and Block Cipher-Based Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/asiacrypt2006/42840317/42840317.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-AsiaCrypt2006_slides.pdf) 
+"**Combining Compression Functions and Block Cipher-Based Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/asiacrypt2006/42840317/42840317.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-AsiaCrypt2006_slides.pdf)  
 in Advances in Cryptology - ASIACRYPT 2006  
 
 - *F. Muller and T. Peyrin*  
@@ -497,8 +497,7 @@ in Advances in Cryptology - ASIACRYPT 2005
 
 - *T. Peyrin and S. Vaudenay*  
 "**The Pairing Problem with User Interaction**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Peyrin-Vaudenay-SEC2005.pdf)  
-in Security and Privacy in the Age of Ubiquitous Computing - SEC 2005 
-paper 
+in Security and Privacy in the Age of Ubiquitous Computing - SEC 2005  
 
 
 # 2004
@@ -523,15 +522,15 @@ in Progress in Cryptology - INDOCRYPT 2004
 # Thesis
 
 - *T. Peyrin*  
-"**Analyse de fonctions de hachage cryptographiques**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "report")](https://thomaspeyrin.github.io/web/assets/docs/papers/Peyrin-PhDThesis.pdf)
+"**Analyse de fonctions de hachage cryptographiques**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "report")](https://thomaspeyrin.github.io/web/assets/docs/papers/Peyrin-PhDThesis.pdf)  
 PhD thesis, University of Versailles, 2008  
 
 - *T. Peyrin*  
-"**Etude de la Sécurité des T-fonctions**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "report")](https://thomaspeyrin.github.io/web/assets/docs/papers/Peyrin-MasterThesis.pdf)
+"**Etude de la Sécurité des T-fonctions**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "report")](https://thomaspeyrin.github.io/web/assets/docs/papers/Peyrin-MasterThesis.pdf)  
 Master thesis, MPRI, 2005 
 
 - *T. Peyrin*  
-"**Bluetooth Security**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "report")](https://thomaspeyrin.github.io/web/assets/docs/papers/Peyrin-DiplomaThesis.ps)
+"**Bluetooth Security**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "report")](https://thomaspeyrin.github.io/web/assets/docs/papers/Peyrin-DiplomaThesis.ps)  
 Diploma thesis, CPE Lyon - EPFL, 2004  
 
 
