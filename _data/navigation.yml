@@ -66,6 +66,21 @@ docsp:
         url: /publications/#2013
       - title: "2012"
         url: /publications/#2012
+      - title: "2011"
+        url: /publications/#2011
+      - title: "2010"
+        url: /publications/#2010      
+      - title: before "2009"
+        url: /publications/#2009
+      - title: before "Preprints"
+        url: /publications/#preprints
+      - title: before "Thesis"
+        url: /publications/#thesis
+      - title: before "Articles in Magazines"
+        url: /publications/#articles-in-magazines        
+        
+        
+        Preprints
 
   - title: "Invited Talks"
     url: /invited/
