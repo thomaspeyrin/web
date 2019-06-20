@@ -25,7 +25,7 @@ sidebar:
   - [EUROCRYPT 2012]("http://www.cs.bris.ac.uk/eurocrypt2012")
   - [ASIACRYPT 2011]("http://cist.korea.ac.kr/~asiacrypt2011/index.php?cont=home"), [ASIACRYPT 2014]("http://www.iacr.org/conferences/asiacrypt2014"), [ASIACRYPT 2016]("http://asiacrypt2016.com")
   - [FSE 2011]("http://fse2011.mat.dtu.dk"), [FSE 2014]("http://fse2014.isg.rhul.ac.uk"), [FSE 2015]("http://light-sec.org/fse2015"), [FSE/ToSC 2017]("http://www.nuee.nagoya-u.ac.jp/labs/tiwata/fse2017"), [FSE/ToSC 2019]("https://fse.iacr.org/2019")
-  - [CHES 2016]("http://www.chesworkshop.org/ches2016/index.php"), [CHES 2018]("https://ches.iacr.org/2018"), [CHES 2019]("https://ches.iacr.org/2019")
+  - [CHES 2016]("http://www.chesworkshop.org/ches2016/index.php"), [CHES 2018]("https://ches.iacr.org/2018"), [CHES 2019]("https://ches.iacr.org/2019"), [CHES 2020]("https://ches.iacr.org/2020")
   - [SAC 2011]("http://sac2011.ryerson.ca")
   - [INDOCRYPT 2013]("http://indocrypt.hbni.ac.in"), [INDOCRYPT 2014]("http://cse.iitkgp.ac.in/conf/INDOCRYPT2014"), [INDOCRYPT 2016]("https://sites.google.com/site/thomaspeyrin/goog_1654583412")
   - [WEWoRC 2011]("http://www.uni-weimar.de/cms/medien/mediensicherheit/weworc-2011/home.html"), [WeWORC 2013]("http://2013.weworc.eu"), [WeWORC 2015]("http://2015.weworc.eu")
