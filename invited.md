@@ -16,6 +16,8 @@ sidebar:
 
 ## 2019
 
+- TBD at [ASK 2019](https://askworkshop.github.io/ask2019/), Kobe, Japan, December 13th 2019
+
 - "**Tweakable Block Cipher Based Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/LCD2019_slides.pdf)  
 at [Lightweight Crypto Day 2019](http://www.cs.haifa.ac.il/~orrd/LWD/), Tel-Aviv, Israel, March 31st 2019
 
