@@ -10,6 +10,22 @@ sidebar:
 ---
 
 
+# 2020
+
+### Journals
+
+- *Q. Q. Tan and T. Peyrin*  
+"**Improved Heuristics for Short Linear Programs**"   
+in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)
+
+
+### International Conferences and Workshops 
+
+- *Q. Q. Tan and T. Peyrin*  
+"**Improved Heuristics for Short Linear Programs**"   
+in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
+
+
 # 2019
 
 ### Journals
