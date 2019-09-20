@@ -25,6 +25,10 @@ in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.or
 "**Improved Heuristics for Short Linear Programs**"   
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
 
+- *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
+"**Updates on Romulus**"   
+in NIST Lightweight Cryptography Workshop 2019 - [NISTLWC 2019](https://csrc.nist.gov/Events/2019/lightweight-cryptography-workshop-2019)   
+
 
 # 2019
 
