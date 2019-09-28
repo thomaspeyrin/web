@@ -15,19 +15,19 @@ sidebar:
 ### Journals
 
 - *Q. Q. Tan and T. Peyrin*  
-"**Improved Heuristics for Short Linear Programs**"   
+"**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/thomaspeyrin/XORreduce)     
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)
 
 
 ### International Conferences and Workshops 
 
 - *Q. Q. Tan and T. Peyrin*  
-"**Improved Heuristics for Short Linear Programs**"   
+"**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/thomaspeyrin/XORreduce)   
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
 "**Updates on Romulus**"   
-in NIST Lightweight Cryptography Workshop 2019 - [NISTLWC 2019](https://csrc.nist.gov/Events/2019/lightweight-cryptography-workshop-2019)   
+in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.nist.gov/Events/2019/lightweight-cryptography-workshop-2019)   
 
 
 # 2019
@@ -46,7 +46,7 @@ in Fast Software Encryption - [FSE 2019](https://fse.iacr.org/2019/) and Transac
 in ACM ASIA Conference on Computer and Communications Security - [AsiaCCS 2019](https://asiaccs2019.blogs.auckland.ac.nz/)   
 
 - *G. Leurent and T. Peyrin*  
-"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-EUROCRYPT2019_slides.pdf)  
+"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-EUROCRYPT2019_slides.pdf.pdf)  
 in Advances in Cryptology - [EUROCRYPT 2019](https://eurocrypt.iacr.org/2019/)  
 
 - *H. Wang and T. Peyrin*  
