@@ -16,7 +16,7 @@ sidebar:
 
 ## 2019
 
-- "**SHA-1: Beating a Dead Horse**" 
+- "**SHA-1: Beating a Dead Horse**"   
 at [ASK 2019](https://askworkshop.github.io/ask2019/), Kobe, Japan, December 13th 2019
 
 - "**Tweakable Block Cipher Based Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/LCD2019_slides.pdf)  
