@@ -382,7 +382,7 @@ in Fast Software Encryption - [FSE 2009](https://www.cosic.esat.kuleuven.be/fse2
 ### International Conferences and Workshops 
 
 - *M. Gorski, S. Lucks and T. Peyrin*  
-"**Slide Attacks on a Class of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/fse2008/50860017/50860017.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gorski-etal-AsiaCrypt2008_slides.pdf)  
+"**Slide Attacks on a Class of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2008/263.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gorski-etal-AsiaCrypt2008_slides.pdf)  
 in Advances in Cryptology - [ASIACRYPT 2008](http://www.ics.mq.edu.au/conferences/asiacrypt2008/index.html)  
 
 - *E. Bresson, B. Chevallier-Mames, C. Clavier, A. Gouget, P. Paillier and T. Peyrin*  
@@ -390,7 +390,7 @@ in Advances in Cryptology - [ASIACRYPT 2008](http://www.ics.mq.edu.au/conference
 in Provable Security - [ProvSec 2008](http://cis.sjtu.edu.cn/ProvSec2008/)  
 
 - *S. Manuel and T. Peyrin*  
-"**Collisions on SHA-0 in One Hour**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2008/263.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Manuel-Peyrin-FSE2008_slides.pdf)  
+"**Collisions on SHA-0 in One Hour**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/fse2008/50860017/50860017.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Manuel-Peyrin-FSE2008_slides.pdf)  
 in Fast Software Encryption - [FSE 2008](http://fse2008.epfl.ch/)  
 
 
