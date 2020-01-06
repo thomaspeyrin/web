@@ -30,7 +30,7 @@ sidebar:
   - [INDOCRYPT 2013]("http://indocrypt.hbni.ac.in"), [INDOCRYPT 2014]("http://cse.iitkgp.ac.in/conf/INDOCRYPT2014"), [INDOCRYPT 2016]("https://sites.google.com/site/thomaspeyrin/goog_1654583412")
   - [WEWoRC 2011]("http://www.uni-weimar.de/cms/medien/mediensicherheit/weworc-2011/home.html"), [WeWORC 2013]("http://2013.weworc.eu"), [WeWORC 2015]("http://2015.weworc.eu")
   - [ACNS 2015]("http://acns2015.cs.columbia.edu"), [ACNS 2016]("http://acns2016.sccs.surrey.ac.uk"), [ACNS 2017]("https://cy2sec.comm.eng.osaka-u.ac.jp/acns2017"), [ACNS 2018]("https://www.cosic.esat.kuleuven.be/events/acns2018")
-  - [ACISP 2016]("http://nsclab.org/acisp2016"), [ACISP 2017]("http://acisp.massey.ac.nz"), [ACISP 2018]("https://ssl.informatics.uow.edu.au/acisp2018")
+  - [ACISP 2016]("http://nsclab.org/acisp2016"), [ACISP 2017]("http://acisp.massey.ac.nz"), [ACISP 2018]("https://ssl.informatics.uow.edu.au/acisp2018"), [ACISP 2019]("https://acisp19.canterbury.ac.nz/")
   - [LatinCrypt 2014]("https://sites.google.com/site/latincrypt2014")
   - [CSCML 2020]("https://www.cs.bgu.ac.il/~fradmin/cscml20/")
   - [SCN 2014]("http://www.di.unisa.it/conferences/SCN14"), [SCN 2018]("http://scn.di.unisa.it")
