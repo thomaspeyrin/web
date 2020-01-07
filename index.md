@@ -19,6 +19,7 @@ Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (
 
 # News
 
+- \[Jan. 20\] SHA-1 is a Shambles ! First chosen-prefix collision for SHA-1 and application to PGP Web of Trust: https://sha-mbles.github.io/ ([Ars Technica article](https://arstechnica.com/information-technology/2020/01/pgp-keys-software-security-and-much-more-threatened-by-new-sha1-exploit/)) 
 - \[Aug. 19\]  6 submissions from SyLLab selected for the 2nd round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/), [Pyjamask](https://pyjamask-cipher.github.io/), [Romulus](https://romulusae.github.io/romulus/), [SKINNY-AEAD/SKINNY-HASH](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny), SUNDAE-GIFT
 - \[Mar. 19\]  8 submissions from SyLLab to the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography):
   - [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/)
