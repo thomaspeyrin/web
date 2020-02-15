@@ -14,12 +14,20 @@ sidebar:
 
 ### Journals
 
+- *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
+"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"
+in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
 - *Q. Q. Tan and T. Peyrin*  
 "**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/thomaspeyrin/XORreduce)     
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)
 
 
 ### International Conferences and Workshops 
+
+- *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
+"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"
+in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *Q. Q. Tan and T. Peyrin*  
 "**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/thomaspeyrin/XORreduce)   
