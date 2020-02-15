@@ -14,8 +14,16 @@ sidebar:
 
 ### Journals
 
+- *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S. M. Sim*  
+"**SKINNY-AEAD and SKINNY-Hash**"   
+in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
+- *D. Goudarzi, J. Jean, S. Kölbl, T. Peyrin, M. Rivain, Y. Sasaki and S. M. Sim*  
+"**Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation**"   
+in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"
+"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"   
 in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *Q. Q. Tan and T. Peyrin*  
@@ -26,7 +34,7 @@ in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.or
 ### International Conferences and Workshops 
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"
+"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"   
 in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *Q. Q. Tan and T. Peyrin*  
