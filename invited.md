@@ -14,6 +14,11 @@ sidebar:
 
 # Invited Talks
 
+## 2020
+
+- "**TBA**"   
+at [FSE 2020](https://fse.iacr.org/2020/), Athens, Greece, March 23th 2020
+
 ## 2019
 
 - "**SHA-1: Beating a Dead Horse**"   
