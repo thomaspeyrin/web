@@ -37,6 +37,10 @@ in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.or
 
 ### International Conferences and Workshops 
 
+- *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
+"**NeuroGIFT : Using a Machine Learning Based Sat Solver for Cryptanalysis**"   
+in International Symposium on Cyber Security Cryptology and Machine Learning - [CSCML 2020](https://www.cs.bgu.ac.il/~fradmin/cscml20/index.html)   
+
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
 "**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"   
 in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
