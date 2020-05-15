@@ -37,6 +37,10 @@ in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.or
 
 ### International Conferences and Workshops 
 
+- *T. Peyrin and H. Wang*  
+"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  
+in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
+
 - *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
 "**NeuroGIFT : Using a Machine Learning Based Sat Solver for Cryptanalysis**"   
 in International Symposium on Cyber Security Cryptology and Machine Learning - [CSCML 2020](https://www.cs.bgu.ac.il/~fradmin/cscml20/index.html)   
