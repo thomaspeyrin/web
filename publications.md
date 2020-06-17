@@ -12,7 +12,13 @@ sidebar:
 
 # 2020
 
-### Journals
+- *T. Peyrin and H. Wang*  
+"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  
+in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
+
+- *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
+"**NeuroGIFT : Using a Machine Learning Based Sat Solver for Cryptanalysis**"   
+in International Symposium on Cyber Security Cryptology and Machine Learning - [CSCML 2020](https://www.cs.bgu.ac.il/~fradmin/cscml20/index.html)   
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S. M. Sim*  
 "**SKINNY-AEAD and SKINNY-Hash**"   
@@ -21,29 +27,6 @@ in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST 
 - *D. Goudarzi, J. Jean, S. Kölbl, T. Peyrin, M. Rivain, Y. Sasaki and S. M. Sim*  
 "**Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation**"   
 in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
-
-- *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"   
-in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
-
-- *A. Adomnicai, Z. Najm and T. Peyrin*  
-"**Fixslicing: A New GIFT Representation**" [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/412.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/aadomn/gift)     
-in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-3](http://tches.iacr.org/index.php/tches/issue/archive)
-
-- *Q. Q. Tan and T. Peyrin*  
-"**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/847.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/thomaspeyrin/XORreduce)     
-in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)
-
-
-### International Conferences and Workshops 
-
-- *T. Peyrin and H. Wang*  
-"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  
-in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
-
-- *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
-"**NeuroGIFT : Using a Machine Learning Based Sat Solver for Cryptanalysis**"   
-in International Symposium on Cyber Security Cryptology and Machine Learning - [CSCML 2020](https://www.cs.bgu.ac.il/~fradmin/cscml20/index.html)   
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
 "**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"   
@@ -64,15 +47,6 @@ in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.ni
 
 # 2019
 
-### Journals
-
-- *H. Wang and T. Peyrin*  
-"**Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/download/7400/6572)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://tosc.iacr.org/index.php/ToSC/article/download/7400/7558)  
-in Fast Software Encryption - [FSE 2019](https://fse.iacr.org/2019/) and Transactions on Symmetric Cryptology - [ToSC 2019-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
-
-
-### International Conferences and Workshops 
-
 - *M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin and T. Peyrin*  
 "**SoK : On DFA Vulnerabilities of Substitution-Permutation Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2018/085.pdf)  
 in ACM ASIA Conference on Computer and Communications Security - [AsiaCCS 2019](https://asiaccs2019.blogs.auckland.ac.nz/)   
@@ -87,8 +61,6 @@ in Fast Software Encryption - [FSE 2019](https://fse.iacr.org/2019/) and Transac
 
 
 # 2018
-
-### International Conferences and Workshops 
 
 - *M. Khairallah, Z. Najm, A. Chattopadhyay and T. Peyrin*   
 "**Crack me if you can: hardware acceleration bridging the gap between practical and theoretical cryptanalysis?: a Survey**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Khairallah-etal-SAMOS2018.pdf)   
@@ -121,27 +93,6 @@ in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/even
 
 # 2017
 
-### Journals
-
-- *J. Jean, T. Peyrin and S. M. Sim*  
-"**Optimizing Implementations of Lightweight Building Blocks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2017/101.pdf)  
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and Transactions on Symmetric Cryptology - [ToSC 2017-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
-
-- *S. Bhasin, D. Jap and T. Peyrin*  
-"**Practical Evaluation of FSE 2016 Customized Encoding Countermeasure**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/download/767/725/)  
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and Transactions on Symmetric Cryptology - [ToSC 2017-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
-
-- *C. Cid, T. Huang, T. Peyrin, Y. Sasaki and L. Song*   
-"**Cryptanalysis of Deoxys and its Internal Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2017/693.pdf)  
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and Transactions on Symmetric Cryptology - [ToSC 2017-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)    
-
-- *K. Khoo, E. Lee, T. Peyrin and S. M. Sim*  
-"**Human-readable Proof of the Related-Key Security of AES-128**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2016/025.pdf)  
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and Transactions on Symmetric Cryptology - [ToSC 2017-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
-
-
-### International Conferences and Workshops 
-
 - *M. Khairallah, A. Chattopadhyay and T. Peyrin*  
 "**Looting the LUTs: FPGA Optimization of AES and AES-like Ciphers for Authenticated Encryption**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2017/1019.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Khairallah-etal-INDOCRYPT2017_slides.pdf)   
 in Progress in Cryptology - [INDOCRYPT 2017](http://events.csa.iisc.ernet.in/indocrypt2017/)  
@@ -162,14 +113,9 @@ in Advances in Cryptology - [CRYPTO 2017](https://www.iacr.org/conferences/crypt
 
 # 2016
 
-### Journals
-
 - *F.Landelle and T. Peyrin*  
 "**Cryptanalysis of Full RIPEMD-128**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/607.pdf)  
 in [Journal of Cryptology - October 2016](http://link.springer.com/article/10.1007/s00145-015-9213-5)  
-
-
-### International Conferences and Workshops 
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S.M. Sim*  
 "**The SKINNY Family of Block Ciphers and its Low-Latency Variant MANTIS**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2016/660.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Beierle-etal-CRYPTO2016_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/skinnycipher)  
@@ -186,29 +132,22 @@ in Advances in Cryptology - [EUROCRYPT 2016](http://ist.ac.at/eurocrypt2016/)
 
 # 2015
 
-### Journals
-
 - *T. Peyrin*  
 "**Collision Attack on Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2016/295.pdf)  
 in [Journal of Cryptology - October 2015](http://link.springer.com/article/10.1007/s00145-014-9186-9)  
-
-### International Conferences and Workshops 
 
 - *C. Blondeau, T. Peyrin, and L. Wang*  
 "**Known-key Distinguisher on Full PRESENT**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/575.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Blondeau-etal-CRYPTO2015_slides.pdf)  
 in Advances in Cryptology - [CRYPTO 2015](http://www.iacr.org/conferences/crypto2015/)  
  
-
 - *P. Karpman, T. Peyrin, and M. Stevens*  
 "**Practical Free-Start Collision Attacks on 76-Step SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/530.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Karpman-etal-CRYPTO2015_slides.pdf)  
 in Advances in Cryptology - [CRYPTO 2015](http://www.iacr.org/conferences/crypto2015/)  
  
-
 - *S. M. Sim, K. Khoo, F. Oggier, and T. Peyrin*  
 "**Lightweight MDS Involution Matrices**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/258.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Sim-etal-FSE2015_slides.pdf)   
 in Fast Software Encryption - [FSE 2015](http://light-sec.org/fse2015/)  
  
-
 - *T. Peyrin, S. M. Sim, L. Wang and G. Zhang*  
 "**Cryptanalysis of JAMBU**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/931.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-FSE2015_slides.pdf)    
 in Fast Software Encryption - [FSE 2015](http://light-sec.org/fse2015/)   
@@ -217,13 +156,9 @@ in Fast Software Encryption - [FSE 2015](http://light-sec.org/fse2015/)
 
 # 2014
 
-### Journals
-
 - *J. Jean, M. Naya-Plasencia and T. Peyrin*  
 "**Improved Cryptanalysis of AES-like Permutations**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/279.pdf)  
 in [Journal of Cryptology - October 2014 ](http://link.springer.com/article/10.1007/s00145-013-9156-7)  
-
-### International Conferences and Workshops 
 
 - *N. Anandakumar, T. Peyrin and A. Poschmann*  
 "**A Very Compact FPGA Implementation of LED and PHOTON**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/738.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Anandakumar-etal-INDOCRYPT2014_slides.pdf)  
@@ -251,9 +186,7 @@ in Advances in Cryptology - [EUROCRYPT 2014](http://ec14.compute.dtu.dk/)
 
 
 # 2013
-
-### International Conferences and Workshops 
-
+ 
 - *G. Leurent, T. Peyrin and L. Wang*  
 "**New Generic Attacks Against Hash-based MACs**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/406.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-ASIACRYPT2013_slides.pdf)  
 in Advances in Cryptology - [ASIACRYPT 2013](http://www.iacr.org/conferences/asiacrypt2013/)  
@@ -293,8 +226,6 @@ in Fast Software Encryption - [FSE 2013](http://fse2013.spms.ntu.edu.sg/)
 
 # 2012
 
-### International Conferences and Workshops 
-
 - *T. Peyrin, Y. Sasaki and L. Wang*  
 "**Generic Related-key Attacks for HMAC**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2012/684.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-AsiaCrypt2012_slides.pdf)  
 in Advances in Cryptology - [ASIACRYPT 2012](http://cis.sjtu.edu.cn/asiacrypt2012/)  
@@ -322,8 +253,6 @@ in Fast Software Encryption - [FSE 2012](http://fse2012.inria.fr/index.php?page=
 
 # 2011
 
-### International Conferences and Workshops 
-
 - *J. Guo, T. Peyrin, A. Poschmann and M. Robshaw*  
 "**The LED Block Cipher**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2012/600.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-CHES2011_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/ledblockcipher/)  
 in Cryptographic Hardware and Embedded System - [CHES 2011](http://www.iacr.org/workshops/ches/ches2011/start.html)   
@@ -342,8 +271,6 @@ in Fast Software Encryption - [FSE 2011](http://fse2011.mat.dtu.dk/)
 
 
 # 2010
-
-### International Conferences and Workshops 
 
 - *E. Brier and T. Peyrin*  
 "**A Forward-Secure Symmetric-Key Derivation Protocol - How to Improve Classical DUKPT**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/asiacrypt2010/6477250/6477250.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Brier-Peyrin-ASIACRYPT2010_slides.pdf)   
@@ -376,13 +303,9 @@ in Fast Software Encryption - [FSE 2010](http://cist.korea.ac.kr/~fse2010/)
 
 # 2009
 
-### Journals
-
 - *J. Yajima, T. Iwasaki, Y.Naito, Y. Sasaki, T. Shimoyama, T. Peyrin, N. Kunihiro and K. Ohta*   
 "**A Strict Evaluation on the Number of Conditions for SHA-1 Collision Search**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Yajima-etal-IEICEjanuary2009.pdf)  
 in IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and Computer Sciences - [IEICE TRANS. January 2009](http://search.ieice.org/bin/index.php?category=A&lang=E&vol=E92-A&num=1)   
-
-### International Conferences and Workshops 
 
 - *N. Mouha, G. Sekar, J-P. Aumasson, T. Peyrin, S. Thomsen, M. S. Turan and B. Preneel*  
 "**Cryptanalysis of the ESSENCE Family of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Mouha-etal-InsCrypt2009.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Mouha-etal-InsCrypt2009_slides.pdf)  
@@ -411,8 +334,6 @@ in Fast Software Encryption - [FSE 2009](https://www.cosic.esat.kuleuven.be/fse2
 
 # 2008
 
-### International Conferences and Workshops 
-
 - *M. Gorski, S. Lucks and T. Peyrin*  
 "**Slide Attacks on a Class of Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2008/263.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gorski-etal-AsiaCrypt2008_slides.pdf)  
 in Advances in Cryptology - [ASIACRYPT 2008](http://www.ics.mq.edu.au/conferences/asiacrypt2008/index.html)  
@@ -427,8 +348,6 @@ in Fast Software Encryption - [FSE 2008](http://fse2008.epfl.ch/)
 
 
 # 2007
-
-### International Conferences and Workshops 
 
 - *T. Peyrin*  <span style="color:red"><strong>(- Best Paper Award -)</strong></span>  
 "**Cryptanalysis of Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2007/48330554/48330554.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-AsiaCrypt2007_slides.pdf)  
@@ -461,8 +380,6 @@ in Fast Software Encryption - [FSE 2007](http://fse2007.uni.lu/)
 
 # 2006
 
-### International Conferences and Workshops 
-
 - *T. Peyrin, H. Gilbert, F. Muller and M. Robshaw*  
 "**Combining Compression Functions and Block Cipher-Based Hash Functions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.iacr.org/archive/asiacrypt2006/42840317/42840317.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-etal-AsiaCrypt2006_slides.pdf)  
 in Advances in Cryptology - [ASIACRYPT 2006](http://www.iacr.org/conferences/asiacrypt2006/www.lois.cn/Asiacrypt2006/index.html)  
@@ -474,8 +391,6 @@ in International Conference on Information Security and Cryptology - [ICISC 2006
 
 # 2005
 
-### International Conferences and Workshops 
-
 - *F. Muller and T. Peyrin*  
 "**Linear Cryptanalysis of the TSC family of Stream Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://iacr.org/archive/asiacrypt2005/368/368.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Muller-Peyrin-AsiaCrypt2005_slides.ppt)  
 in Advances in Cryptology - [ASIACRYPT 2005](http://www.cs.iitm.ernet.in/%7Eac05/)
@@ -486,8 +401,6 @@ in Security and Privacy in the Age of Ubiquitous Computing - [SEC 2005](http://w
 
 
 # 2004
-
-### International Conferences and Workshops 
 
 - *G. Avoine, J. Monnerat and T. Peyrin*  
 "**Advances in Alternative Non-Adjacent Form Representations**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Avoine-etal-IndoCrypt2004.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Avoine-etal-IndoCrypt2004_slides.pdf)  
