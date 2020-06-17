@@ -40,12 +40,12 @@ in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.or
 "**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/847.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/thomaspeyrin/XORreduce)   
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
 
-- *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Updates on Romulus**"   
-in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.nist.gov/Events/2019/lightweight-cryptography-workshop-2019)   
-
 
 # 2019
+
+- *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
+"**Updates on Romulus**"   
+in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.nist.gov/Events/2019/lightweight-cryptography-workshop-2019) 
 
 - *M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin and T. Peyrin*  
 "**SoK : On DFA Vulnerabilities of Substitution-Permutation Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2018/085.pdf)  
