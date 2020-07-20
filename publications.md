@@ -12,6 +12,10 @@ sidebar:
 
 # 2020
 
+- *G. Leurent and T. Peyrin*  
+"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/014.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-USENIX2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sha-mbles.github.io/)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/SHA-mbles/sha1-cp)  
+in USENIX Security Symposium - [USENIX Security 2020](https://www.usenix.org/conference/usenixsecurity20)
+
 - *T. Peyrin and H. Wang*  
 "**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  
 in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
@@ -21,30 +25,30 @@ in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)
 in International Symposium on Cyber Security Cryptology and Machine Learning - [CSCML 2020](https://www.cs.bgu.ac.il/~fradmin/cscml20/index.html)   
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S. M. Sim*  
-"**SKINNY-AEAD and SKINNY-Hash**"   
+"**SKINNY-AEAD and SKINNY-Hash**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8619) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny) 
 in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *D. Goudarzi, J. Jean, S. Kölbl, T. Peyrin, M. Rivain, Y. Sasaki and S. M. Sim*  
-"**Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation**"   
+"**Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8617) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://pyjamask-cipher.github.io/index.html) 
 in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"   
+"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/992.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)  
 in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *A. Adomnicai, Z. Najm and T. Peyrin*  
-"**Fixslicing: A New GIFT Representation**" [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/412.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/aadomn/gift)     
+"**Fixslicing: A New GIFT Representation**" [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/412.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn/gift)     
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-3](http://tches.iacr.org/index.php/tches/issue/archive)
 
 - *Q. Q. Tan and T. Peyrin*  
-"**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/847.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://github.com/thomaspeyrin/XORreduce)   
+"**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/847.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/thomaspeyrin/XORreduce)   
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
 
 
 # 2019
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Updates on Romulus**"   
+"**Updates on Romulus**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Iwata-etal-NIST2019_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
 in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.nist.gov/Events/2019/lightweight-cryptography-workshop-2019) 
 
 - *M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin and T. Peyrin*  
@@ -52,7 +56,7 @@ in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.ni
 in ACM ASIA Conference on Computer and Communications Security - [AsiaCCS 2019](https://asiaccs2019.blogs.auckland.ac.nz/)   
 
 - *G. Leurent and T. Peyrin*  
-"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-EUROCRYPT2019_slides.pdf.pdf)  
+"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-EUROCRYPT2019_slides.pdf.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/SHA-mbles/sha1-cp)  
 in Advances in Cryptology - [EUROCRYPT 2019](https://eurocrypt.iacr.org/2019/)  
 
 - *H. Wang and T. Peyrin*  
