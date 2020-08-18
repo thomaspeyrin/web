@@ -17,7 +17,7 @@ sidebar:
 in USENIX Security Symposium - [USENIX Security 2020](https://www.usenix.org/conference/usenixsecurity20)
 
 - *T. Peyrin and H. Wang*  
-"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/986.pdf) 
+"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/986.pdf)   
 in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
 
 - *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
