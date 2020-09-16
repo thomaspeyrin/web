@@ -9,6 +9,12 @@ sidebar:
     nav: "docsp"
 ---
 
+# 2021
+
+- *A. Adomnicai and T. Peyrin*  
+"**Fixslicing AES-like Ciphers - New bitsliced AES speed records on ARM-Cortex M and RISC-V**" [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn/aes)  
+in Cryptographic Hardware and Embedded System - [CHES 2021](https://ches.iacr.org/2021/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2021-1](http://tches.iacr.org/index.php/tches/issue/archive)
+
 
 # 2020
 
