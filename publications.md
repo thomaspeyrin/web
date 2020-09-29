@@ -18,6 +18,18 @@ in Cryptographic Hardware and Embedded System - [CHES 2021](https://ches.iacr.or
 
 # 2020
 
+- *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
+"**New Results on Romulus**"  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
+in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
+
+- *C. Guo, M. Khairallah and T. Peyrin*  
+"**AET-LR: Rate-1 Leakage-Resilient AEAD based on the Romulus Family**" [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
+in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
+
+- *A. Adomnicai and T. Peyrin*  
+"**Fixslicing - Application to Some NIST LWC Round 2 Candidates**"  
+in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
+
 - *G. Leurent and T. Peyrin*  
 "**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/014.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-USENIX2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sha-mbles.github.io/)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/SHA-mbles/sha1-cp)  
 in USENIX Security Symposium - [USENIX Security 2020](https://www.usenix.org/conference/usenixsecurity20)
