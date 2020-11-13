@@ -35,7 +35,7 @@ in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.ni
 in USENIX Security Symposium - [USENIX Security 2020](https://www.usenix.org/conference/usenixsecurity20)
 
 - *T. Peyrin and H. Wang*  
-"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/986.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/MaliciousLowmc/LowMC-M)  
+"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-Wang-CRYPTO2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/986.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/MaliciousLowmc/LowMC-M)  
 in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
 
 - *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
