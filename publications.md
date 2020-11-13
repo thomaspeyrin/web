@@ -19,15 +19,15 @@ in Cryptographic Hardware and Embedded System - [CHES 2021](https://ches.iacr.or
 # 2020
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**New Results on Romulus**"  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
+"**New Results on Romulus**" [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/NIST_LWC_2020_slides1.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *C. Guo, M. Khairallah and T. Peyrin*  
-"**AET-LR: Rate-1 Leakage-Resilient AEAD based on the Romulus Family**" [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
+"**AET-LR: Rate-1 Leakage-Resilient AEAD based on the Romulus Family**" [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/NIST_LWC_2020_slides2.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *A. Adomnicai and T. Peyrin*  
-"**Fixslicing - Application to Some NIST LWC Round 2 Candidates**"  
+"**Fixslicing - Application to Some NIST LWC Round 2 Candidates**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/NIST_LWC_2020_slides3.pdf)    
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *G. Leurent and T. Peyrin*  
