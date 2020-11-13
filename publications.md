@@ -27,7 +27,7 @@ in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.ni
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *A. Adomnicai and T. Peyrin*  
-"**Fixslicing - Application to Some NIST LWC Round 2 Candidates**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Adomnicai-Peyrin-NIST2020_slides.pdf)    
+"**Fixslicing - Application to Some NIST LWC Round 2 Candidates**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Adomnicai-Peyrin-NIST2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn)  
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *G. Leurent and T. Peyrin*  
