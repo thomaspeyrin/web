@@ -16,15 +16,15 @@ sidebar:
 
 ## 2020
 
-- "**Tweakable Block Cipher-Based Cryptography**"   
-at [ICISC 2020](http://www.icisc.org/), Virtual, December 2nd 2020
+- "**Tweakable Block Cipher-Based Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/ICISC2020_slides.pdf)  
+at [ICISC 2020](http://www.icisc.org/), Virtual, December 3rd 2020
 
-- "**Tweakable Block Cipher-Based Cryptography**"   
+- "**Tweakable Block Cipher-Based Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/FSE2020_slides.pdf)  
 at [FSE 2020](https://fse.iacr.org/2020/), Virtual, November 12th 2020
 
 ## 2019
 
-- "**SHA-1: Beating a Dead Horse**"   
+- "**SHA-1: Beating a Dead Horse**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/ASK2019_slides.pdf)  
 at [ASK 2019](https://askworkshop.github.io/ask2019/), Kobe, Japan, December 13th 2019
 
 - "**Tweakable Block Cipher Based Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/LCD2019_slides.pdf)  
