@@ -11,6 +11,10 @@ sidebar:
 
 # 2021
 
+- *A. Benamira, D. Gerault, T. Peyrin and Q. Q. Tan*  
+"**A Deeper Look at Machine Learning-Based Cryptanalysis**"   
+in Advances in Cryptology - [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/)     
+
 - *A. Adomnicai and T. Peyrin*  
 "**Fixslicing AES-like Ciphers - New bitsliced AES speed records on ARM-Cortex M and RISC-V**" [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn/aes)  
 in Cryptographic Hardware and Embedded System - [CHES 2021](https://ches.iacr.org/2021/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2021-1](http://tches.iacr.org/index.php/tches/issue/archive)
@@ -74,7 +78,8 @@ in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.ni
 in ACM ASIA Conference on Computer and Communications Security - [AsiaCCS 2019](https://asiaccs2019.blogs.auckland.ac.nz/)   
 
 - *G. Leurent and T. Peyrin*  
-"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-EUROCRYPT2019_slides.pdf.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/SHA-mbles/sha1-cp)  
+"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-
+YPT2019_slides.pdf.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/SHA-mbles/sha1-cp)  
 in Advances in Cryptology - [EUROCRYPT 2019](https://eurocrypt.iacr.org/2019/)  
 
 - *H. Wang and T. Peyrin*  
