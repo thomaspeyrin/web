@@ -11,6 +11,10 @@ sidebar:
 
 # 2021
 
+- *A. Chattopadhyay, M. Khairallah, G. Leurent, Z. Najm, T. Peyrin and V. Velichkov*  
+"**On The Cost of ASIC Hardware Crackers: A SHA-1 Case Study**"   
+in Topics in Cryptology - [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/)
+
 - *A. Benamira, D. Gerault, T. Peyrin and Q. Q. Tan*  
 "**A Deeper Look at Machine Learning-Based Cryptanalysis**"   
 in Advances in Cryptology - [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/)     
