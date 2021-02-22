@@ -11,6 +11,13 @@ sidebar:
 
 # 2021
 
+
+Journal of Cryptology
+
+- *J. Jean, I. Nikolic, T. Peyrin and Y. Seurin*  
+"**The Deoxys AEAD Family**"     
+in [Journal of Cryptology - TBD](TBD) 
+
 - *A. Chattopadhyay, M. Khairallah, G. Leurent, Z. Najm, T. Peyrin and V. Velichkov*  
 "**On The Cost of ASIC Hardware Crackers: A SHA-1 Case Study**"   
 in Topics in Cryptology - [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/)
