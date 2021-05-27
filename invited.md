@@ -16,7 +16,7 @@ sidebar:
 
 ## 2021
 
-- "**Tweakable Block Cipher-Based Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/TII_CRC_21_slides.pdf)  
+- "**Inserting Backdoors in Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/TII_CRC_21_slides.pdf)  
 at [TII CRC Seminar](https://cryptography.tii.ae/news/crc-seminar-series-thomas-peyrin), Virtual, May 28th 2021
 
 ## 2020
