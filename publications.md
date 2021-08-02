@@ -11,8 +11,9 @@ sidebar:
 
 # 2021
 
-
-Journal of Cryptology
+- *D. Gerault, T. Peyrin and Q. Q. Tan*  
+"**Exploring Differential-Based Distinguishers and Forgeries for ASCON**"   
+in Fast Software Encryption - [FSE 2022](https://fse.iacr.org/2022/) and Transactions on Symmetric Cryptology - [ToSC 2021-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *J. Jean, I. Nikolic, T. Peyrin and Y. Seurin*  
 "**The Deoxys AEAD Family**"     
