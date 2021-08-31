@@ -16,7 +16,7 @@ sidebar:
 in Fast Software Encryption - [FSE 2022](https://fse.iacr.org/2022/) and Transactions on Symmetric Cryptology - [ToSC 2021-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *J. Jean, I. Nikolic, T. Peyrin and Y. Seurin*  
-"**The Deoxys AEAD Family**"     
+"**The Deoxys AEAD Family**"  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/view/deoxyscipher)         
 in [Journal of Cryptology - TBD](TBD) 
 
 - *A. Chattopadhyay, M. Khairallah, G. Leurent, Z. Najm, T. Peyrin and V. Velichkov*  
@@ -24,7 +24,7 @@ in [Journal of Cryptology - TBD](TBD)
 in Topics in Cryptology - [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/)
 
 - *A. Benamira, D. Gerault, T. Peyrin and Q. Q. Tan*  
-"**A Deeper Look at Machine Learning-Based Cryptanalysis**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2021/287.pdf)   
+"**A Deeper Look at Machine Learning-Based Cryptanalysis**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2021/287.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/AnonymousSubmissionEuroCrypt2021/A-Deeper-Look-at-Machine-Learning-Based-Cryptanalysis)    
 in Advances in Cryptology - [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/)     
 
 - *A. Adomnicai and T. Peyrin*  
