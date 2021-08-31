@@ -17,7 +17,7 @@ in Fast Software Encryption - [FSE 2022](https://fse.iacr.org/2022/) and Transac
 
 - *J. Jean, I. Nikolic, T. Peyrin and Y. Seurin*  
 "**The Deoxys AEAD Family**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Jean-etal-JoC2021.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/view/deoxyscipher)         
-in [Journal of Cryptology - TBD](TBD) 
+in [Journal of Cryptology - 33 (October 2021)](https://link.springer.com/article/10.1007/s00145-021-09397-w)  
 
 - *A. Chattopadhyay, M. Khairallah, G. Leurent, Z. Najm, T. Peyrin and V. Velichkov*  
 "**On The Cost of ASIC Hardware Crackers: A SHA-1 Case Study**"  [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=ggEv1BLwOLA&t=1310s)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Khairallah-etal-CTRSA2021_slides.pdf)       
@@ -153,7 +153,7 @@ in Advances in Cryptology - [CRYPTO 2017](https://www.iacr.org/conferences/crypt
 
 - *F.Landelle and T. Peyrin*  
 "**Cryptanalysis of Full RIPEMD-128**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2013/607.pdf)  
-in [Journal of Cryptology - October 2016](http://link.springer.com/article/10.1007/s00145-015-9213-5)  
+in [Journal of Cryptology - 29 (October 2016)](http://link.springer.com/article/10.1007/s00145-015-9213-5)  
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S.M. Sim*  
 "**The SKINNY Family of Block Ciphers and its Low-Latency Variant MANTIS**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2016/660.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Beierle-etal-CRYPTO2016_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/skinnycipher)  
@@ -172,7 +172,7 @@ in Advances in Cryptology - [EUROCRYPT 2016](http://ist.ac.at/eurocrypt2016/)
 
 - *T. Peyrin*  
 "**Collision Attack on Grindahl**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2016/295.pdf)  
-in [Journal of Cryptology - October 2015](http://link.springer.com/article/10.1007/s00145-014-9186-9)  
+in [Journal of Cryptology - 28 (October 2015)](http://link.springer.com/article/10.1007/s00145-014-9186-9)  
 
 - *C. Blondeau, T. Peyrin, and L. Wang*  
 "**Known-key Distinguisher on Full PRESENT**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/575.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Blondeau-etal-CRYPTO2015_slides.pdf)  
@@ -196,7 +196,7 @@ in Fast Software Encryption - [FSE 2015](http://light-sec.org/fse2015/)
 
 - *J. Jean, M. Naya-Plasencia and T. Peyrin*  
 "**Improved Cryptanalysis of AES-like Permutations**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/279.pdf)  
-in [Journal of Cryptology - October 2014 ](http://link.springer.com/article/10.1007/s00145-013-9156-7)  
+in [Journal of Cryptology - 27 (October 2014)](http://link.springer.com/article/10.1007/s00145-013-9156-7)  
 
 - *N. Anandakumar, T. Peyrin and A. Poschmann*  
 "**A Very Compact FPGA Implementation of LED and PHOTON**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2014/738.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Anandakumar-etal-INDOCRYPT2014_slides.pdf)  
