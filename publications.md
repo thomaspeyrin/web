@@ -20,7 +20,7 @@ in Fast Software Encryption - [FSE 2022](https://fse.iacr.org/2022/) and Transac
 in [Journal of Cryptology - TBD](TBD) 
 
 - *A. Chattopadhyay, M. Khairallah, G. Leurent, Z. Najm, T. Peyrin and V. Velichkov*  
-"**On The Cost of ASIC Hardware Crackers: A SHA-1 Case Study**"  [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=ggEv1BLwOLA&t=1310s)     
+"**On The Cost of ASIC Hardware Crackers: A SHA-1 Case Study**"  [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=ggEv1BLwOLA&t=1310s)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Khairallah-etal-CTRSA2021_slides.pdf)       
 in Topics in Cryptology - [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/)
 
 - *A. Benamira, D. Gerault, T. Peyrin and Q. Q. Tan*  
