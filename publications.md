@@ -82,7 +82,7 @@ in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.or
 # 2019
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Updates on Romulus**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Iwata-etal-NIST2019_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
+"**Updates on Romulus**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://csrc.nist.gov/CSRC/media/Events/lightweight-cryptography-workshop-2019/documents/papers/updates-on-romulus-remus-tgif-lwc2019.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Iwata-etal-NIST2019_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
 in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.nist.gov/Events/2019/lightweight-cryptography-workshop-2019) 
 
 - *M. Khairallah, X. Hou, Z. Najm, J. Breier, S. Bhasin and T. Peyrin*  
@@ -90,8 +90,7 @@ in NIST Lightweight Cryptography Workshop 2019 - [NIST LWC 2019](https://csrc.ni
 in ACM ASIA Conference on Computer and Communications Security - [AsiaCCS 2019](https://asiaccs2019.blogs.auckland.ac.nz/)   
 
 - *G. Leurent and T. Peyrin*  
-"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-
-YPT2019_slides.pdf.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/SHA-mbles/sha1-cp)  
+"**From Collisions to Chosen-Prefix Collisions - Application to Full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/459.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Leurent-etal-YPT2019_slides.pdf.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/SHA-mbles/sha1-cp)  
 in Advances in Cryptology - [EUROCRYPT 2019](https://eurocrypt.iacr.org/2019/)  
 
 - *H. Wang and T. Peyrin*  
