@@ -35,15 +35,15 @@ in Cryptographic Hardware and Embedded System - [CHES 2021](https://ches.iacr.or
 # 2020
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**New Results on Romulus**" [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Iwata-etal-NIST2020_slides.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
+"**New Results on Romulus**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://csrc.nist.gov/CSRC/media/Events/lightweight-cryptography-workshop-2020/documents/papers/new-results-romulus-lwc2020.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Iwata-etal-NIST2020_slides.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *C. Guo, M. Khairallah and T. Peyrin*  
-"**AET-LR: Rate-1 Leakage-Resilient AEAD based on the Romulus Family**" [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-NIST2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
+"**AET-LR: Rate-1 Leakage-Resilient AEAD based on the Romulus Family**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://csrc.nist.gov/CSRC/media/Events/lightweight-cryptography-workshop-2020/documents/papers/AET-LR-lwc2020.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Guo-etal-NIST2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)    
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *A. Adomnicai and T. Peyrin*  
-"**Fixslicing - Application to Some NIST LWC Round 2 Candidates**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Adomnicai-Peyrin-NIST2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn)  
+"**Fixslicing - Application to Some NIST LWC Round 2 Candidates**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://csrc.nist.gov/CSRC/media/Events/lightweight-cryptography-workshop-2020/documents/papers/fixslicing-lwc2020.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Adomnicai-Peyrin-NIST2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn)  
 in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.nist.gov/Events/2020/lightweight-cryptography-workshop-2020) 
 
 - *G. Leurent and T. Peyrin*  
@@ -51,7 +51,7 @@ in NIST Lightweight Cryptography Workshop 2020 - [NIST LWC 2020](https://csrc.ni
 in USENIX Security Symposium - [USENIX Security 2020](https://www.usenix.org/conference/usenixsecurity20)
 
 - *T. Peyrin and H. Wang*  
-"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-Wang-CRYPTO2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/986.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/MaliciousLowmc/LowMC-M)  
+"**The MALICIOUS Framework: Embedding Backdoors into Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/986.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-Wang-CRYPTO2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/MaliciousLowmc/LowMC-M)  
 in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
 
 - *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
@@ -71,11 +71,11 @@ in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST 
 in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *A. Adomnicai, Z. Najm and T. Peyrin*  
-"**Fixslicing: A New GIFT Representation**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Adomnicai-etal-CHES2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/412.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn/gift)     
+"**Fixslicing: A New GIFT Representation**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/412.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Adomnicai-etal-CHES2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn/gift)     
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-3](http://tches.iacr.org/index.php/tches/issue/archive)
 
 - *Q. Q. Tan and T. Peyrin*  
-"**Improved Heuristics for Short Linear Programs**" [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-Tan-CHES2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/847.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/thomaspeyrin/XORreduce)   
+"**Improved Heuristics for Short Linear Programs**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/847.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-Tan-CHES2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/thomaspeyrin/XORreduce)   
 in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
 
 
