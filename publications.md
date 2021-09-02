@@ -11,6 +11,9 @@ sidebar:
 
 # 2021
 
+- *D. Gerault, T. Peyrin and Q. Q. Tan*  	A. Baksi, S. Bhasin, J. Breier, M. Khairallah, T. Peyrin, S. Sarkar and S. M. Sim*  
+"**DEFAULT: Cipher Level Resistance Against Differential Fault Attack**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2021/712.pdf)   
+
 - *D. Gerault, T. Peyrin and Q. Q. Tan*  
 "**Exploring Differential-Based Distinguishers and Forgeries for ASCON**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2021/1103.pdf)      
 in Fast Software Encryption - [FSE 2022](https://fse.iacr.org/2022/) and Transactions on Symmetric Cryptology - [ToSC 2021-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
