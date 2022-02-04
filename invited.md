@@ -14,6 +14,11 @@ sidebar:
 
 # Invited Talks
 
+## 2022
+
+- "**Lightweight Cryptography**"    
+at [CASA Distinguished Lectures](https://casa.rub.de/news/casa-distinguished-lectures), Virtual, February 24th 2022
+
 ## 2021
 
 - "**Inserting Backdoors in Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/TII_CRC_21_slides.pdf)  
