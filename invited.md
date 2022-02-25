@@ -16,7 +16,7 @@ sidebar:
 
 ## 2022
 
-- "**Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/CASA2022_slides.pdf)  
+- "**Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://www.youtube.com/watch?v=dj-vVyG75no)  
 at [CASA Distinguished Lectures](https://casa.rub.de/news/casa-distinguished-lectures), Virtual, February 24th 2022
 
 ## 2021
@@ -29,7 +29,7 @@ at [TII CRC Seminar](https://cryptography.tii.ae/news/crc-seminar-series-thomas-
 - "**Tweakable Block Cipher-Based Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/ICISC2020_slides.pdf)  
 at [ICISC 2020](http://www.icisc.org/), Virtual, December 3rd 2020
 
-- "**Tweakable Block Cipher-Based Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/FSE2020_slides.pdf)  
+- "**Tweakable Block Cipher-Based Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/FSE2020_slides.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://thomaspeyrin.github.io/web/assets/docs/invited/FSE2020_slides.pdf)   
 at [FSE 2020](https://fse.iacr.org/2020/), Virtual, November 12th 2020
 
 ## 2019
