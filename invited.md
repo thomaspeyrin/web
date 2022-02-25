@@ -16,7 +16,8 @@ sidebar:
 
 ## 2022
 
-- "**Lightweight Cryptography**"    
+- "**Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/CASA2022
+- _slides.pdf)  
 at [CASA Distinguished Lectures](https://casa.rub.de/news/casa-distinguished-lectures), Virtual, February 24th 2022
 
 ## 2021
