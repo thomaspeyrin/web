@@ -9,6 +9,12 @@ sidebar:
     nav: "docsp"
 ---
 
+# 2022
+
+- *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*  
+"**A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/846.pdf)   
+
+
 # 2021
 
 - *A. Baksi, S. Bhasin, J. Breier, M. Khairallah, T. Peyrin, S. Sarkar and S. M. Sim*  
