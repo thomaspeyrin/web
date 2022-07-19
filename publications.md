@@ -11,8 +11,8 @@ sidebar:
 
 # 2022
 
-- *Kai Hu, Thomas Peyrin, Meiqin Wang*
-"**Finding All Impossible Differentials When Considering the DDT**"
+- *Kai Hu, Thomas Peyrin, Meiqin Wang*  
+"**Finding All Impossible Differentials When Considering the DDT**"  
 in Selected Areas of Cryptography - [SAC 2022](https://www.sac2022.ca/) 
 
 - *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*  
