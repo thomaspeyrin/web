@@ -11,7 +11,14 @@ sidebar:
 
 # 2022
 
-- *Kai Hu, Thomas Peyrin, Meiqin Wang*  
+- *A. Benamira, T. Peyrin and B. Hooi*  
+"**Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas**"   
+in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv22-arow.github.io/) (ECCV 2022 Workshop)
+
+- *S. Saha, M. Khairallah and T. Peyrin*  
+"**Exploring Integrity of AEADs with Faults: Definitions and Constructions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1055.pdf)    
+
+- *K. Hu, T. Peyrin, M. Wang*  
 "**Finding All Impossible Differentials When Considering the DDT**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1034.pdf)   
 in Selected Areas of Cryptography - [SAC 2022](https://www.sac2022.ca/) 
 
