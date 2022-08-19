@@ -12,7 +12,7 @@ sidebar:
 # 2022
 
 - *A. Benamira, T. Peyrin and B. Hooi*  
-"**Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas**"   
+"**Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2208.08609)    
 in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv22-arow.github.io/) (ECCV 2022 Workshop)
 
 - *S. Saha, M. Khairallah and T. Peyrin*  
