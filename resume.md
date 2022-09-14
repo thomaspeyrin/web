@@ -21,7 +21,7 @@ sidebar:
 - __1999 - 2004__: École Supérieure de Chimie Physique Électronique of Lyon ([CPE Lyon](http://www.cpe.fr/fr2/gb/default_gb.asp)), Section Electronic and Computer Science - **Master's degree** in a french engineering school - with honours.
 
 ## Work Experience
-- __September 2022 - present__: **Professor**, in [Nanyang Technological University](http://www.ntu.edu.sg/).
+- __September 2022 - present__: **Full Professor**, in [Nanyang Technological University](http://www.ntu.edu.sg/).
 - __April 2012 - present__: **Head of the [Symmetric Key and Lightweight Cryptography Lab (SyLLab)](https://syllab-ntu.github.io/syllab/)**.
 - __September 2017 - August 2022__: **Associate Professor**, in [Nanyang Technological University](http://www.ntu.edu.sg/).
 - __April 2012 - August 2017__: **Nanyang Assistant Professor**, **NRF Fellow** in [Nanyang Technological University](http://www.ntu.edu.sg/).
