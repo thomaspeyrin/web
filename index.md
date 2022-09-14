@@ -11,7 +11,7 @@ sidebar:
     nav: "research"
 ---
 
-I am an Associate Professor and lead the [**SYmmetric and Lightweight cryptography Lab (SYLLAB)**](https://syllab-ntu.github.io/syllab/) at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore since April 2012. 
+I am Professor at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore and lead the [**SYmmetric and Lightweight cryptography Lab (SYLLAB)**](https://syllab-ntu.github.io/syllab/) since April 2012. 
 
 Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (former France Télécom R&D) and University of Versailles under the supervision of Henri Gilbert and Marc Girault. I also worked two years at [Ingenico](http://www.ingenico.com/) as Cryptography Expert, and at [Nanyang Technological University](http://www.ntu.edu.sg/) as Research Fellow. My main research topic is the design and the cryptanalysis of symmetric cryptography primitives.
 
