@@ -11,6 +11,9 @@ sidebar:
 
 # 2022
 
+- *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*  
+"**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)    
+
 - *A. Benamira, T. Peyrin and B. Hooi*  
 "**Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2208.08609)    
 in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv22-arow.github.io/) (ECCV 2022 Workshop)
