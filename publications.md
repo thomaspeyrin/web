@@ -9,14 +9,18 @@ sidebar:
     nav: "docsp"
 ---
 
+# 2023
+
+- *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*  
+"**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)   
+in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.org/2023/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2023-2](http://tches.iacr.org/index.php/tches/issue/archive)
+
+
 # 2022
 
 - *K. Hu and T. Peyrin*  
 "**Revisiting Higher-Order Differential(-Linear) Attacks from an Algebraic Perspective -- Applications to Ascon, Grain v1,  Xoodoo, and ChaCha**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf) 
-
-- *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*  
-"**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)    
-
+    
 - *A. Benamira, T. Peyrin and B. Hooi*  
 "**Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2208.08609)    
 in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv22-arow.github.io/) (ECCV 2022 Workshop)
