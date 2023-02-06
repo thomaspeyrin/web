@@ -19,7 +19,7 @@ Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (
 
 # News
 
-- \[Feb. 23\] Our article "*Mind Your Path: on (Key) Dependencies in Differential Characteristics*" has obtained the best paper award at [FSE 2023/ ToSC](https://fse.iacr.org/2023/) 
+- \[Feb. 23\] Our article "*Mind Your Path: on (Key) Dependencies in Differential Characteristics*" has obtained the **Best Paper Award** at [FSE 2023/ ToSC](https://fse.iacr.org/2023/) 
 - \[Sep. 21\] A new block cipher naturally resistant against a large class of differential fault attacks - Our article "*DEFAULT: Cipher Level Resistance Against Differential Fault Attack*" has been accepted at [ASIACRYPT 2021](https://asiacrypt.iacr.org/2021/)  
 - \[Mar. 21\] 3 submissions from SyLLab selected for the final round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/) and [Romulus](https://romulusae.github.io/romulus/)
 - \[Jan. 21\] Our article "*A Deeper Look at Machine Learning-Based Cryptanalysis*" has been accepted at [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/program.php)
