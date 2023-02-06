@@ -29,7 +29,7 @@ in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv
 "**Exploring Integrity of AEADs with Faults: Definitions and Constructions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1055.pdf)    
 in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
-- *Q.Q. Tan and T. Peyrin*  
+- *Q.Q. Tan and T. Peyrin*  <span style="color:red"><strong>(- Best Paper Award -)</strong></span>    
 "**Mind You Path: on (Key) Dependencies in Differential Characteristics**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1734.pdf)   
 in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
