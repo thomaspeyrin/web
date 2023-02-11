@@ -11,6 +11,10 @@ sidebar:
 
 # 2023
 
+- *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
+"**Fully Automated Differential-Linear Attacks against ARX Ciphers**"      
+in Topics in Cryptology - [CT-RSA 2023](https://ct-rsa-2023.eecs.oregonstate.edu/)    
+
 - *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*  
 "**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)   
 in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.org/2023/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2023-2](http://tches.iacr.org/index.php/tches/issue/archive)
