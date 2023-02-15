@@ -95,7 +95,7 @@ in USENIX Security Symposium - [USENIX Security 2020](https://www.usenix.org/con
 in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)  
 
 - *L. Sun, D. Gerault, A. Benamira and T. Peyrin*  
-"**NeuroGIFT : Using a Machine Learning Based Sat Solver for Cryptanalysis**"   
+"**NeuroGIFT : Using a Machine Learning Based Sat Solver for Cryptanalysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Sun-etal-CSCML2020.pdf)  
 in International Symposium on Cyber Security Cryptology and Machine Learning - [CSCML 2020](https://www.cs.bgu.ac.il/~fradmin/cscml20/index.html)   
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S. M. Sim*  
