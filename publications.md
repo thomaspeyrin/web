@@ -204,7 +204,7 @@ in Advances in Cryptology - [CRYPTO 2016](https://www.iacr.org/conferences/crypt
 in Advances in Cryptology - [CRYPTO 2016](https://www.iacr.org/conferences/crypto2016/)  
   
 - *M. Stevens, P. Karpman and T. Peyrin*  
-"**Freestart collision on full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/967.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/itstheshappening/)  
+"**Freestart collision on full SHA-1**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2015/967.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=KdtRnANZKeM)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/itstheshappening/)  
 in Advances in Cryptology - [EUROCRYPT 2016](http://ist.ac.at/eurocrypt2016/)    
 
 
