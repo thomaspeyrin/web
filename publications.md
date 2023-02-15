@@ -16,7 +16,7 @@ sidebar:
 in Topics in Cryptology - [CT-RSA 2023](https://ct-rsa-2023.eecs.oregonstate.edu/)    
 
 - *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*  
-"**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)   
+"**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_small)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_big)    
 in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.org/2023/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2023-2](http://tches.iacr.org/index.php/tches/issue/archive)
 
 
@@ -34,7 +34,7 @@ in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv
 in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *Q.Q. Tan and T. Peyrin*  <span style="color:red"><strong>(- Best Paper Award -)</strong></span>    
-"**Mind Your Path: on (Key) Dependencies in Differential Characteristics**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1734.pdf)   
+"**Mind Your Path: on (Key) Dependencies in Differential Characteristics**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1734.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/QuanQuanTan/key-dependency-tool)   
 in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *K. Hu, T. Peyrin, M. Wang*  
