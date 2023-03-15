@@ -11,7 +11,7 @@ sidebar:
     nav: "research"
 ---
 
-WE ARE RECRUITING: Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, please drop me an email.
+<span style="color:red"><strong>WE ARE RECRUITING: Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, please drop me an email!</strong></span>  
 
 I am Professor at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore and lead the [**SYmmetric and Lightweight cryptography Lab (SYLLAB)**](https://syllab-ntu.github.io/syllab/) since April 2012. 
 
