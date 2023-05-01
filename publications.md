@@ -12,6 +12,10 @@ sidebar:
 # 2023
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
+"**Boosting differential-linear cryptanalysis of ChaCha7 with MILP**"  
+in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2023-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
+- *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
 "**Fully Automated Differential-Linear Attacks against ARX Ciphers**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2023/181.pdf)   
 in Topics in Cryptology - [CT-RSA 2023](https://ct-rsa-2023.eecs.oregonstate.edu/)    
 
