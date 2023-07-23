@@ -11,6 +11,10 @@ sidebar:
 
 # 2023
 
+- *A. Benamira, T. Guérand and T. Peyrin*  
+"**A New Interpretable Neural Network-Based Rule Model for Healthcare Decision Making**"  
+in International Conference on AI in Medicine - [iAIM 2023](https://iaim2023.sg/)  
+
 - *A. Benamira, T. Guérand, T. Peyrin and H. Soegeng*  
 "**Neural Network-Based Rule Models With Truth Tables**"  
 in European Conference on Artificial Intelligence - [ECAI 2023](https://ecai2023.eu/)    
