@@ -12,7 +12,7 @@ sidebar:
 # 2023
 
 - *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*   
-"**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf) 
+"**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf)   
 in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
 
 - *A. Benamira, T. Guérand and T. Peyrin*  
