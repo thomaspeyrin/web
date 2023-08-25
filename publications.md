@@ -11,7 +11,7 @@ sidebar:
 
 # 2023
 
-- *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap* 
+- *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*   
 "**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  
 in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
 
