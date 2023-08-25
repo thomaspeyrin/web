@@ -12,7 +12,7 @@ sidebar:
 # 2023
 
 - *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*   
-"**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  
+"**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf) 
 in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
 
 - *A. Benamira, T. Guérand and T. Peyrin*  
@@ -37,9 +37,6 @@ in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.or
 
 
 # 2022
-
-- *K. Hu and T. Peyrin*  
-"**Revisiting Higher-Order Differential(-Linear) Attacks from an Algebraic Perspective -- Applications to Ascon, Grain v1,  Xoodoo, and ChaCha**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf) 
     
 - *A. Benamira, T. Peyrin and B. Hooi*  
 "**Truth-Table Net: A New Convolutional Architecture Encodable By Design Into SAT Formulas**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2208.08609)    
