@@ -11,6 +11,10 @@ sidebar:
 
 # 2023
 
+- *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap* 
+"**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  
+in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
+
 - *A. Benamira, T. Guérand and T. Peyrin*  
 "**A New Interpretable Neural Network-Based Rule Model for Healthcare Decision Making**"  
 in International Conference on AI in Medicine - [iAIM 2023](https://iaim2023.sg/)  
