@@ -11,6 +11,9 @@ sidebar:
 
 # 2023
 
+- *A. Benamira, T. Guérand, T. Peyrin amd S. Saha*   
+"**TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2302.01584)   
+
 - *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*   
 "**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf)   
 in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
@@ -24,7 +27,7 @@ in International Conference on AI in Medicine - [iAIM 2023](https://iaim2023.sg/
 in European Conference on Artificial Intelligence - [ECAI 2023](https://ecai2023.eu/)    
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
-"**Boosting differential-linear cryptanalysis of ChaCha7 with MILP**"  
+"**Boosting differential-linear cryptanalysis of ChaCha7 with MILP**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/10983/10416)   
 in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2023-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
