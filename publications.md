@@ -19,11 +19,11 @@ sidebar:
 in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
 
 - *A. Benamira, T. Guérand and T. Peyrin*  
-"**A New Interpretable Neural Network-Based Rule Model for Healthcare Decision Making**"  
+"**A New Interpretable Neural Network-Based Rule Model for Healthcare Decision Making**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2309.11101v1.pdf)   
 in International Conference on AI in Medicine - [iAIM 2023](https://iaim2023.sg/)  
 
 - *A. Benamira, T. Guérand, T. Peyrin and H. Soegeng*  
-"**Neural Network-Based Rule Models With Truth Tables**"  
+"**Neural Network-Based Rule Models With Truth Tables**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2309.09638v1.pdf)   
 in European Conference on Artificial Intelligence - [ECAI 2023](https://ecai2023.eu/)    
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
