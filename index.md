@@ -13,7 +13,7 @@ sidebar:
 
 <span style="color:red"><strong>WE ARE RECRUITING: Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, please drop me an email!</strong></span>  
 
-I am Professor at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore and lead the [**SYmmetric cryptography and machine Learning Lab (SyLLab)**](https://syllab-ntu.github.io/syllab/) since April 2012. 
+I am Professor at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore and lead the [**SYmmetric cryptography and machine Learning Lab (SyLLab)**](https://syllab-ntu.github.io/syllab/) since April 2012. I recently co-founded the start-up [**TT-logic.ai**](http://www.tt-logic.ai/). 
 
 Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (former France Télécom R&D) and University of Versailles under the supervision of Henri Gilbert and Marc Girault. I also worked two years at [Ingenico](http://www.ingenico.com/) as Cryptography Expert, and at [Nanyang Technological University](http://www.ntu.edu.sg/) as Research Fellow. My main research topic is the design and the cryptanalysis of symmetric cryptography primitives, as well as applications of machine learning to security.
 
@@ -22,7 +22,7 @@ Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (
 # News
 
 - \[Feb. 23\] Our article "*Mind Your Path: on (Key) Dependencies in Differential Characteristics*" has obtained the **Best Paper Award** at [FSE 2023/ ToSC](https://fse.iacr.org/2023/) 
-- \[Nov. 22\] Extremly honorored to be one of the recipients of a [NRF Investigatorship](https://www.nrf.gov.sg/docs/default-source/default-document-library/nrf-website-(nrf-investigators-portfolio)_updated-nov-2022.pdf) award (Topic: "Interpretable and Automated Cryptanalysis for Tailor-Made Cryptographic Design"). Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, please drop me an email.
+- \[Nov. 22\] Extremely honored to be one of the recipients of a [NRF Investigatorship](https://www.nrf.gov.sg/docs/default-source/default-document-library/nrf-website-(nrf-investigators-portfolio)_updated-nov-2022.pdf) award (Topic: "Interpretable and Automated Cryptanalysis for Tailor-Made Cryptographic Design"). Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, please drop me an email.
 - \[Sep. 21\] A new block cipher naturally resistant against a large class of differential fault attacks - Our article "*DEFAULT: Cipher Level Resistance Against Differential Fault Attack*" has been accepted at [ASIACRYPT 2021](https://asiacrypt.iacr.org/2021/)  
 - \[Mar. 21\] 3 submissions from SyLLab selected for the final round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/) and [Romulus](https://romulusae.github.io/romulus/)
 - \[Jan. 21\] Our article "*A Deeper Look at Machine Learning-Based Cryptanalysis*" has been accepted at [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/program.php)
