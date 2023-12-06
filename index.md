@@ -13,7 +13,7 @@ sidebar:
 
 <span style="color:red"><strong>WE ARE RECRUITING: Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, please drop me an email!</strong></span>  
 
-I am Professor at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore and lead the [**SYmmetric cryptography and machine Learning Lab (SYLLAB)**](https://syllab-ntu.github.io/syllab/) since April 2012. 
+I am Professor at [**Nanyang Technological University**](http://www.ntu.edu.sg/) in Singapore and lead the [**SYmmetric cryptography and machine Learning Lab (SyLLab)**](https://syllab-ntu.github.io/syllab/) since April 2012. 
 
 Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (former France Télécom R&D) and University of Versailles under the supervision of Henri Gilbert and Marc Girault. I also worked two years at [Ingenico](http://www.ingenico.com/) as Cryptography Expert, and at [Nanyang Technological University](http://www.ntu.edu.sg/) as Research Fellow. My main research topic is the design and the cryptanalysis of symmetric cryptography primitives, as well as applications of machine learning to security.
 
