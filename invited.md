@@ -14,6 +14,10 @@ sidebar:
 
 # Invited Talks
 
+## 2024
+- TBA    
+at [IWSEC 2024](https://www.iwsec.org/2023/), Kyoto, Japan, September 17th 2024
+
 ## 2022
 
 - "**Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/CASA2022_slides.pdf)  
