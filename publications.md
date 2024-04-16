@@ -9,6 +9,13 @@ sidebar:
     nav: "docsp"
 ---
 
+# 2024
+
+- *A. Benamira, T. Peyrin, T. Yap, T. Guérand and B. Hooi*
+"**Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form**"
+in International Joint Conference on Artificial Intelligence - [IJCAI 2024](https://ijcai24.org/)   
+
+
 # 2023
 
 - *A. Benamira, T. Guérand, T. Peyrin amd S. Saha*   
