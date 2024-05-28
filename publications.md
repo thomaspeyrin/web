@@ -13,7 +13,11 @@ sidebar:
 
 - *A. Benamira, T. Peyrin, T. Yap, T. Guérand and B. Hooi*
 "**Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form**"
-in International Joint Conference on Artificial Intelligence - [IJCAI 2024](https://ijcai24.org/)   
+in International Joint Conference on Artificial Intelligence - [IJCAI 2024](https://ijcai24.org/)
+
+- *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*
+"**Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac**"      
+in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2025/) and Transactions on Symmetric Cryptology - [ToSC 2024-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 
 # 2023
@@ -35,7 +39,7 @@ in European Conference on Artificial Intelligence - [ECAI 2023](https://ecai2023
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
 "**Boosting differential-linear cryptanalysis of ChaCha7 with MILP**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/10983/10416)   
-in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2023-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2024/) and Transactions on Symmetric Cryptology - [ToSC 2023-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
 "**Fully Automated Differential-Linear Attacks against ARX Ciphers**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2023/181.pdf)   
