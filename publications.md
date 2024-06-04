@@ -11,13 +11,17 @@ sidebar:
 
 # 2024
 
+- *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*   
+"**A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers**"   
+in IACR Communications in Cryptology [CiC 2024-2](https://cic.iacr.org/i/1/2)
+
 - *A. Benamira, T. Peyrin, T. Yap, T. Guérand and B. Hooi*
 "**Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form**"
 in International Joint Conference on Artificial Intelligence - [IJCAI 2024](https://ijcai24.org/)
 
 - *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*
 "**Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac**"      
-in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2025/) and Transactions on Symmetric Cryptology - [ToSC 2024-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2025/) and IACR Transactions on Symmetric Cryptology - [ToSC 2024-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 
 # 2023
@@ -39,7 +43,7 @@ in European Conference on Artificial Intelligence - [ECAI 2023](https://ecai2023
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
 "**Boosting differential-linear cryptanalysis of ChaCha7 with MILP**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/10983/10416)   
-in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2024/) and Transactions on Symmetric Cryptology - [ToSC 2023-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2024/) and IACR Transactions on Symmetric Cryptology - [ToSC 2023-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
 "**Fully Automated Differential-Linear Attacks against ARX Ciphers**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2023/181.pdf)   
@@ -47,7 +51,7 @@ in Topics in Cryptology - [CT-RSA 2023](https://ct-rsa-2023.eecs.oregonstate.edu
 
 - *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*  
 "**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_small)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_big)    
-in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.org/2023/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2023-2](http://tches.iacr.org/index.php/tches/issue/archive)
+in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.org/2023/) and IACR Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2023-2](http://tches.iacr.org/index.php/tches/issue/archive)
 
 
 # 2022
@@ -58,11 +62,11 @@ in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv
 
 - *S. Saha, M. Khairallah and T. Peyrin*  
 "**Exploring Integrity of AEADs with Faults: Definitions and Constructions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1055.pdf)    
-in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and IACR Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *Q.Q. Tan and T. Peyrin*  <span style="color:red"><strong>(- Best Paper Award -)</strong></span>    
 "**Mind Your Path: on (Key) Dependencies in Differential Characteristics**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1734.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/QuanQuanTan/key-dependency-tool)   
-in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and IACR Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *K. Hu, T. Peyrin, M. Wang*  
 "**Finding All Impossible Differentials When Considering the DDT**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1034.pdf)   
@@ -80,7 +84,7 @@ in Advances in Cryptology - [ASIACRYPT 2021](https://asiacrypt.iacr.org/2021/)
 
 - *D. Gerault, T. Peyrin and Q. Q. Tan*  
 "**Exploring Differential-Based Distinguishers and Forgeries for ASCON**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2021/1103.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=_umotfr0hro)  
-in Fast Software Encryption - [FSE 2022](https://fse.iacr.org/2022/) and Transactions on Symmetric Cryptology - [ToSC 2021-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2022](https://fse.iacr.org/2022/) and IACR Transactions on Symmetric Cryptology - [ToSC 2021-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *J. Jean, I. Nikolic, T. Peyrin and Y. Seurin*  
 "**The Deoxys AEAD Family**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Jean-etal-JoC2021.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/view/deoxyscipher)         
@@ -96,7 +100,7 @@ in Advances in Cryptology - [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/)
 
 - *A. Adomnicai and T. Peyrin*  
 "**Fixslicing AES-like Ciphers - New bitsliced AES speed records on ARM-Cortex M and RISC-V**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/1123.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=YuP0zQZl5rA)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn/aes)  
-in Cryptographic Hardware and Embedded System - [CHES 2021](https://ches.iacr.org/2021/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2021-1](http://tches.iacr.org/index.php/tches/issue/archive)
+in Cryptographic Hardware and Embedded System - [CHES 2021](https://ches.iacr.org/2021/) and IACR Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2021-1](http://tches.iacr.org/index.php/tches/issue/archive)
 
 
 # 2020
@@ -127,23 +131,23 @@ in International Symposium on Cyber Security Cryptology and Machine Learning - [
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S. M. Sim*  
 "**SKINNY-AEAD and SKINNY-Hash**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8619) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny)  
-in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in IACR Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *D. Goudarzi, J. Jean, S. Kölbl, T. Peyrin, M. Rivain, Y. Sasaki and S. M. Sim*  
 "**Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8617) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://pyjamask-cipher.github.io/index.html)  
-in Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in IACR Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
 "**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/992.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)   
-in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and IACR Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *A. Adomnicai, Z. Najm and T. Peyrin*  
 "**Fixslicing: A New GIFT Representation**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2020/412.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Adomnicai-etal-CHES2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/aadomn/gift)     
-in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-3](http://tches.iacr.org/index.php/tches/issue/archive)
+in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and IACR Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-3](http://tches.iacr.org/index.php/tches/issue/archive)
 
 - *Q. Q. Tan and T. Peyrin*  
 "**Improved Heuristics for Short Linear Programs**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/847.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Peyrin-Tan-CHES2020_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/thomaspeyrin/XORreduce)   
-in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
+in Cryptographic Hardware and Embedded System - [CHES 2020](https://ches.iacr.org/2020/) and IACR Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2020-1](http://tches.iacr.org/index.php/tches/issue/archive)  
 
 
 # 2019
@@ -162,7 +166,7 @@ in Advances in Cryptology - [EUROCRYPT 2019](https://eurocrypt.iacr.org/2019/)
 
 - *H. Wang and T. Peyrin*  
 "**Boomerang Switch in Multiple Rounds - Application to AES Variants and Deoxys**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/download/view/7400/6572)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://tosc.iacr.org/index.php/ToSC/download/view/7400/7558)  
-in Fast Software Encryption - [FSE 2019](https://fse.iacr.org/2019/) and Transactions on Symmetric Cryptology - [ToSC 2019-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2019](https://fse.iacr.org/2019/) and IACR Transactions on Symmetric Cryptology - [ToSC 2019-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 
 # 2018
@@ -181,19 +185,19 @@ in IEEE International Symposium on Hardware Oriented Security and Trust - [HOST 
 
 - *J. Jean, T. Peyrin and S. M. Sim*  
 "**Optimizing Implementations of Lightweight Building Blocks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2017/101.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://tosc.iacr.org/index.php/ToSC/article/download/806/7594)  
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/) and Transactions on Symmetric Cryptology - [ToSC 2017-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)   
+in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/) and IACR Transactions on Symmetric Cryptology - [ToSC 2017-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)   
 
 - *S. Bhasin, D. Jap and T. Peyrin*  
 "**Practical Evaluation of FSE 2016 Customized Encoding Countermeasure**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/download/767/725/)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://tosc.iacr.org/index.php/ToSC/article/download/767/7606)   
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and Transactions on Symmetric Cryptology - [ToSC 2017-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
+in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and IACR Transactions on Symmetric Cryptology - [ToSC 2017-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
 
 - *C. Cid, T. Huang, T. Peyrin, Y. Sasaki and L. Song*  
 "**A Security Analysis of Deoxys and its Internal Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2017/693.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://tosc.iacr.org/index.php/ToSC/article/download/766/7605)   
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and Transactions on Symmetric Cryptology - [ToSC 2017-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
+in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and IACR Transactions on Symmetric Cryptology - [ToSC 2017-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
 
 - *K. Khoo, E. Lee, T. Peyrin and S. M. Sim*  
 "**Human-readable Proof of the Related-Key Security of AES-128**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2016/025.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://tosc.iacr.org/index.php/ToSC/article/download/638/7580)  
-in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and Transactions on Symmetric Cryptology - [ToSC 2017-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
+in Fast Software Encryption - [FSE 2018](https://www.cosic.esat.kuleuven.be/events/fse2018/)  and IACR Transactions on Symmetric Cryptology - [ToSC 2017-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)  
 
 
 # 2017
