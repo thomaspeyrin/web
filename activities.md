@@ -27,7 +27,7 @@ sidebar:
   - [FSE 2011]("http://fse2011.mat.dtu.dk"), [FSE 2014]("http://fse2014.isg.rhul.ac.uk"), [FSE 2015]("http://light-sec.org/fse2015"), [FSE/ToSC 2017]("http://www.nuee.nagoya-u.ac.jp/labs/tiwata/fse2017"), [FSE/ToSC 2019]("https://fse.iacr.org/2019"), [FSE/ToSC 2020]("https://fse.iacr.org/2020"), [FSE/ToSC 2021]("https://fse.iacr.org/2021"), [FSE/ToSC 2022]("https://fse.iacr.org/2022"), [FSE/ToSC 2023]("https://fse.iacr.org/2023"), [FSE/ToSC 2024]("https://fse.iacr.org/2024")
   - [CHES 2016]("http://www.chesworkshop.org/ches2016/index.php"), [CHES 2018]("https://ches.iacr.org/2018"), [CHES 2019]("https://ches.iacr.org/2019"), [CHES 2020]("https://ches.iacr.org/2020")
   - [CiC 2024]("https://cic.iacr.org/")
-  - [SAC 2011]("http://sac2011.ryerson.ca")
+  - [SAC 2011]("http://sac2011.ryerson.ca"), [SAC 2025]("https://sacworkshop.org/SAC25/")
   - [INDOCRYPT 2013]("http://indocrypt.hbni.ac.in"), [INDOCRYPT 2014]("http://cse.iitkgp.ac.in/conf/INDOCRYPT2014"), [INDOCRYPT 2016]("https://sites.google.com/site/thomaspeyrin/goog_1654583412"), [INDOCRYPT 2023]("https://crsind.in/indocrypt2023/")
   - [WEWoRC 2011]("http://www.uni-weimar.de/cms/medien/mediensicherheit/weworc-2011/home.html"), [WeWORC 2013]("http://2013.weworc.eu"), [WeWORC 2015]("http://2015.weworc.eu")
   - [ACNS 2015]("http://acns2015.cs.columbia.edu"), [ACNS 2016]("http://acns2016.sccs.surrey.ac.uk"), [ACNS 2017]("https://cy2sec.comm.eng.osaka-u.ac.jp/acns2017"), [ACNS 2018]("https://www.cosic.esat.kuleuven.be/events/acns2018")
