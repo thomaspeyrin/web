@@ -20,8 +20,10 @@ in IACR Communications in Cryptology [CiC 2024-2](https://cic.iacr.org/i/1/2)
 in International Joint Conference on Artificial Intelligence - [IJCAI 2024](https://ijcai24.org/)  
 
 - *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*
-"**Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/download/11619/11111/12258)        
+"**Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/download/11619/11111/12258)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/AugustinBariant/Implementations_LeMac_PetitMac)     
 in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2025/) and IACR Transactions on Symmetric Cryptology - [ToSC 2024-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
+
 
 
 # 2023
