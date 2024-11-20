@@ -15,7 +15,11 @@ sidebar:
 # Invited Talks
 
 ## 2024
-- TBA    
+
+- "**Automated Analysis for Pushing Performance Limits in Symmetric-Key Cryptography**"    
+at [7th Huawei Forum on Trust and Privacy for the Future Digital World](https://lu.ma/t6lc8cxd), Singapore, Singapore, November 29th 2024
+
+- "**Automated Analysis for Pushing Performance Limits in Symmetric-Key Cryptography**"    
 at [IWSEC 2024](https://www.iwsec.org/2023/), Kyoto, Japan, September 17th 2024
 
 ## 2022
