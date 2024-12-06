@@ -12,7 +12,7 @@ sidebar:
 # 2024
 
 - *K. Hu, M. Khairallah, T. Peyrin and Q. Q. Tan*
-"**uKNIT: Breaking Round-alignment for Cipher Design -- Featuring uKNIT-BC, an Ultra Low-Latency Block Cipher**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1762)   
+"**uKNIT: Breaking Round-alignment for Cipher Design -- Featuring uKNIT-BC, an Ultra Low-Latency Block Cipher**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1962)   
 
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*  
 "**The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1743)   
