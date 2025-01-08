@@ -50,6 +50,14 @@ docsp:
   - title: Publications
     url: /publications/
     children:
+      - title: "2025"
+        url: /publications/#2025
+      - title: "2024"
+        url: /publications/#2024
+      - title: "2023"
+        url: /publications/#2023
+      - title: "2022"
+        url: /publications/#2022
       - title: "2021"
         url: /publications/#2021
       - title: "2020"
