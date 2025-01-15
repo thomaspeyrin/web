@@ -19,10 +19,7 @@ in Topics in Cryptology - **CT-RSA 2025**
 
 - *K. Hu, M. Khairallah, T. Peyrin and Q. Q. Tan*  
 "**uKNIT: Breaking Round-alignment for Cipher Design -- Featuring uKNIT-BC, an Ultra Low-Latency Block Cipher**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1962)   
-
-- *E. Bellini, D. Gerault, J. Grados and T. Peyrin*  
-"**The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1743)   
-
+  
 - *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*   
 "**A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/846.pdf)    
 in IACR Communications in Cryptology [CiC 2024-2](https://cic.iacr.org/i/1/2)
