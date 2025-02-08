@@ -13,7 +13,7 @@ sidebar:
 
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*   
 "**The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1743)     
-in Topics in Cryptology - **CT-RSA 2025**   
+in Topics in Cryptology - [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)   
 
 # 2024
 
