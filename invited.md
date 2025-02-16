@@ -14,6 +14,11 @@ sidebar:
 
 # Invited Talks
 
+## 2025
+
+- "**Open Cryptanalysis Platform (OCP) - A New Collaborative Effort for Automated Cryptanalysis**"    
+at [SKCAM 2025](https://skcamworkshop.github.io/skcam2025/), Roma, Italy, March 15th 2025   
+
 ## 2024
 
 - "**Automated Analysis for Pushing Performance Limits in Symmetric-Key Cryptography**"    
