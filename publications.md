@@ -11,6 +11,12 @@ sidebar:
 
 # 2025
 
+- *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*   
+"**Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/396)
+
+- *K. Hu, C. Zhang, C. Chang, J. Zhang, M. Wang and T. Peyrin*   
+"**Periodic Table of Cryptanalysis: Geometric Approach with Different Bases**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/403) 
+
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*   
 "**The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1743)     
 in Topics in Cryptology - [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)   
@@ -37,7 +43,7 @@ in Fast Software Encryption - [FSE 2025](https://fse.iacr.org/2025/) and IACR Tr
 
 # 2023
 
-- *A. Benamira, T. Guérand, T. Peyrin amd S. Saha*   
+- *A. Benamira, T. Guérand, T. Peyrin and S. Saha*   
 "**TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2302.01584)   
 
 - *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*   
