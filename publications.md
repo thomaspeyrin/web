@@ -415,7 +415,7 @@ in Australasian Conference on Information Security and Privacy - [ACISP 2010](ht
 "**Cryptanalysis of the 10-Round Hash and Full Compression Function of SHAvite-3-512**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://thomaspeyrin.github.io/web/assets/docs/papers/Gauravaram-etal-AfricaCrypt2010.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gauravaram-etal-AfricaCrypt2010_slides.pdf)  
 in Progress in Cryptology - [AFRICACRYPT 2010](http://2010.africacrypt.com/index.shtml)  
 
-- *H. Gilbert and T. Peyrin*  
+- *H. Gilbert and T. Peyrin*  <span style="color:red"><strong>(- Test of Time Award - FSE 2025 -)</strong></span>  
 "**Super-Sbox Cryptanalysis: Improved Attacks for AES-like Permutations**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2009/531.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Gilbert-Peyrin-FSE2010_slides.pdf)   
 in Fast Software Encryption - [FSE 2010](http://cist.korea.ac.kr/~fse2010/)  
 
