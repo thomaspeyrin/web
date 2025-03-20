@@ -21,7 +21,8 @@ Previously, I was a PhD student at [Orange Labs](http://www.orange.com/en_EN/) (
 
 # News
 
-- \[Feb. 23\] Our article "*Mind Your Path: on (Key) Dependencies in Differential Characteristics*" has obtained the **Best Paper Award** at [FSE 2023/ ToSC](https://fse.iacr.org/2023/) 
+- \[Mar. 25\] The article "*Super-Sbox Cryptanalysis: Improved Attacks for AES-like Permutations*" from FSE 2010 has received the **Test of Time Award** at [FSE 2025](https://fse.iacr.org/2025/)
+- \[Feb. 23\] The article "*Mind Your Path: on (Key) Dependencies in Differential Characteristics*" has obtained the **Best Paper Award** at [FSE 2023/ ToSC](https://fse.iacr.org/2023/) 
 - \[Nov. 22\] Extremely honored to be one of the recipients of a [NRF Investigatorship](https://www.nrf.gov.sg/docs/default-source/default-document-library/nrf-website-(nrf-investigators-portfolio)_updated-nov-2022.pdf) award (Topic: "Interpretable and Automated Cryptanalysis for Tailor-Made Cryptographic Design"). Postdoc/PhD candidates interested to work on cryptography/automated solvers/machine learning, please drop me an email.
 - \[Sep. 21\] A new block cipher naturally resistant against a large class of differential fault attacks - Our article "*DEFAULT: Cipher Level Resistance Against Differential Fault Attack*" has been accepted at [ASIACRYPT 2021](https://asiacrypt.iacr.org/2021/)  
 - \[Mar. 21\] 3 submissions from SyLLab selected for the final round of the [NIST lightweight competition](https://csrc.nist.gov/Projects/Lightweight-Cryptography): [GIFT-COFB](https://www.isical.ac.in/~lightweight/COFB/), [PHOTON-BEETLE](https://www.isical.ac.in/~lightweight/beetle/) and [Romulus](https://romulusae.github.io/romulus/)
