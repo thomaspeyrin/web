@@ -11,6 +11,9 @@ sidebar:
 
 # 2025
 
+- *B. Chakraborty, M. Nandi, S. Pal, T. Peyrin and Q.Q. Tan*
+"**AsconAEAD128 Revisited in the Multi-user Setting Secret-key cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/984)
+
 - *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*   
 "**Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/396)
 
