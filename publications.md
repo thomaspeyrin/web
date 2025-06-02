@@ -15,7 +15,7 @@ sidebar:
 "**Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/396)
 
 - *K. Hu, C. Zhang, C. Chang, J. Zhang, M. Wang and T. Peyrin*   
-"**Unlocking Mix-Basis Potential: Geometric Approach for Combined Attacks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/403)
+"**Unlocking Mix-Basis Potential: Geometric Approach for Combined Attacks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/403)    
 in Advances in Cryptology - [CRYPTO 2025](https://crypto.iacr.org/2025/) 
 
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*   
