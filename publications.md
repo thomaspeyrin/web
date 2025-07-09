@@ -25,7 +25,7 @@ sidebar:
 in Advances in Cryptology - [CRYPTO 2025](https://crypto.iacr.org/2025/) 
 
 - *E. Bellini, D. Gerault, J. Grados and T. Peyrin*   
-"**The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1743)     
+"**The Window Heuristic: Automating Differential Trail Search in ARX Ciphers with Partial Linearization Trade-offs**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1743)   [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Bellini-etal-CTRSA2025_slides.pdf)       
 in Topics in Cryptology - [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)   
 
 # 2024
@@ -38,11 +38,11 @@ in Topics in Cryptology - [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)
 in IACR Communications in Cryptology [CiC 2024-2](https://cic.iacr.org/i/1/2)
 
 - *A. Benamira, T. Peyrin, T. Yap, T. Guérand and B. Hooi*
-"**Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.ijcai.org/proceedings/2024/0002.pdf)     
+"**Truth Table Net: Scalable, Compact & Verifiable Neural Networks with a Dual Convolutional Small Boolean Circuit Networks Form**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://www.ijcai.org/proceedings/2024/0002.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Benamira-etal-IJCAI2024_slides.pdf)          
 in International Joint Conference on Artificial Intelligence - [IJCAI 2024](https://ijcai24.org/)  
 
 - *A. Bariant, J. Baudrin, G. Leurent, C. Pernot, L. Perrin and T. Peyrin*
-"**Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/download/11619/11111/12258)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/AugustinBariant/Implementations_LeMac_PetitMac)     
+"**Fast AES-based Universal Hash Functions and MACs - Featuring LeMac and PetitMac**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/download/11619/11111/12258)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/AugustinBariant/Implementations_LeMac_PetitMac)   [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Bariant-etal-FSE2025_slides.pdf)           
 in Fast Software Encryption - [FSE 2025](https://fse.iacr.org/2025/) and IACR Transactions on Symmetric Cryptology - [ToSC 2024-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 
@@ -58,11 +58,11 @@ in Fast Software Encryption - [FSE 2025](https://fse.iacr.org/2025/) and IACR Tr
 in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
 
 - *A. Benamira, T. Guérand and T. Peyrin*  
-"**A New Interpretable Neural Network-Based Rule Model for Healthcare Decision Making**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2309.11101v1.pdf)   
+"**A New Interpretable Neural Network-Based Rule Model for Healthcare Decision Making**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2309.11101v1.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Benamira-etal-iAIM2023_slides.pdf)   
 in International Conference on AI in Medicine - [iAIM 2023](https://iaim2023.sg/)  
 
 - *A. Benamira, T. Guérand, T. Peyrin and H. Soegeng*  
-"**Neural Network-Based Rule Models With Truth Tables**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2309.09638v1.pdf)   
+"**Neural Network-Based Rule Models With Truth Tables**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2309.09638v1.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/slides/Benamira-etal-ECAI2023_slides.pdf)   
 in European Conference on Artificial Intelligence - [ECAI 2023](https://ecai2023.eu/)    
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
