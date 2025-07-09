@@ -85,11 +85,11 @@ in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.or
 in Workshop on Adversarial Robustness in the Real World [AROW 2022](https://eccv22-arow.github.io/) (ECCV 2022 Workshop)
 
 - *S. Saha, M. Khairallah and T. Peyrin*  
-"**Exploring Integrity of AEADs with Faults: Definitions and Constructions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1055.pdf)    
+"**Exploring Integrity of AEADs with Faults: Definitions and Constructions**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1055.pdf)    [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://iacr.org/submit/files/slides/2023/fse/fse2023/tosc2022_4_47/slides.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=v7s5QlSsj4s)   
 in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and IACR Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *Q.Q. Tan and T. Peyrin*  <span style="color:red"><strong>(- Best Paper Award -)</strong></span>    
-"**Mind Your Path: on (Key) Dependencies in Differential Characteristics**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1734.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/QuanQuanTan/key-dependency-tool)   
+"**Mind Your Path: on (Key) Dependencies in Differential Characteristics**"    [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1734.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://iacr.org/submit/files/slides/2023/fse/fse2023/tosc2022_4_40/slides.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=4Z4eEwGFtTA)     [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/QuanQuanTan/key-dependency-tool)   
 in Fast Software Encryption - [FSE 2023](https://fse.iacr.org/2023/) and IACR Transactions on Symmetric Cryptology - [ToSC 2022-4](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *K. Hu, T. Peyrin, M. Wang*  
