@@ -16,20 +16,20 @@ sidebar:
 
 ## 2025
 
-- "**Open Cryptanalysis Platform (OCP) - A New Collaborative Effort for Automated Cryptanalysis**"    
+- "**Open Cryptanalysis Platform (OCP) - A New Collaborative Effort for Automated Cryptanalysis**"    [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/SKCAM2025_slides.pdf)  
 at [SKCAM 2025](https://skcamworkshop.github.io/skcam2025/), Roma, Italy, March 15th 2025   
 
 ## 2024
 
-- "**Automated Analysis for Pushing Performance Limits in Symmetric-Key Cryptography**"    
+- "**Automated Analysis for Pushing Performance Limits in Symmetric-Key Cryptography**"    [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/HUAWEI2024_slides.pdf)  
 at [7th Huawei Forum on Trust and Privacy for the Future Digital World](https://lu.ma/t6lc8cxd), Singapore, Singapore, November 29th 2024
 
-- "**Automated Analysis for Pushing Performance Limits in Symmetric-Key Cryptography**"    
+- "**Automated Analysis for Pushing Performance Limits in Symmetric-Key Cryptography**"    [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/IWSEC2024_slides.pdf)   
 at [IWSEC 2024](https://www.iwsec.org/2023/), Kyoto, Japan, September 17th 2024
 
 ## 2022
 
-- "**Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/CASA2022_slides.pdf)  
+- "**Lightweight Cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://thomaspeyrin.github.io/web/assets/docs/invited/CASA2022_slides.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=unjE_asapYk)   
 at [CASA Distinguished Lectures](https://casa.rub.de/news/casa-distinguished-lectures), Virtual, February 24th 2022
 
 ## 2021
