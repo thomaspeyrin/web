@@ -54,7 +54,7 @@ in Fast Software Encryption - [FSE 2025](https://fse.iacr.org/2025/) and IACR Tr
 "**TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2302.01584)   
 
 - *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*   
-"**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf)   
+"**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/224/slides.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=H54ZzQ_FsQo)    
 in Advances in Cryptology - [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/)   
 
 - *A. Benamira, T. Guérand and T. Peyrin*  
@@ -66,15 +66,15 @@ in International Conference on AI in Medicine - [iAIM 2023](https://iaim2023.sg/
 in European Conference on Artificial Intelligence - [ECAI 2023](https://ecai2023.eu/)    
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
-"**Boosting differential-linear cryptanalysis of ChaCha7 with MILP**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/10983/10416)   
+"**Boosting differential-linear cryptanalysis of ChaCha7 with MILP**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/10983/10416)  [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://iacr.org/submit/files/slides/2024/fse/fse2024/2023_2_24/slides.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=xzKnzFDCMes)    
 in Fast Software Encryption - [FSE 2024](https://fse.iacr.org/2024/) and IACR Transactions on Symmetric Cryptology - [ToSC 2023-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *E. Bellini, D. Gerault, J. Grados, R. H. Makarim and T. Peyrin*  
-"**Fully Automated Differential-Linear Attacks against ARX Ciphers**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2023/181.pdf)   
+"**Fully Automated Differential-Linear Attacks against ARX Ciphers**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2023/181.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=MHT_QjzE2hE&t=900s)   
 in Topics in Cryptology - [CT-RSA 2023](https://ct-rsa-2023.eecs.oregonstate.edu/)    
 
 - *T. Yap, A. Benamira, S. Bhasin and T. Peyrin*  
-"**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_small)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_big)    
+"**Peek into the Black-Box: Interpretable Neural Network using SAT Equations in Side-Channel Analysis**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1247.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://iacr.org/submit/files/slides/2023/tches/ches2023/2_8/slides.pdf)    [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=9sFG5_OURGo&t=1560s)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_small)   [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/yap231995/TTSCA_big)    
 in Cryptographic Hardware and Embedded System - [CHES 2023](https://ches.iacr.org/2023/) and IACR Transactions on Cryptographic Hardware and Embedded Systems - [TCHES 2023-2](http://tches.iacr.org/index.php/tches/issue/archive)
 
 
