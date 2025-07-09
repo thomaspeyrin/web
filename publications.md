@@ -116,7 +116,7 @@ in [Journal of Cryptology - 33 (October 2021)](https://link.springer.com/article
 in Topics in Cryptology - [CT-RSA 2021](https://sites.google.com/site/ctrsa2021/)
 
 - *A. Benamira, D. Gerault, T. Peyrin and Q. Q. Tan*  
-"**A Deeper Look at Machine Learning-Based Cryptanalysis**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2021/287.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/AnonymousSubmissionEuroCrypt2021/A-Deeper-Look-at-Machine-Learning-Based-Cryptanalysis)    
+"**A Deeper Look at Machine Learning-Based Cryptanalysis**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2021/287.pdf)  [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=fjqtCNv72II)    [![](https://thomaspeyrin.github.io/web/assets/images/github_icon_small.png "github")](https://github.com/AnonymousSubmissionEuroCrypt2021/A-Deeper-Look-at-Machine-Learning-Based-Cryptanalysis)    
 in Advances in Cryptology - [EUROCRYPT 2021](https://eurocrypt.iacr.org/2021/)     
 
 - *A. Adomnicai and T. Peyrin*  
@@ -151,15 +151,15 @@ in Advances in Cryptology - [CRYPTO 2020](https://crypto.iacr.org/2020/)
 in International Symposium on Cyber Security Cryptology and Machine Learning - [CSCML 2020](https://www.cs.bgu.ac.il/~fradmin/cscml20/index.html)   
 
 - *C. Beierle, J. Jean, S. Kölbl, G. Leander, A. Moradi, T. Peyrin, Y. Sasaki, P. Sasdrich and S. M. Sim*  
-"**SKINNY-AEAD and SKINNY-Hash**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8619) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny)  
+"**SKINNY-AEAD and SKINNY-Hash**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8619) [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=EEBgUul1rOc) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://sites.google.com/site/skinnycipher/nist-lwc-submission/skinny)  
 in IACR Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *D. Goudarzi, J. Jean, S. Kölbl, T. Peyrin, M. Rivain, Y. Sasaki and S. M. Sim*  
-"**Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8617) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://pyjamask-cipher.github.io/index.html)  
+"**Pyjamask: Block Cipher and Authenticated Encryption with Highly Efficient Masked Implementation**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tosc.iacr.org/index.php/ToSC/article/view/8617) [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=oDMI07u2EIs) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://pyjamask-cipher.github.io/index.html)  
 in IACR Transactions on Symmetric Cryptology - Special Issue on Designs for the NIST Lightweight Standardisation Process [ToSC 2020-LWC](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *T. Iwata, M. Khairallah, K. Minematsu and T. Peyrin*  
-"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/992.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)   
+"**Duel of the Titans: The Romulus and Remus Families of Lightweight AEAD Algorithms**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2019/992.pdf) [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=3ML5g8tnP6A)  [![](https://thomaspeyrin.github.io/web/assets/images/website_icon_small.png "website")](https://romulusae.github.io/romulus/)   
 in Fast Software Encryption - [FSE 2020](https://fse.iacr.org/2020/) and IACR Transactions on Symmetric Cryptology - [ToSC 2020-1](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *A. Adomnicai, Z. Najm and T. Peyrin*  
