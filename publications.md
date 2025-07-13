@@ -14,6 +14,9 @@ sidebar:
 - *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*    
 "**Navigating the Deep: Signature Extraction on Deep Neural Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.17047)
 
+- *A. HAsan and T. Peyrin*    
+"**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.05960)
+
 - *B. Chakraborty, M. Nandi, S. Pal, T. Peyrin and Q.Q. Tan*    
 "**AsconAEAD128 Revisited in the Multi-user Setting Secret-key cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/984)
 
