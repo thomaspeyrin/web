@@ -21,7 +21,7 @@ sidebar:
 "**AsconAEAD128 Revisited in the Multi-user Setting Secret-key cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/984)
 
 - *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*   
-"**Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/396)
+"**Trail-Estimator: An Automated Verifier for Differential Trails in Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/396)   
 in Fast Software Encryption - [FSE 2026](https://fse.iacr.org/2026/) and IACR Transactions on Symmetric Cryptology - [ToSC 2025-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *K. Hu, C. Zhang, C. Chang, J. Zhang, M. Wang and T. Peyrin*   
