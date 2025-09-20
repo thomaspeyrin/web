@@ -11,7 +11,7 @@ sidebar:
 
 # 2025
 
-- *H. Zhang, A. Benamira, S. Bhasin, T. Peyrin, S. Saha and T. Yap*
+- *H. Zhang, A. Benamira, S. Bhasin, T. Peyrin, S. Saha and T. Yap*     
 "**Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks**"    
 in Intelligent Computing and Systems at the Edge - [ICEDGE 2025](https://icedge.org/)    
 
