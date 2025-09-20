@@ -11,6 +11,10 @@ sidebar:
 
 # 2025
 
+- *H. Zhang, A. Benamira, S. Bhasin, T. Peyrin, S. Saha and T. Yap*
+"**Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks**"    
+in Intelligent Computing and Systems at the Edge - [ICEDGE 2025](https://icedge.org/)    
+
 - *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*    
 "**Navigating the Deep: Signature Extraction on Deep Neural Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.17047)
 
