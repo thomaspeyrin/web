@@ -26,7 +26,7 @@ in Intelligent Computing and Systems at the Edge - [ICEDGE 2025](https://icedge.
 
 - *W. Rojas-Carabali, T. Guérand, C. Cifuentes-González, J. Abisheganaden, P. RK, Yap Wei, G. Mejía-Salgado, A. de-la-Torre, J. Smith, J. Kempen, Q. Nguyen, C. Pavesio,
 B.Lee, V. Gupta, T. Peyrin, and R. Agrawal*    
-"Dynamic Prediction of Treatment Failure in Ocular Tuberculosis using Machine Learning and Explainable AI"    
+"**Dynamic Prediction of Treatment Failure in Ocular Tuberculosis using Machine Learning and Explainable AI**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://tvst.arvojournals.org/article.aspx?articleid=2810997)       
 in Translational Vision Science and Technology - [TVST](https://tvst.arvojournals.org/) 2025   
 
 - *T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*   
