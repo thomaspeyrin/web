@@ -9,7 +9,22 @@ sidebar:
     nav: "docsp"
 ---
 
+# 2026
+
+- *H. Soegeng, T. Guérand and T. Peyrin*   
+"**Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://openreview.net/forum?id=gVrC91vd7e)     
+in From Understanding Model Behavior to Discovering New Scientific Knowledge - [XAI4Science 2026](https://aibsdworkshop.github.io/2026/index.html)  (AAAI 2026 workshop)    
+
+- *H. Soegeng, T. Guérand and T. Peyrin*   
+"**Towards Globally Interpretable Few-Shot Tabular Learning: Distilling Foundation Models**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://drive.google.com/file/d/11uTKV8XXjJH2GXn5iWSl-xkxtlvK0l6Q/view?usp=drive_link)     
+in Artificial Intelligence with Biased or Scarce Data - [AIBSD 2026](https://aibsdworkshop.github.io/2026/index.html)  (AAAI 2026 workshop)
+
+
 # 2025
+
+- *A. Benamira, T. Guérand, T. Peyrin and S. Saha*   
+"**TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2302.01584)   
+in Transactions on Machine Learning Research - [TMLR 2025](https://jmlr.org/tmlr/papers/index.html)    
 
 - *H. Zhang, T. Yap, A. Benamira, S. Saha, S. Bhasin and T. Peyrin*     
 "**Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks**"    
@@ -62,9 +77,6 @@ in Fast Software Encryption - [FSE 2025](https://fse.iacr.org/2025/) and IACR Tr
 
 
 # 2023
-
-- *A. Benamira, T. Guérand, T. Peyrin and S. Saha*   
-"**TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2302.01584)   
 
 - *K. Hu, T. Peyrin, Q.Q. Tan and T. Yap*   
 "**Revisiting Higher-Order Differential-Linear Attacks from an Algebraic Perspective**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/1335.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/pres_icon_small.png "slides")](https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/224/slides.pdf)   [![](https://thomaspeyrin.github.io/web/assets/images/video_icon_small.png "video")](https://www.youtube.com/watch?v=H54ZzQ_FsQo)    
