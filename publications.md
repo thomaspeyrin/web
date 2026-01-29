@@ -11,6 +11,10 @@ sidebar:
 
 # 2026
 
+- *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*    
+"**Navigating the Deep: Signature Extraction on Deep Neural Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.17047)   
+in Advances in Cryptology - [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/)       
+
 - *H. Soegeng, T. Guérand and T. Peyrin*   
 "**Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://openreview.net/forum?id=gVrC91vd7e)     
 in From Understanding Model Behavior to Discovering New Scientific Knowledge - [XAI4Science 2026](https://aibsdworkshop.github.io/2026/index.html)  (AAAI 2026 workshop)    
@@ -30,8 +34,7 @@ in Transactions on Machine Learning Research - [TMLR 2025](https://jmlr.org/tmlr
 "**Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks**"    
 in Intelligent Computing and Systems at the Edge - [ICEDGE 2025](https://icedge.org/)    
 
-- *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*    
-"**Navigating the Deep: Signature Extraction on Deep Neural Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.17047)
+
 
 - *A. Hasan and T. Peyrin*    
 "**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.05960)
