@@ -11,6 +11,10 @@ sidebar:
 
 # 2026
 
+- *H. Soegeng, S. K. Modi and T. Peyrin*   
+"**TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2603.07606)     
+in International Conference on Machine Learning - [ICML 2026](https://icml.cc/Conferences/2026)   
+
 - *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*    
 "**Navigating the Deep: Signature Extraction on Deep Neural Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.17047)   
 in Advances in Cryptology - [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/)       
