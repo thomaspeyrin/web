@@ -22,7 +22,7 @@ sidebar:
 
 ## Work Experience
 - __September 2022 - present__: **Full Professor**, in [Nanyang Technological University](http://www.ntu.edu.sg/).
-- __April 2012 - present__: **Head of the [Symmetric Key and Lightweight Cryptography Lab (SyLLab)](https://syllab-ntu.github.io/syllab/)**.
+- __April 2012 - present__: **Head of the [Symmetric key and machine Learning Lab (SyLLab)](https://syllab-ntu.github.io/syllab/)**.
 - __September 2017 - August 2022__: **Associate Professor**, in [Nanyang Technological University](http://www.ntu.edu.sg/).
 - __April 2012 - August 2017__: **Nanyang Assistant Professor**, **NRF Fellow** in [Nanyang Technological University](http://www.ntu.edu.sg/).
 - __October 2010 - March 2012__: **Research Fellow**, **Lee Kuan Yew Fellow** at [Coding and Cryptography Research Group](http://www1.spms.ntu.edu.sg/~ccrg/) in [Nanyang Technological University](http://www.ntu.edu.sg/).
