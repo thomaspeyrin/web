@@ -45,4 +45,4 @@ School of Physical and Mathematical Sciences / College of Computing and Data Sci
 Nanyang Technological University  
 SPMS-MAS-05-14, 21 Nanyang Link, Singapore 637371, Singapore  
 **Phone**: +65-65132027  
-**E-mail**: thomas.peyrin(at)ntu.edu.sg
+**E-mail**: thomas.peyrin(at)ntu.edu.sg or thomas.peyrin(at)implicant.ai  
