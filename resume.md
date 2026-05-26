@@ -37,9 +37,3 @@ sidebar:
 - __October - February 2004__: Semester Project at the Security Laboratory ([LASEC](http://lasecwww.epfl.ch/)) of the [EPFL](http://www.epfl.ch/) under the supervision of Gildas Avoine. 
 *Subject*: alternative Non-Adjacent Digit Sets (NADS). Improvement of the NADS search algorithm, search of infinite families of NADS, search of non-NADS generators.
 
-
-## Foreign Languages
-- **French**: Native language.
-- **English**: Fluent.
-- **Italian**: Conversational level.
-- **Japanese**: Basics.
