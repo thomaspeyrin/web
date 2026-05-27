@@ -19,6 +19,10 @@ in International Conference on Machine Learning - [ICML 2026](https://icml.cc/Co
 "**Navigating the Deep: Signature Extraction on Deep Neural Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.17047)   
 in Advances in Cryptology - [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/)       
 
+- *K. Hu, M. Khairallah, T. Peyrin and Q. Q. Tan*  
+"**uKNIT: Breaking Round-alignment for Cipher Design -- Featuring uKNIT-BC, an Ultra Low-Latency Block Cipher**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1962)   
+in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2026/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
 - *H. Soegeng, T. Guérand and T. Peyrin*   
 "**Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://openreview.net/forum?id=gVrC91vd7e)     
 in From Understanding Model Behavior to Discovering New Scientific Knowledge - [XAI4Science 2026](https://aibsdworkshop.github.io/2026/index.html)  (AAAI 2026 workshop)    
@@ -37,8 +41,6 @@ in Transactions on Machine Learning Research - [TMLR 2025](https://jmlr.org/tmlr
 - *H. Zhang, T. Yap, A. Benamira, S. Saha, S. Bhasin and T. Peyrin*     
 "**Lose All Weights: Defense against Bit Flip Attack on Weights using SAT-Based Neural Networks**"    
 in Intelligent Computing and Systems at the Edge - [ICEDGE 2025](https://icedge.org/)    
-
-
 
 - *A. Hasan and T. Peyrin*    
 "**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.05960)
@@ -64,9 +66,6 @@ in Advances in Cryptology - [CRYPTO 2025](https://crypto.iacr.org/2025/)
 in Topics in Cryptology - [CT-RSA 2025](https://ct-rsa-2025.csa.iisc.ac.in/)   
 
 # 2024
-
-- *K. Hu, M. Khairallah, T. Peyrin and Q. Q. Tan*  
-"**uKNIT: Breaking Round-alignment for Cipher Design -- Featuring uKNIT-BC, an Ultra Low-Latency Block Cipher**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1962)   
   
 - *B. Cogliati, J. Jean, T. Peyrin and Y. Seurin*   
 "**A Long Tweak Goes a Long Way: High Multi-user Security Authenticated Encryption from Tweakable Block Ciphers**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2022/846.pdf)    
