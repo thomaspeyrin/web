@@ -22,7 +22,7 @@ sidebar:
 
 - **Program Committee / Editorial Board** for 
   - [CRYPTO 2010]("http://www.iacr.org/conferences/crypto2010"), [CRYPTO 2012]("http://www.iacr.org/conferences/crypto2012"), [CRYPTO 2015]("http://www.iacr.org/conferences/crypto2015"), [CRYPTO 2016]("http://www.iacr.org/conferences/crypto2016"), [CRYPTO 2019]("http://www.iacr.org/conferences/crypto2019"), [CRYPTO 2021]("http://www.iacr.org/conferences/crypto2021"), [CRYPTO 2022]("http://www.iacr.org/conferences/crypto2022"), [CRYPTO 2023]("http://www.iacr.org/conferences/crypto2023"), [CRYPTO 2024]("http://www.iacr.org/conferences/crypto2024")     
-  - [EUROCRYPT 2012]("http://www.cs.bris.ac.uk/eurocrypt2012"), [EUROCRYPT 2021]("https://eurocrypt.iacr.org/2021/"), [EUROCRYPT 2022]("https://eurocrypt.iacr.org/2022/"), [EUROCRYPT 2025]("https://eurocrypt.iacr.org/2025/") 
+  - [EUROCRYPT 2012]("http://www.cs.bris.ac.uk/eurocrypt2012"), [EUROCRYPT 2021]("https://eurocrypt.iacr.org/2021/"), [EUROCRYPT 2022]("https://eurocrypt.iacr.org/2022/"), [EUROCRYPT 2025]("https://eurocrypt.iacr.org/2025/"), [EUROCRYPT 2027]("https://eurocrypt.iacr.org/2027/")
   - [ASIACRYPT 2011]("http://cist.korea.ac.kr/~asiacrypt2011/index.php?cont=home"), [ASIACRYPT 2014]("http://www.iacr.org/conferences/asiacrypt2014"), [ASIACRYPT 2016]("http://asiacrypt2016.com")
   - [FSE 2011]("http://fse2011.mat.dtu.dk"), [FSE 2014]("http://fse2014.isg.rhul.ac.uk"), [FSE 2015]("http://light-sec.org/fse2015"), [FSE/ToSC 2017]("http://www.nuee.nagoya-u.ac.jp/labs/tiwata/fse2017"), [FSE/ToSC 2019]("https://fse.iacr.org/2019"), [FSE/ToSC 2020]("https://fse.iacr.org/2020"), [FSE/ToSC 2021]("https://fse.iacr.org/2021"), [FSE/ToSC 2022]("https://fse.iacr.org/2022"), [FSE/ToSC 2023]("https://fse.iacr.org/2023"), [FSE/ToSC 2024]("https://fse.iacr.org/2024")
   - [CHES 2016]("http://www.chesworkshop.org/ches2016/index.php"), [CHES 2018]("https://ches.iacr.org/2018"), [CHES 2019]("https://ches.iacr.org/2019"), [CHES 2020]("https://ches.iacr.org/2020"), [CHES 2027]("https://ches.iacr.org/2027")  
@@ -45,6 +45,6 @@ sidebar:
   - [IWSEC 2012]("http://www.iwsec.org/2012"), [IWSEC 2013]("http://www.iwsec.org/2013"), [IWSEC 2014]("http://www.iwsec.org/2014"), [IWSEC 2015]("http://www.iwsec.org/2015"), [IWSEC 2016]("http://www.iwsec.org/2016"), [IWSEC 2017]("http://www.iwsec.org/2017")
   - [AIM 2012]("http://web.ftrai.org/aim2012")
 
-- External Rewiever for CRYPTO, EUROCRYPT, ASIACRYPT, FSE, CHES, ...
+- External Reviewer for CRYPTO, EUROCRYPT, ASIACRYPT, FSE, CHES, ...
 
 - Member of [IACR]("http://www.iacr.org").
