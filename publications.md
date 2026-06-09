@@ -11,6 +11,9 @@ sidebar:
 
 # 2026
 
+- *K. Hu, T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*    
+"**Finer-Grained Fixed-Key Differential Probability Distributions via Quasidifferential Decoupling**"   [![] (https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1162)     
+
 - *H. Soegeng, S. K. Modi and T. Peyrin*   
 "**TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2603.07606)     
 in International Conference on Machine Learning - [ICML 2026](https://icml.cc/Conferences/2026)   
