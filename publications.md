@@ -11,6 +11,9 @@ sidebar:
 
 # 2026
 
+- *D. Chai, S. Hu, T. Peyrin, Z. Wang, T. Yap, H. Zhang, L. Zhang and C. Zhou*    
+"**Structured Search for a Separable Subclass of Generalized Integral Properties**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1429) 
+
 - *S. K. Modi, H. Soegeng and T. Peyrin*   
 "**Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks**"        
 in European Conference on Computer Vision - [ECCV 2026](https://eccv.ecva.net/Conferences/2026)  
