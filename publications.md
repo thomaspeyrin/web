@@ -16,10 +16,7 @@ sidebar:
 
 - *S. K. Modi, H. Soegeng and T. Peyrin*   
 "**Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks**"        
-in European Conference on Computer Vision - [ECCV 2026](https://eccv.ecva.net/Conferences/2026)  
-
-- *K. Hu, T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*    
-"**Finer-Grained Fixed-Key Differential Probability Distributions via Quasidifferential Decoupling**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1162)     
+in European Conference on Computer Vision - [ECCV 2026 (spotlight)](https://eccv.ecva.net/Conferences/2026)  
 
 - *H. Soegeng, S. K. Modi and T. Peyrin*   
 "**TT-Sparse: Learning Sparse Rule Models with Differentiable Truth Tables**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/pdf/2603.07606)     
@@ -27,11 +24,23 @@ in International Conference on Machine Learning - [ICML 2026](https://icml.cc/Co
 
 - *H. Liu, A. Siproudhis, S. Experton, P. Lorenz, C. Boura and T. Peyrin*    
 "**Navigating the Deep: Signature Extraction on Deep Neural Networks**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.17047)   
-in Advances in Cryptology - [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/)       
+in Advances in Cryptology - [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/)
+
+- *K. Hu, T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*    
+"**Finer-Grained Fixed-Key Differential Probability Distributions via Quasidifferential Decoupling**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1162) 
+in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2027/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
+- *H. Liu, A. Siproudhis, C. Boura and T. Peyrin*    
+"**tModel Extraction of Convolutional Neural Networks with Max-Pooling**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/464)   
+in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2027/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+
+- *B. Chakraborty, M. Nandi, S. Pal, T. Peyrin and Q.Q. Tan*    
+"**ASCON Revisited: A New State-Recovery Attack and Committing Security in the Multi-User Setting**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/984)   
+in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2027/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *K. Hu, M. Khairallah, T. Peyrin and Q. Q. Tan*  
 "**uKNIT: Breaking Round-alignment for Cipher Design -- Featuring uKNIT-BC, an Ultra Low-Latency Block Cipher**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2024/1962)   
-in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2026/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
+in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2027/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-2](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *H. Soegeng, T. Guérand and T. Peyrin*   
 "**Leveraging Foundation Models in Healthcare: A Distillation Approach to Interpretable Clinical Prediction**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://openreview.net/forum?id=gVrC91vd7e)     
@@ -54,9 +63,6 @@ in Intelligent Computing and Systems at the Edge - [ICEDGE 2025](https://icedge.
 
 - *A. Hasan and T. Peyrin*    
 "**AQUATIC-Diff: Additive Quantization for Truly Tiny Compressed Diffusion Models**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://arxiv.org/abs/2506.05960)
-
-- *B. Chakraborty, M. Nandi, S. Pal, T. Peyrin and Q.Q. Tan*    
-"**AsconAEAD128 Revisited in the Multi-user Setting Secret-key cryptography**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2025/984)
 
 - *W. Rojas-Carabali, T. Guérand, C. Cifuentes-González, J. Abisheganaden, P. RK, Yap Wei, G. Mejía-Salgado, A. de-la-Torre, J. Smith, J. Kempen, Q. Nguyen, C. Pavesio,
 B.Lee, V. Gupta, T. Peyrin, and R. Agrawal*    
