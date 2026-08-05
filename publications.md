@@ -31,7 +31,7 @@ in Advances in Cryptology - [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/)
 in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2027/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *H. Liu, A. Siproudhis, C. Boura and T. Peyrin*    
-"**tModel Extraction of Convolutional Neural Networks with Max-Pooling**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/464)   
+"**Model Extraction of Convolutional Neural Networks with Max-Pooling**"  [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/464)   
 in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2027/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *B. Chakraborty, M. Nandi, S. Pal, T. Peyrin and Q.Q. Tan*    
