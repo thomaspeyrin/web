@@ -12,7 +12,7 @@ sidebar:
 # 2026
 
 - *D. Chai, S. Hu, T. Peyrin, Z. Wang, T. Yap, H. Zhang, L. Zhang and C. Zhou*    
-"**Structured Search for a Separable Subclass of Generalized Integral Properties**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1429) 
+"**Structured Search for a Separable Subclass of Generalized Integral Properties**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1429)   
 
 - *S. K. Modi, H. Soegeng and T. Peyrin*   
 "**Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks**"        
@@ -27,7 +27,7 @@ in International Conference on Machine Learning - [ICML 2026](https://icml.cc/Co
 in Advances in Cryptology - [EUROCRYPT 2026](https://eurocrypt.iacr.org/2026/)
 
 - *K. Hu, T. Peyrin, Q. Q. Tan, H. Zhang and C. Zhou*    
-"**Finer-Grained Fixed-Key Differential Probability Distributions via Quasidifferential Decoupling**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1162) 
+"**Finer-Grained Fixed-Key Differential Probability Distributions via Quasidifferential Decoupling**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1162)    
 in Fast Software Encryption - [FSE 2027](https://fse.iacr.org/2027/) and IACR Transactions on Symmetric Cryptology - [ToSC 2026-3](http://tosc.iacr.org/index.php/ToSC/issue/archive)
 
 - *H. Liu, A. Siproudhis, C. Boura and T. Peyrin*    
