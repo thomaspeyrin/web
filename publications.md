@@ -11,6 +11,9 @@ sidebar:
 
 # 2026
 
+- *T. Peyrin, Z. Wang, L. Zhang and C. Zheng*    
+"**On the Mismatch between Neural-Discovered Differential-Linear Features and Long-Round Distinguisher Construction**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1858)   
+
 - *D. Chai, S. Hu, T. Peyrin, Z. Wang, T. Yap, H. Zhang, L. Zhang and C. Zhou*    
 "**Structured Search for a Separable Subclass of Generalized Integral Properties**"   [![](https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png "article")](https://eprint.iacr.org/2026/1429)   
 
