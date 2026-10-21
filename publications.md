@@ -13,6 +13,10 @@ sidebar:
 
 # 2026
 
+- *H. K. Garai, S. Sahoo, M. Mandal, S. Dey and S. Sarkar*, "*Improved Differential-Linear Attacks on Round-Reduced Forró*"    
+in Advances in Mathematics of Communications - **AMC 2026**
+- *H. K. Garai, N. K. Sharma and S. Dey*, "*Improved Key-Recovery Attack on ChaCha Using Carry-Lock Method*"    
+in Progress in Cryptology - **INDOCRYPT 2026**
 - *J. He, K. Hu, M. Wang, Z. Niu and B. Preneel*, "*Revisiting Differnetial-Linear Cryptanalysis via a Walsh-Transform Perspective*"    
 in Advances in Cryptology - **ASIACRYPT 2026**
 - *D. Xu, L. Zhang and Z. Wang*, "*Finite-Precision Error Analysis of Cryptanalytic Model Extraction*"    
