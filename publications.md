@@ -11,6 +11,12 @@ sidebar:
     nav: "research"
 ---
 
+# 2027
+
+- R. Bhaumik, B. Chakraborty, W. Choi, A. Dutta, J. Govinden, Y. Shen, "*Symmetry Meets Security: Tweakable Involution Ciphers*"   
+in ACM ASIA Conference on Computer and Communications Security - **AsiaCCS 2027**  
+
+
 # 2026
 
 - *H. K. Garai, S. Sahoo, M. Mandal, S. Dey and S. Sarkar*, "*Improved Differential-Linear Attacks on Round-Reduced Forró*"    
