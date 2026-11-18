@@ -1,5 +1,5 @@
 main:
-  - title: "News"
+  - title: "Home"
     url: /
   - title: "Members"
     url: /members/
@@ -7,6 +7,11 @@ main:
     url: /publications/
   - title: "Available Positions"
     url: /positions/
+
+  - title: "OCP"
+    url: "https://github.com/Open-CP/OCP"
+  - title: "GitHub"
+    url: /github/
 
 research:
   - title: "Research highlights"

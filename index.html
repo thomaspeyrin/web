@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SyLLab</title>
+    <meta name="description" content="SyLLab at Nanyang Technological University. Cryptography, AI security and interpretable machine learning.">
+    <link rel="canonical" href="https://syllab-ntu.github.io/syllab/">
+    <link rel="stylesheet" href="./assets/folio/folio.css">
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header>
+      <div class="wrap top">
+        <a class="brand" href="./">SyLLab</a>
+        <nav aria-label="Main navigation">
+          <a href="./members/">People</a>
+          <a href="./publications/">Publications</a>
+          <a href="./positions/">Join us</a>
+          <a href="./#ocp">OCP</a>
+          <a href="./github/">GitHub</a>
+          <a href="https://thomaspeyrin.github.io/web/">Thomas Peyrin</a>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap" id="main">
+      <section class="lab-hero">
+        <div>
+          <p class="affiliation">NTU Singapore</p>
+          <h1>SyLLab</h1>
+        </div>
+        <div>
+          <p class="intro">The Symmetric Cryptography and Machine Learning Lab studies how to design and analyze ciphers, understand the security of neural networks, and build interpretable models.</p>
+          <div class="links">
+            <a href="members/">Meet the group</a>
+            <a href="positions/">PhD and research positions</a>
+          </div>
+        </div>
+      </section>
+      <section class="feature" id="ocp">
+        <div class="feature-copy">
+          <div class="kicker">Featured open-source project</div>
+          <h2>Open Cryptanalysis Platform</h2>
+          <p>With OCP, researchers can describe a symmetric primitive once, visualize its structure, and reuse the model for automated analysis and implementation.</p>
+          <div class="links">
+            <a href="https://github.com/Open-CP/OCP">OCP on GitHub</a>
+            <a href="https://github.com/Open-CP/OCP/wiki">Documentation</a>
+          </div>
+        </div>
+        <img src="assets/folio/ocp.svg" width="480" height="280" alt="One primitive model branches into analysis, visualization and implementation.">
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>Research areas</h2>
+        </div>
+        <div class="cards areas">
+          <article class="card">
+            <img src="assets/folio/design.svg" width="480" height="280" alt="A conceptual substitution layer followed by a permutation of the wires.">
+            <h3>Symmetric design and implementation</h3>
+            <p>We design lightweight primitives and study how their structure translates into efficient, constant-time software.</p>
+            <div class="links">
+              <a href="https://giftcipher.github.io/gift/">GIFT</a>
+              <a href="https://eprint.iacr.org/2020/412">Fixslicing for GIFT</a>
+              <a href="https://eprint.iacr.org/2020/1123">Fixslicing for AES</a>
+              <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/analysis.svg" width="480" height="280" alt="Several candidate paths through a layered graph.">
+            <h3>Cryptanalysis and automated methods</h3>
+            <p>We use differential methods, constraint solvers and machine learning to analyze symmetric primitives.</p>
+            <div class="links">
+              <a href="https://github.com/Open-CP/OCP">OCP</a>
+              <a href="https://sha-mbles.github.io/">SHA-1 is a Shambles</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/ai-security.svg" width="480" height="280" alt="Observable inputs and outputs around a network with hidden weights.">
+            <h3>AI security</h3>
+            <p>We study neural-network weight recovery, adversarial attacks and the limits of model confidentiality.</p>
+            <div class="links">
+              <a href="https://eprint.iacr.org/2026/296">Deep networks</a>
+              <a href="https://eprint.iacr.org/2026/464">CNNs with max-pooling</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/compact-ai.svg" width="480" height="280" alt="The four input combinations and outputs of a two-input XOR rule.">
+            <h3>Interpretable and compact AI</h3>
+            <p>We design compact neural architectures around Boolean functions and sparse rules for efficient inference and formal verification.</p>
+            <div class="links">
+              <a href="https://ijcai.org/proceedings/2024/2">TTnet · IJCAI 2024</a>
+              <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse · ICML 2026</a>
+            </div>
+          </article>
+        </div>
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>Lab news</h2>
+          <a href="archive/#news">News archive</a>
+        </div>
+        <ul class="news">
+          <li>
+            <time datetime="2026-03">Mar 2026</time>
+            <span>FSE Best Paper Award for <em>On the Plaintext Awareness of AEAD Schemes</em>.</span>
+          </li>
+          <li>
+            <time datetime="2025-03">Mar 2025</time>
+            <span>FSE Test-of-Time Award for <em>Super-Sbox Cryptanalysis</em>.</span>
+          </li>
+        </ul>
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>GitHub activity</h2>
+          <a href="github/">Browse repositories and activity</a>
+        </div>
+        <p>Follow recent commits to OCP, the fixsliced AES implementations and the lab’s website.</p>
+      </section>
+    </main>
+    <footer>
+      <div class="wrap">
+        <strong>SyLLab · NTU Singapore</strong>
+        <div class="links">
+          <a href="./archive/">News and contact</a>
+          <a href="./github/">GitHub</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

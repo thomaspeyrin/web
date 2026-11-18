@@ -1,4 +1,5 @@
 ---
+permalink: /archive/
 layout: single
 toc: false
 classes: wide
