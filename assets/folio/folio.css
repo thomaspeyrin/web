@@ -21,6 +21,9 @@ a:focus-visible,summary:focus-visible {outline:3px solid #ab571b;outline-offset:
 header {border-bottom:1px solid var(--rule);background:#f8f3e9}
 .top {display:flex;align-items:center;justify-content:space-between;gap:1.2rem;min-height:74px;padding-block:.8rem}
 .brand {font:600 1.2rem/1.2 "Segoe UI",sans-serif;color:var(--ink);text-decoration:none}
+.identity {display:flex;align-items:center;gap:1rem}
+.ntu-mark {display:block;width:127px;height:auto}
+.identity .brand {padding-left:1rem;border-left:1px solid var(--rule)}
 nav,.links {display:flex;gap:.7rem 1.15rem;align-items:center;flex-wrap:wrap}
 nav a {font-weight:600;color:var(--ink);font-size:.95rem;text-decoration:none}
 nav a:hover,nav a[aria-current] {color:var(--teal);text-decoration:underline}
@@ -30,6 +33,7 @@ h1 {font-size:clamp(3.4rem,7.7vw,6.35rem)}
 h2 {font-size:clamp(2.1rem,4.2vw,3.12rem)}
 h3 {font-size:clamp(1.4rem,2.5vw,1.9rem)}
 .hero {display:grid;grid-template-columns:1.25fr .75fr;gap:clamp(2rem,6vw,5.4rem);align-items:center;padding-block:3.1rem}
+.hero h1 {font-size:clamp(2.05rem,3.6vw,2.9rem)}
 .affiliation,.kicker {font:600 .82rem/1.4 ui-monospace,Consolas,monospace;letter-spacing:.085em;text-transform:uppercase;color:var(--teal);margin-bottom:.8rem}
 .intro {font-size:clamp(1.07rem,1.8vw,1.3rem);margin:1.05rem 0 1.2rem;max-width:56ch;color:var(--muted)}
 .links a,.action {font-weight:650;font-size:.95rem}
@@ -77,4 +81,22 @@ summary {cursor:pointer;color:var(--teal);font-weight:600}
 @media(max-width:800px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}.hero{grid-template-columns:1.05fr .8fr;gap:1.5rem}.top{align-items:flex-start;flex-direction:column;gap:.65rem}}
 @media(max-width:620px){.wrap{width:calc(100% - 2rem)}.hero,.lab-hero,.feature,.cards,.cards.areas,.repos{grid-template-columns:1fr}.hero,.lab-hero{padding-block:2rem;gap:1.3rem}.spinoff{margin-top:.3rem}.spinoff img{width:110px;height:78px;float:right;margin:0 0 .4rem .55rem}.feature img{min-height:0;max-height:185px}.section{margin-block:2rem}.card img{max-height:230px;background:#f2e9d9}.news li{grid-template-columns:4.8rem 1fr}.top nav{gap:.5rem .85rem}.feed li{grid-template-columns:5.5rem 1fr}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+.spinoff .implicant-mark {display:block;float:none;width:40px;height:40px;margin:0;background:transparent}
+.spinoff h2 .implicant-identity {display:inline-flex;align-items:center;gap:.55rem;color:var(--ink);text-decoration:none;font:650 1.8rem/1.2 "Segoe UI",sans-serif;letter-spacing:-.04em}
+.calendar {padding:clamp(.8rem,2vw,1.4rem);border:1px solid var(--rule);border-radius:8px;background:var(--surface)}
+.calendar figcaption {display:flex;justify-content:space-between;flex-wrap:wrap;align-items:baseline;gap:.3rem 1rem;margin-bottom:.8rem}
+.calendar-title {font-weight:650;text-decoration:none}
+.calendar-title:hover {text-decoration:underline}
+.calendar-range,.calendar-key,.repo-stats {color:var(--muted);font-size:.85rem}
+.calendar-grid {overflow-x:auto;overscroll-behavior-x:contain}
+.calendar-grid img {display:block;width:100%;min-width:645px;max-width:1000px;height:auto}
+.calendar-key {display:flex;align-items:center;justify-content:flex-end;gap:4px}
+.calendar-key i {width:11px;height:11px;border-radius:2px}
+.shade-0 {background:#e9e4d9}.shade-1 {background:#b0d4c1}.shade-2 {background:#6ab397}.shade-3 {background:#35846f}.shade-4 {background:#145a4c}
+.repo {border:1px solid var(--rule);border-radius:8px}
+.repo h3 {font-family:inherit;font-size:1.18rem;font-weight:650;letter-spacing:-.015em}
+.repo h3 a {color:var(--teal);text-decoration:none}
+.repo h3 a:hover {text-decoration:underline}
+.repo-stats {display:flex;gap:1rem;align-items:center;flex-wrap:wrap}
+.repo-stats span:first-child {font-weight:650;color:var(--teal)}
 

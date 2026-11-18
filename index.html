@@ -12,7 +12,12 @@
     <a class="skip" href="#main">Skip to content</a>
     <header>
       <div class="wrap top">
-        <a class="brand" href="./">Thomas Peyrin</a>
+        <div class="identity">
+          <a href="https://www.ntu.edu.sg/">
+            <img class="ntu-mark" src="assets/folio/ntu.png" alt="Nanyang Technological University Singapore" width="383" height="149">
+          </a>
+          <a class="brand" href="./">Thomas Peyrin</a>
+        </div>
         <nav aria-label="Main navigation">
           <a href="./publications/">Publications</a>
           <a href="./invited/">Talks</a>
@@ -36,10 +41,12 @@
           </div>
         </div>
         <aside class="spinoff">
-          <img src="assets/folio/implicant.svg" width="480" height="280" alt="Encrypted input passes through a compact rule model for inference.">
-          <h2>Implicant</h2>
+          <h2>
+            <a class="implicant-identity" href="https://implicant.ai/">
+              <img class="implicant-mark" src="https://implicant.ai/brand/logo-color.png" width="40" height="40" alt="">Implicant</a>
+          </h2>
           <p>I founded Implicant to bring interpretable models and privacy-preserving inference into practice.</p>
-          <a href="https://www.implicant.ai/">Visit Implicant</a>
+          <a href="https://implicant.ai/">Visit Implicant</a>
         </aside>
       </section>
       <section class="feature" id="ocp">
@@ -113,9 +120,22 @@
       <section class="section">
         <div class="section-heading">
           <h2>GitHub activity</h2>
-          <a href="github/">Browse repositories and activity</a>
+          <a href="github/">Explore repositories</a>
         </div>
-        <p>Follow recent commits to OCP, the fixsliced AES implementations and my website.</p>
+        <figure class="calendar" data-calendar="thomaspeyrin/web">
+          <figcaption>
+            <a class="calendar-title" href="https://github.com/thomaspeyrin/web/commits/master/">19 commits · thomaspeyrin/web</a>
+            <span class="calendar-range">2025-11-20 – 2026-11-19</span>
+          </figcaption>
+          <div class="calendar-grid" tabindex="0" role="region" aria-label="Daily activity by week">
+            <img src="assets/folio/calendar.svg" alt="Daily activity calendar for thomaspeyrin/web, 19 commits." width="782" height="122">
+          </div>
+          <div class="calendar-key" aria-label="Activity levels from less to more">Less <i class="shade-0"></i>
+            <i class="shade-1"></i>
+            <i class="shade-2"></i>
+            <i class="shade-3"></i>
+            <i class="shade-4"></i> More</div>
+        </figure>
       </section>
     </main>
     <footer>
@@ -127,5 +147,6 @@
         </div>
       </div>
     </footer>
+    <script src="assets/folio/calendar.js" defer></script>
   </body>
 </html>
