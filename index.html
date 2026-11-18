@@ -8,17 +8,11 @@
     <link rel="canonical" href="https://thomaspeyrin.github.io/web/">
     <link rel="stylesheet" href="./assets/folio/folio.css">
   </head>
-  <body>
+  <body class="web">
     <a class="skip" href="#main">Skip to content</a>
     <header>
       <div class="wrap top">
-        <div class="identity">
-          <a href="https://www.ntu.edu.sg/">
-            <img class="ntu-mark" src="assets/folio/ntu.png" alt="Nanyang Technological University Singapore" width="383" height="149">
-          </a>
-          <a class="brand" href="./">Thomas Peyrin</a>
-        </div>
-        <nav aria-label="Main navigation">
+        <a class="brand" href="./"><svg aria-hidden="true" viewbox="0 0 32 32" fill="none"><g stroke="#355e99" stroke-width="1.55" stroke-linecap="round"><path d="M2 8.0 C13 8.0 17 24.0 30 24.0"></path><path d="M2 11.3 C13 11.3 17 20.7 30 20.7"></path><path d="M2 14.6 C13 14.6 17 17.4 30 17.4"></path><path d="M2 17.9 C13 17.9 17 14.1 30 14.1"></path><path d="M2 21.2 C13 21.2 17 10.8 30 10.8"></path><path d="M2 24.5 C13 24.5 17 7.5 30 7.5"></path></g></svg>Thomas Peyrin</a><nav aria-label="Main navigation">
           <a href="./publications/">Publications</a>
           <a href="./invited/">Talks</a>
           <a href="./resume/">CV</a>
@@ -29,37 +23,23 @@
       </div>
     </header>
     <main class="wrap" id="main">
-      <section class="hero">
-        <div>
-          <p class="affiliation">Nanyang Technological University · Singapore</p>
-          <h1>Thomas Peyrin</h1>
-          <p class="intro">I’m a professor at NTU, where I lead SyLLab. I design and analyze symmetric ciphers, study the security of neural networks, and build compact models whose decisions can be explained and verified.</p>
-          <div class="links">
-            <a href="publications/">Publications</a>
-            <a href="activities/">Scientific activities</a>
-            <a href="mailto:thomas.peyrin@ntu.edu.sg">Email me</a>
-          </div>
-        </div>
-        <aside class="spinoff">
-          <h2>
-            <a class="implicant-identity" href="https://implicant.ai/">
-              <img class="implicant-mark" src="https://implicant.ai/brand/logo-color.png" width="40" height="40" alt="">Implicant</a>
-          </h2>
-          <p>I founded Implicant to bring interpretable models and privacy-preserving inference into practice.</p>
-          <a href="https://implicant.ai/">Visit Implicant</a>
-        </aside>
-      </section>
-      <section class="feature" id="ocp">
+      <section class="hero"><div>
+                  <p class="affiliation">Professor at NTU Singapore</p>
+                  <h1>Thomas Peyrin</h1>
+                  <p class="intro">I lead <a href="https://syllab-ntu.github.io/syllab/">SyLLab</a>, where we design symmetric ciphers, study the security of neural networks, and build compact models whose decisions can be explained and verified.</p>
+                  <div class="links"><a href="publications/">Publications</a><a href="activities/">Scientific activities</a><a href="mailto:thomas.peyrin@ntu.edu.sg">Email me</a></div>
+                  <div class="venture"><img src="assets/folio/implicant.png" alt="" width="29" height="29"><p>I founded <a href="https://implicant.ai/">Implicant</a> to bring interpretable models and privacy-preserving inference into practice.</p></div>
+                  </div><figure class="portrait"><img class="headshot" src="assets/folio/portrait.jpg" width="180" height="180" alt="Thomas Peyrin"><a class="university" href="https://www.ntu.edu.sg/"><img class="ntu-mark" src="assets/folio/ntu.png" width="380" height="136" alt="Nanyang Technological University Singapore"></a></figure></section><section class="feature" id="ocp">
         <div class="feature-copy">
-          <div class="kicker">Featured open-source project</div>
+          <div class="kicker">Featured project  /  OCP</div>
           <h2>Open Cryptanalysis Platform</h2>
-          <p>With OCP, researchers can describe a symmetric primitive once, visualize its structure, and reuse the model for automated analysis and implementation.</p>
+          <p>Describe a symmetric primitive once. Reuse the same model to visualize its structure, automate cryptanalysis, and generate implementations.</p>
           <div class="links">
             <a href="https://github.com/Open-CP/OCP">OCP on GitHub</a>
             <a href="https://github.com/Open-CP/OCP/wiki">Documentation</a>
           </div>
         </div>
-        <img src="assets/folio/ocp.svg" width="480" height="280" alt="One primitive model branches into analysis, visualization and implementation.">
+        <img src="assets/folio/ocp.svg" width="480" height="280" alt="One model branches into three outputs: analyze, visualize and implement.">
       </section>
       <section class="section">
         <div class="section-heading">
@@ -141,7 +121,7 @@
     <footer>
       <div class="wrap">
         <strong>Thomas Peyrin · NTU Singapore</strong>
-        <div class="links">
+        <a class="university mobile-ntu" href="https://www.ntu.edu.sg/"><img class="ntu-mark" src="assets/folio/ntu.png" width="380" height="136" alt="Nanyang Technological University Singapore"></a><div class="links">
           <a href="./archive/">News and contact</a>
           <a href="./github/">GitHub</a>
         </div>
