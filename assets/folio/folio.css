@@ -31,8 +31,9 @@ nav a[aria-current],nav a:hover,.brand:hover{color:var(--accent)}
 .links a,.section-heading>a,.gh-head>a{font-size:.91rem;font-weight:650}
 .portrait{justify-self:center;text-align:center}
 .portrait img.headshot{height:clamp(140px,15vw,178px);width:clamp(140px,15vw,178px);border-radius:50%;object-fit:cover;object-position:50% 38%;display:block;margin:auto;background:#dce5ed}
-.university{display:inline-flex;align-items:center;justify-content:center;mix-blend-mode:multiply;padding:5px 8px;line-height:0}
-.ntu-mark{width:98px;height:auto;display:block}.portrait .university{margin-top:12px}
+.masthead-identity{display:flex;align-items:center;gap:clamp(.7rem,1.4vw,1.15rem)}
+.university{display:inline-flex;align-items:center;mix-blend-mode:multiply;border-right:1px solid var(--line);padding-right:clamp(.7rem,1.4vw,1.15rem);min-height:42px;line-height:0}
+.ntu-mark{width:clamp(88px,9vw,108px);height:auto;display:block}
 .venture{display:flex;gap:1rem;align-items:center;margin-top:1.25rem}
 .venture img{display:block;width:29px;height:29px;object-fit:contain}.venture p{font-size:.94rem;color:var(--muted);max-width:52ch;line-height:1.5}
 .venture a{font-weight:650}
@@ -71,4 +72,10 @@ footer .wrap{display:flex;justify-content:space-between;align-items:center;flex-
 @media(max-width:850px){.top{gap:1rem;flex-wrap:wrap}.cards{grid-template-columns:1fr}.card{grid-template-columns:145px minmax(0,1fr)}.hero,.lab-hero{gap:1.5rem}.feature-copy{padding:1.8rem}}
 @media(max-width:640px){.wrap{width:calc(100% - 2.25rem)}.top{display:grid;gap:.7rem;padding-block:.9rem}nav{gap:.2rem .95rem}nav a{font-size:.87rem}.hero,.lab-hero,.feature,.repos{grid-template-columns:1fr}.hero{position:relative;display:block}.hero h1{padding-right:5.1rem}.hero .affiliation{padding-right:5rem;max-width:30ch}.hero .intro{margin-top:1.3rem}.portrait{position:absolute;right:0;top:1.7rem}.portrait img.headshot{width:66px;height:66px}.portrait .university{display:none}.venture{gap:.65rem}.lab-hero{position:relative}.lab-hero h1{max-width:15ch}.lab-image{width:130px;justify-self:end;margin-top:-.6rem}.lab-hero:has(.lab-image){grid-template-columns:1fr}.lab-hero .lab-image{display:none}.feature{gap:0}.feature-copy{padding:1.5rem 1.45rem .35rem}.feature>img{max-height:175px}.section-heading{margin-bottom:1.05rem}.card{grid-template-columns:minmax(85px,27%) minmax(0,1fr);gap:.36rem .8rem}.card img{border-radius:11px}.news li,.feed li{grid-template-columns:4.8rem 1fr;gap:.65rem}.calendar{border-radius:12px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-@media(min-width:641px){footer .mobile-ntu{display:none}}
+.syllab{--paper:#f5f8f4;--ink:#183729;--muted:#476052;--accent:#226341;--line:#c9d8ca}
+.syllab .brand svg g{stroke:var(--accent)}
+.syllab .feature{background:#183e2f}
+.syllab .feature .kicker{color:#b7d7b7}
+.syllab .feature p{color:#dcebdd}
+.syllab .feature .links a:first-child{border-color:#85ac91}
+.syllab .feature .links a:first-child:hover{background:#305b45}
