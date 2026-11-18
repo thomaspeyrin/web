@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thomas Peyrin</title>
+    <meta name="description" content="Thomas Peyrin at Nanyang Technological University. Cryptography, AI security and interpretable machine learning.">
+    <link rel="canonical" href="https://thomaspeyrin.github.io/web/">
+    <link rel="stylesheet" href="./assets/folio/folio.css">
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <header>
+      <div class="wrap top">
+        <a class="brand" href="./">Thomas Peyrin</a>
+        <nav aria-label="Main navigation">
+          <a href="./publications/">Publications</a>
+          <a href="./invited/">Talks</a>
+          <a href="./resume/">CV</a>
+          <a href="./#ocp">OCP</a>
+          <a href="./github/">GitHub</a>
+          <a href="https://syllab-ntu.github.io/syllab/">SyLLab</a>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap" id="main">
+      <section class="hero">
+        <div>
+          <p class="affiliation">Nanyang Technological University · Singapore</p>
+          <h1>Thomas Peyrin</h1>
+          <p class="intro">I’m a professor at NTU, where I lead SyLLab. I design and analyze symmetric ciphers, study the security of neural networks, and build compact models whose decisions can be explained and verified.</p>
+          <div class="links">
+            <a href="publications/">Publications</a>
+            <a href="activities/">Scientific activities</a>
+            <a href="mailto:thomas.peyrin@ntu.edu.sg">Email me</a>
+          </div>
+        </div>
+        <aside class="spinoff">
+          <img src="assets/folio/implicant.svg" width="480" height="280" alt="Encrypted input passes through a compact rule model for inference.">
+          <h2>Implicant</h2>
+          <p>I founded Implicant to bring interpretable models and privacy-preserving inference into practice.</p>
+          <a href="https://www.implicant.ai/">Visit Implicant</a>
+        </aside>
+      </section>
+      <section class="feature" id="ocp">
+        <div class="feature-copy">
+          <div class="kicker">Featured open-source project</div>
+          <h2>Open Cryptanalysis Platform</h2>
+          <p>With OCP, researchers can describe a symmetric primitive once, visualize its structure, and reuse the model for automated analysis and implementation.</p>
+          <div class="links">
+            <a href="https://github.com/Open-CP/OCP">OCP on GitHub</a>
+            <a href="https://github.com/Open-CP/OCP/wiki">Documentation</a>
+          </div>
+        </div>
+        <img src="assets/folio/ocp.svg" width="480" height="280" alt="One primitive model branches into analysis, visualization and implementation.">
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>Research highlights</h2>
+        </div>
+        <div class="cards">
+          <article class="card">
+            <img src="assets/folio/fixslicing.svg" width="480" height="280" alt="A bit matrix transposed to group like-positioned bits.">
+            <h3>Fixslicing for GIFT and AES</h3>
+            <p>RustCrypto uses fixslicing in its portable, constant-time AES backend. The technique began with GIFT and was later adapted to AES.</p>
+            <div class="links">
+              <a href="https://eprint.iacr.org/2020/412">GIFT paper</a>
+              <a href="https://eprint.iacr.org/2020/1123">AES paper</a>
+              <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto backend</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/sha1.svg" width="480" height="280" alt="Two different messages converge to the same hash digest.">
+            <h3>SHA-1 collisions</h3>
+            <p>Our work on full SHA-1 spans a freestart collision and the first practical chosen-prefix collision.</p>
+            <div class="links">
+              <a href="https://sha-mbles.github.io/">SHA-1 is a Shambles</a>
+              <a href="https://eprint.iacr.org/2015/967">Freestart collision</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/design.svg" width="480" height="280" alt="A conceptual substitution layer followed by a permutation of the wires.">
+            <h3>Lightweight primitives</h3>
+            <p>Block ciphers, authenticated encryption and hash functions for constrained devices.</p>
+            <div class="links">
+              <a href="https://giftcipher.github.io/gift/">GIFT</a>
+              <a href="https://eprint.iacr.org/2016/660">SKINNY</a>
+              <a href="https://sites.google.com/view/deoxyscipher">Deoxys</a>
+              <a href="https://sites.google.com/site/photonhashfunction/">PHOTON</a>
+              <a href="https://sites.google.com/site/ledblockcipher/">LED</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/ai-security.svg" width="480" height="280" alt="Observable inputs and outputs around a network with hidden weights.">
+            <h3>AI security</h3>
+            <p>What can a model’s outputs reveal about its weights? How do adversarial inputs change its predictions?</p>
+            <div class="links">
+              <a href="https://eprint.iacr.org/2026/296">Deep networks</a>
+              <a href="https://eprint.iacr.org/2026/464">CNNs with max-pooling</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/compact-ai.svg" width="480" height="280" alt="The four input combinations and outputs of a two-input XOR rule.">
+            <h3>Interpretable and compact AI</h3>
+            <p>TTnet represents neural computation with small truth tables. TT-Sparse learns sparse rule models that can be inspected directly.</p>
+            <div class="links">
+              <a href="https://ijcai.org/proceedings/2024/2">TTnet · IJCAI 2024</a>
+              <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse · ICML 2026</a>
+            </div>
+          </article>
+        </div>
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>GitHub activity</h2>
+          <a href="github/">Browse repositories and activity</a>
+        </div>
+        <p>Follow recent commits to OCP, the fixsliced AES implementations and my website.</p>
+      </section>
+    </main>
+    <footer>
+      <div class="wrap">
+        <strong>Thomas Peyrin · NTU Singapore</strong>
+        <div class="links">
+          <a href="./archive/">News and contact</a>
+          <a href="./github/">GitHub</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
