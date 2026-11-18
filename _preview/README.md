@@ -1,6 +1,6 @@
-# Website previews
+# Thomas Peyrin and SyLLab
 
-[View both homepages and their GitHub activity calendars in one PDF](Website-Preview.pdf)
+[View both full homepages and their GitHub activity pages (PDF)](Website-Preview.pdf) · [Compare the phone layouts](mobile-preview.jpg)
 
 ## Thomas Peyrin
 
@@ -9,3 +9,7 @@
 ## SyLLab
 
 ![SyLLab homepage](syllab-preview.jpg)
+
+## Phone layouts
+
+![Personal homepage on the left and SyLLab on the right](mobile-preview.jpg)
