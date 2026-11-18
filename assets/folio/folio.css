@@ -79,3 +79,11 @@ footer .wrap{display:flex;justify-content:space-between;align-items:center;flex-
 .syllab .feature p{color:#dcebdd}
 .syllab .feature .links a:first-child{border-color:#85ac91}
 .syllab .feature .links a:first-child:hover{background:#305b45}
+.lab-hero{grid-template-columns:minmax(0,.87fr) minmax(0,1.13fr);gap:clamp(1rem,3vw,2.75rem)}
+.lab-art{display:block;min-width:0}
+.lab-art .lab-image{display:block;width:100%;max-width:none;height:auto;margin:0;mask-image:linear-gradient(to right,transparent,#000 2%,#000 98%,transparent),linear-gradient(to bottom,transparent,#000 10%,#000 90%,transparent);mask-composite:intersect}
+.feature>img.ocp-logo{width:clamp(190px,22vw,300px);height:auto;justify-self:center}
+@media(max-width:640px){
+  .lab-hero{grid-template-columns:1fr;gap:1.15rem}
+  .feature>img.ocp-logo{width:170px;margin:1.2rem 0 1.8rem}
+}
