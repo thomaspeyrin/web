@@ -25,5 +25,21 @@ async function refreshRepository(panel) {
     panel.querySelector(".metadata").textContent = "Latest commit · " + commits[0].commit.committer.date.slice(0,10);
   } catch { /* Keep the complete static snapshot. */ }
 }
-document.querySelectorAll("[data-repository]").forEach(refreshRepository);
+async function refreshStats(panel) {
+  try {
+    const response = await fetch("https://api.github.com/repos/"+panel.dataset.repository, {credentials:"omit"});
+    if (!response.ok) return;
+    const repo = await response.json();
+    if (!Number.isSafeInteger(repo.stargazers_count) || !Number.isSafeInteger(repo.forks_count)) return;
+    const [language, stars, forks] = panel.querySelectorAll(".repo-stats span");
+    if (repo.language) language.textContent = repo.language;
+    stars.textContent = "☆ "+repo.stargazers_count+" stars";
+    forks.textContent = repo.forks_count+" forks";
+  } catch { /* The repository card already contains its saved metadata. */ }
+}
+document.querySelectorAll("[data-repository]").forEach(panel => {
+  refreshStats(panel);
+  const details = panel.querySelector("details");
+  details.addEventListener("toggle", () => refreshRepository(panel), {once:true});
+});
 
