@@ -1,0 +1,6 @@
+.reading { max-width: 80ch; margin-block: 3rem; overflow-wrap: anywhere; }
+.reading h1 { margin-bottom: 1.5rem; }
+.reading h2, .reading h3 { margin-block: 1.8em .65em; }
+.reading p, .reading ul, .reading ol { margin-block: 1em; }
+.reading li + li { margin-top: .45em; }
+.reading img { max-width: 100%; height: auto; vertical-align: middle; }

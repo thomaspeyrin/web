@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thomas Peyrin</title>
+    <meta name="description" content="Thomas Peyrin at Nanyang Technological University. Cryptography, AI security and interpretable machine learning.">
+    <link rel="canonical" href="https://syllab-ntu.github.io/syllab/new/thomas-peyrin/">
+    <link rel="stylesheet" href="./assets/folio/folio.css">
+  </head>
+  <body class="web">
+    <a class="skip" href="#main">Skip to content</a>
+    <header>
+      <div class="wrap top">
+        <div class="masthead-identity"><a class="university" href="https://www.ntu.edu.sg/"><img class="ntu-mark" src="assets/folio/ntu.png" width="380" height="136" alt="Nanyang Technological University Singapore"></a><a class="brand" href="./"><svg aria-hidden="true" viewbox="0 0 32 32" fill="none"><g stroke="#355e99" stroke-width="1.55" stroke-linecap="round"><path d="M2 8.0 C13 8.0 17 24.0 30 24.0"></path><path d="M2 11.3 C13 11.3 17 20.7 30 20.7"></path><path d="M2 14.6 C13 14.6 17 17.4 30 17.4"></path><path d="M2 17.9 C13 17.9 17 14.1 30 14.1"></path><path d="M2 21.2 C13 21.2 17 10.8 30 10.8"></path><path d="M2 24.5 C13 24.5 17 7.5 30 7.5"></path></g></svg>Thomas Peyrin</a></div><nav aria-label="Main navigation">
+          <a href="./publications/">Publications</a>
+          <a href="./invited/">Talks</a>
+          <a href="./resume/">CV</a>
+          <a href="./#ocp">OCP</a>
+          <a href="./github/">GitHub</a>
+          <a href="/syllab/new/">SyLLab</a>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap" id="main">
+      <section class="hero"><div>
+                  <p class="affiliation">Professor at NTU Singapore</p>
+                  <h1>Thomas Peyrin</h1>
+                  <p class="intro">I lead <a href="/syllab/new/">SyLLab</a>, where we design symmetric ciphers, study the security of neural networks, and build compact models whose decisions can be explained and verified.</p>
+                  <div class="links"><a href="publications/">Publications</a><a href="activities/">Scientific activities</a><a href="mailto:thomas.peyrin@ntu.edu.sg">Email me</a></div>
+                  <div class="venture"><img src="assets/folio/implicant.png" alt="" width="29" height="29"><p>I founded <a href="https://implicant.ai/">Implicant</a> to bring interpretable models and privacy-preserving inference into practice.</p></div>
+                  </div><figure class="portrait"><img class="headshot" src="assets/folio/portrait.jpg" width="180" height="180" alt="Thomas Peyrin"></figure></section><section class="feature" id="ocp">
+        <div class="feature-copy">
+          <div class="kicker">Featured project  /  OCP</div>
+          <h2>Open Cryptanalysis Platform</h2>
+          <p>Describe a symmetric primitive once. Reuse the same model to visualize its structure, automate cryptanalysis, and generate implementations.</p>
+          <div class="links">
+            <a href="https://github.com/Open-CP/OCP">OCP on GitHub</a>
+            <a href="https://github.com/Open-CP/OCP/wiki">Documentation</a>
+          </div>
+        </div>
+        <img src="assets/folio/ocp-logo-light.svg" width="308" height="108" alt="OCP" class="ocp-logo">
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>Research highlights</h2>
+        </div>
+        <div class="cards">
+          <article class="card">
+            <img src="assets/folio/fixslicing.svg" width="480" height="280" alt="A bit matrix transposed to group like-positioned bits.">
+            <h3>Fixslicing for GIFT and AES</h3>
+            <p>RustCrypto uses fixslicing in its portable, constant-time AES backend. The technique began with GIFT and was later adapted to AES.</p>
+            <div class="links">
+              <a href="https://eprint.iacr.org/2020/412">GIFT paper</a>
+              <a href="https://eprint.iacr.org/2020/1123">AES paper</a>
+              <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto backend</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/sha1.svg" width="480" height="280" alt="Two different messages converge to the same hash digest.">
+            <h3>SHA-1 collisions</h3>
+            <p>Our work on full SHA-1 spans a freestart collision and the first practical chosen-prefix collision.</p>
+            <div class="links">
+              <a href="https://sha-mbles.github.io/">SHA-1 is a Shambles</a>
+              <a href="https://eprint.iacr.org/2015/967">Freestart collision</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/design.svg" width="480" height="280" alt="A conceptual substitution layer followed by a permutation of the wires.">
+            <h3>Lightweight primitives</h3>
+            <p>Block ciphers, authenticated encryption and hash functions for constrained devices.</p>
+            <div class="links">
+              <a href="https://giftcipher.github.io/gift/">GIFT</a>
+              <a href="https://eprint.iacr.org/2016/660">SKINNY</a>
+              <a href="https://sites.google.com/view/deoxyscipher">Deoxys</a>
+              <a href="https://sites.google.com/site/photonhashfunction/">PHOTON</a>
+              <a href="https://sites.google.com/site/ledblockcipher/">LED</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/ai-security.svg" width="480" height="280" alt="Observable inputs and outputs around a network with hidden weights.">
+            <h3>AI security</h3>
+            <p>What can a model’s outputs reveal about its weights? How do adversarial inputs change its predictions?</p>
+            <div class="links">
+              <a href="https://eprint.iacr.org/2026/296">Deep networks</a>
+              <a href="https://eprint.iacr.org/2026/464">CNNs with max-pooling</a>
+            </div>
+          </article>
+          <article class="card">
+            <img src="assets/folio/compact-ai.svg" width="480" height="280" alt="The four input combinations and outputs of a two-input XOR rule.">
+            <h3>Interpretable and compact AI</h3>
+            <p>TTnet represents neural computation with small truth tables. TT-Sparse learns sparse rule models that can be inspected directly.</p>
+            <div class="links">
+              <a href="https://ijcai.org/proceedings/2024/2">TTnet · IJCAI 2024</a>
+              <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse · ICML 2026</a>
+            </div>
+          </article>
+        </div>
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>GitHub activity</h2>
+          <a href="github/">Explore repositories</a>
+        </div>
+        <figure class="calendar" data-calendar="thomaspeyrin/web">
+          <figcaption>
+            <a class="calendar-title" href="https://github.com/thomaspeyrin/web/commits/master/">19 commits · thomaspeyrin/web</a>
+            <span class="calendar-range">2025-11-20 – 2026-11-19</span>
+          </figcaption>
+          <div class="calendar-grid" tabindex="0" role="region" aria-label="Daily activity by week">
+            <img src="assets/folio/calendar.svg" alt="Daily activity calendar for thomaspeyrin/web, 19 commits." width="782" height="122">
+          </div>
+          <div class="calendar-key" aria-label="Activity levels from less to more">Less <i class="shade-0"></i>
+            <i class="shade-1"></i>
+            <i class="shade-2"></i>
+            <i class="shade-3"></i>
+            <i class="shade-4"></i> More</div>
+        </figure>
+      </section>
+    </main>
+    <footer>
+      <div class="wrap">
+        <strong>Thomas Peyrin · NTU Singapore</strong>
+        <div class="links">
+          <a href="./archive/">News and contact</a>
+          <a href="./github/">GitHub</a>
+        </div>
+      </div>
+    </footer>
+    <script src="assets/folio/calendar.js" defer></script>
+  </body>
+</html>
