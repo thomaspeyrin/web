@@ -2,9 +2,9 @@
 
 ## OCP logo study
 
-The P sits inside the original nested O and C. Here is the mark at its intended size on the SyLLab homepage.
+A jade diagonal joins the upper tip of the pine-green C to its left edge, forming the bowl of a P inside the forest-green O. The project card shows the lighter palette used on the SyLLab homepage.
 
-![SyLLab project card with a P nested in the OCP symbol](ocp-feature.png)
+![SyLLab project card with a three-tone OCP symbol and diagonal](ocp-feature.png)
 
 [View the logo on a light background](ocp-nested-p.svg)
 
