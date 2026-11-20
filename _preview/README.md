@@ -2,7 +2,7 @@
 
 ## OCP logo study
 
-A jade diagonal joins the upper tip of the pine-green C to its left edge, forming the bowl of a P inside the forest-green O. The project card shows the lighter palette used on the SyLLab homepage.
+A jade stroke rises at 30° from the lower-left bend of the C to its upper tip. It matches the width of the C and extends past their junction to suggest a tilted P. The project card shows the lighter palette used on the SyLLab homepage.
 
 ![SyLLab project card with a three-tone OCP symbol and diagonal](ocp-feature.png)
 
