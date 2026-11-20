@@ -2,9 +2,9 @@
 
 ## OCP logo study
 
-A jade stroke rises at 30° from the lower-left bend of the C to its upper tip. It matches the width of the C and extends past their junction to suggest a tilted P. The project card shows the lighter palette used on the SyLLab homepage.
+A horizontal stroke starts at the center of the C and extends through the gap in the outer O. Each element uses a progressively lighter green.
 
-![SyLLab project card with a three-tone OCP symbol and diagonal](ocp-feature.png)
+![SyLLab project card with the nested O and C and a horizontal stroke](ocp-feature.png)
 
 [View the logo on a light background](ocp-nested-p.svg)
 
