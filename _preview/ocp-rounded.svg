@@ -2,9 +2,9 @@
   <title id="t">Open Cryptanalysis Platform</title>
   <g fill="#183e32">
     <g fill="none" stroke-width="8" stroke-linecap="round">
-      <path stroke="#183e32" d="M94.077 41.136A44 44 0 1 0 94.077 66.864"/>
-      <path stroke="#578a69" d="M39 54H107"/>
-      <path stroke="#34694f" d="M74.644 39.295A27 27 0 1 0 74.644 68.705"/>
+      <path stroke="#133a2c" d="M94.077 41.136A44 44 0 1 0 94.077 66.864"/>
+      <path stroke="#69a27b" d="M39 54H107"/>
+      <path stroke="#32744e" d="M74.644 39.295A27 27 0 1 0 74.644 68.705"/>
     </g>
     <g fill="none" stroke="#183e32" stroke-width="9" stroke-linecap="square">
       <rect x="135" y="29" width="39" height="51" rx="19.5"/>
