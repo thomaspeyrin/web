@@ -8,6 +8,13 @@ main:
   - title: Syllab
     url: "https://syllab-ntu.github.io/syllab/"
 
+  - title: "OCP"
+    url: "https://github.com/Open-CP/OCP"
+  - title: "GitHub"
+    url: /github/
+  - title: "Implicant"
+    url: "https://www.implicant.ai/"
+
 research:
   - title: "Research highlights"
     children:
