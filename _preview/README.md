@@ -2,11 +2,15 @@
 
 ## OCP logo study
 
-The C is centered within the outer O. A horizontal stroke starts just inside the C, leaving a small gap at its leftmost bend, and extends through the gap in the outer O. Each element uses a progressively lighter green.
+Both studies use three greens and a horizontal line with a small gap before the C. The rounded version uses two concentric circular arcs and rounded stroke ends.
 
-![SyLLab project card with the nested O and C and a horizontal stroke](ocp-feature.png)
+| Rounded | Angular |
+| --- | --- |
+| ![Rounded OCP mark](ocp-rounded.svg) | ![Angular OCP mark](ocp-nested-p.svg) |
 
-[View the logo on a light background](ocp-nested-p.svg)
+![Rounded OCP logo on the SyLLab project card](ocp-rounded-feature.png)
+
+[Compare the angular version on the project card](ocp-feature.png)
 
 ## Website layout previews
 
