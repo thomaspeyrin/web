@@ -1,17 +1,27 @@
 # Thomas Peyrin and SyLLab
 
-[Full homepages and GitHub activity pages (PDF)](Website-Preview.pdf) · [Mobile comparison](mobile-preview.jpg) · [Proposed OCP project identity](https://github.com/Open-CP/OCP/blob/e2b5911a308e6a70ff14f307815893c76469fb87/README.md)
+## OCP logo study
 
-## SyLLab
+The P sits inside the original nested O and C. Here is the mark at its intended size on the SyLLab homepage.
 
-![SyLLab homepage](syllab-preview.jpg)
+![SyLLab project card with a P nested in the OCP symbol](ocp-feature.png)
 
-[View the cipher-to-neural-network illustration at full size](https://raw.githubusercontent.com/thomaspeyrin/web/06bf5640106bee4b8b0da9ca0e29424aadd4aa6b/assets/folio/cipher-network.webp)
+[View the logo on a light background](ocp-nested-p.svg)
 
-## Thomas Peyrin
+## Website layout previews
+
+The SyLLab screenshots and PDF below show the earlier artwork. The approved cipher-to-neural-network illustration is pending in the draft.
+
+[Homepages and GitHub activity pages (PDF)](Website-Preview.pdf) · [Phone layouts](mobile-preview.jpg)
+
+### SyLLab
+
+![Earlier SyLLab homepage layout](syllab-preview.jpg)
+
+### Thomas Peyrin
 
 ![Personal homepage](personal-preview.jpg)
 
-## Phone layouts
+### Phone layouts
 
 ![Personal homepage and SyLLab on phones](mobile-preview.jpg)
