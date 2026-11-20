@@ -2,7 +2,7 @@
 
 ## OCP logo study
 
-A horizontal stroke starts at the center of the C and extends through the gap in the outer O. Each element uses a progressively lighter green.
+The C is centered within the outer O. A horizontal stroke joins the C at its leftmost bend and extends through the gap in the outer O. Each element uses a progressively lighter green.
 
 ![SyLLab project card with the nested O and C and a horizontal stroke](ocp-feature.png)
 

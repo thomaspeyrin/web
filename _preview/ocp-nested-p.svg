@@ -3,8 +3,8 @@
   <g fill="#183e32">
     <g fill="none" stroke-width="8" stroke-linejoin="round">
       <path stroke="#183e32" d="M99 43 80 10H31L6 54l25 44h49l19-33"/>
-      <path stroke="#34694f" d="m77 39-7-12H39L23.5 54 39 81h31l7-12"/>
-      <path stroke="#578a69" d="M52 54h59"/>
+      <path stroke="#578a69" d="M24 54H111"/>
+      <path stroke="#34694f" d="M81 42.6 72 27H39.5L24 54l15.5 27H72l9-15.6"/>
     </g>
     <g fill="none" stroke="#183e32" stroke-width="9" stroke-linecap="square">
       <rect x="135" y="29" width="39" height="51" rx="19.5"/>
