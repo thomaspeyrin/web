@@ -1,26 +1,18 @@
 # Thomas Peyrin and SyLLab
 
-## OCP logo study
+The personal and SyLLab homepages now feature the rounded OCP logo. The three green letters match the outer ring, inner arc, and horizontal line.
 
-Both studies use three greens and a horizontal line with a small gap before the C. The rounded version uses two concentric circular arcs and rounded stroke ends.
+[View the OCP logo at full size](ocp-rounded.svg) · [See the SyLLab project card](ocp-rounded-feature.png)
 
-| Rounded | Angular |
-| --- | --- |
-| ![Rounded OCP mark](ocp-rounded.svg) | ![Angular OCP mark](ocp-nested-p.svg) |
+## Website layouts
 
-![Rounded OCP logo on the SyLLab project card](ocp-rounded-feature.png)
-
-[Compare the angular version on the project card](ocp-feature.png)
-
-## Website layout previews
-
-The SyLLab screenshots and PDF below show the earlier artwork. The approved cipher-to-neural-network illustration is pending in the draft.
+The SyLLab draft still uses the earlier cipher-to-neural-network illustration.
 
 [Homepages and GitHub activity pages (PDF)](Website-Preview.pdf) · [Phone layouts](mobile-preview.jpg)
 
 ### SyLLab
 
-![Earlier SyLLab homepage layout](syllab-preview.jpg)
+![SyLLab homepage with the rounded OCP logo](syllab-preview.jpg)
 
 ### Thomas Peyrin
 
