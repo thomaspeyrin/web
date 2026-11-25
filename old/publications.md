@@ -1,4 +1,5 @@
 ---
+permalink: /old/publications/
 layout: single
 toc: false
 classes: wide

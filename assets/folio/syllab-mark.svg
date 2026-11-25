@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <defs>
+    <linearGradient id="topic-gradient" gradientUnits="userSpaceOnUse" x1="2" y1="16" x2="30" y2="16">
+      <stop stop-color="#147332"/>
+      <stop offset=".5" stop-color="#1d6866"/>
+      <stop offset="1" stop-color="#2355ad"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#topic-gradient)" stroke-width="1.55" stroke-linecap="round">
+    <path d="M2 8.0 C13 8.0 17 24.0 30 24.0"></path>
+    <path d="M2 11.3 C13 11.3 17 20.7 30 20.7"></path>
+    <path d="M2 14.6 C13 14.6 17 17.4 30 17.4"></path>
+    <path d="M2 17.9 C13 17.9 17 14.1 30 14.1"></path>
+    <path d="M2 21.2 C13 21.2 17 10.8 30 10.8"></path>
+    <path d="M2 24.5 C13 24.5 17 7.5 30 7.5"></path>
+  </g>
+</svg>

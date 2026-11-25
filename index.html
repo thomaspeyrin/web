@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thomas Peyrin</title>
+    <meta name="description" content="Thomas Peyrin at Nanyang Technological University. Cryptography, AI security and interpretable machine learning.">
+    <link rel="canonical" href="https://thomaspeyrin.github.io/web/">
+    <link rel="stylesheet" href="./assets/folio/folio.css">
+    <link rel="stylesheet" href="/web/assets/research.css">
+  </head>
+  <body class="web">
+    <a class="skip" href="#main">Skip to content</a>
+    <header>
+      <div class="wrap top">
+        <div class="masthead-identity"><a class="university" href="https://www.ntu.edu.sg/"><img class="ntu-mark" src="assets/folio/ntu.png" width="380" height="136" alt="Nanyang Technological University Singapore"></a><a class="brand" href="./"><img src="/web/assets/folio/syllab-mark.svg" width="30" height="30" alt="">Thomas Peyrin</a></div><nav aria-label="Main navigation">
+          <a href="./publications/">Publications</a>
+          <a href="./invited/">Talks</a>
+          <a href="./resume/">CV</a>
+          <a href="./#ocp">OCP</a>
+          <a href="https://syllab-ntu.github.io/syllab/">SyLLab</a>
+        </nav>
+      </div>
+    </header>
+    <main class="wrap" id="main">
+      <section class="hero"><div>
+                  <p class="affiliation">Professor at NTU Singapore</p>
+                  <h1>Thomas Peyrin</h1>
+                  <p class="intro">I lead <a href="https://syllab-ntu.github.io/syllab/">SyLLab</a>, where we design and analyze ciphers (mainly symmetric-key), study the many possible links between cryptography and AI, and build AI models whose decisions can be explained and verified.</p>
+                  <div class="links"><a href="publications/">Publications</a><a href="activities/">Scientific activities</a><a href="mailto:thomas.peyrin@ntu.edu.sg">Email me</a></div>
+                  <div class="venture"><img src="assets/folio/implicant.png" alt="" width="29" height="29"><p>I founded <a href="https://implicant.ai/">Implicant</a> to bring interpretable models and privacy-preserving inference into practice.</p></div>
+                  </div><figure class="portrait"><img class="headshot" src="assets/folio/portrait.jpg" width="180" height="180" alt="Thomas Peyrin"></figure></section><section class="feature" id="ocp">
+        <div class="feature-copy">
+          <div class="kicker">Featured project  /  OCP</div>
+          <h2>Open Cryptanalysis Platform</h2>
+          <p>With OCP, we can use the same model of a symmetric primitive to draw its diagram, run automated cryptanalysis, and generate code.</p>
+          <div class="links">
+            <a href="https://github.com/Open-CP/OCP">OCP on GitHub</a>
+            <a href="https://github.com/Open-CP/OCP/wiki">Documentation</a>
+          </div>
+        </div>
+        <img src="assets/folio/ocp-logo-light.svg" width="308" height="108" alt="OCP" class="ocp-logo">
+      </section>
+      <section class="section">
+        <div class="section-heading">
+          <h2>Research topics/highlights</h2>
+        </div>
+        <div class="cards research-groups">
+          <section class="topic-crypto" aria-labelledby="research-cryptography">
+            <h3 id="research-cryptography">Cryptography</h3>
+            <article class="card">
+              <img src="assets/folio/design.svg" width="480" height="280" alt="A conceptual substitution layer followed by a permutation of the wires.">
+              <h4>Primitives design</h4>
+              <p>We design cryptographic primitives, including permutations, ciphers, and modes of operation, for a wide range of practical uses.</p>
+              <p><a href="https://giftcipher.github.io/gift/">GIFT</a>, <a href="https://sites.google.com/site/ledblockcipher/">LED</a>, <a href="https://eprint.iacr.org/2016/660">SKINNY</a> and <a href="https://sites.google.com/view/deoxyscipher">Deoxys-TBC</a> (<a href="https://www.iso.org/standard/80505.html">ISO/IEC 18033-7</a>), <a href="https://sites.google.com/site/photonhashfunction/">PHOTON</a> (<a href="https://www.iso.org/standard/67173.html">ISO/IEC 29192-5</a>), and <a href="https://sites.google.com/view/deoxyscipher">Deoxys-II</a> (<a href="https://competitions.cr.yp.to/caesar-submissions.html">CAESAR first choice for defense in depth</a>).</p>
+            </article>
+            <article class="card">
+              <img src="assets/folio/fixslicing.svg" width="480" height="280" alt="Bits from four words rearranged into bit planes.">
+              <h4>Implementations</h4>
+              <p>We build and evaluate fast, small, and secure implementations of cryptographic algorithms in software and hardware.</p>
+              <div class="links">
+                <a href="https://eprint.iacr.org/2020/1123">Fixslicing · ARM Cortex-M speed record</a>
+                <a href="https://docs.rs/aes/latest/aes/#soft-portable-backend">RustCrypto’s portable AES</a>
+                <a href="https://eprint.iacr.org/2017/600">Bit-Sliding</a>
+                <a href="https://eprint.iacr.org/2017/101">LIGHTER</a>
+                <a href="https://eprint.iacr.org/2022/1247">Side-channel analysis</a>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/web/assets/folio/cipher-probe.webp" width="480" height="280" alt="A hacker probes a cipher with interconnected S-boxes.">
+              <h4>Cryptanalysis</h4>
+              <p>We cryptanalyse both long-established and recent symmetric-key primitives.</p>
+              <div class="links">
+                <a href="https://eprint.iacr.org/2020/014">SHA-1 collisions</a>
+                <a href="https://eprint.iacr.org/2018/161">Boomerang connectivity table (BCT)</a>
+                <a href="https://eprint.iacr.org/2010/223">Internal differential attack</a>
+                <a href="https://eprint.iacr.org/2009/531">Super-Sbox cryptanalysis</a>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/web/assets/folio/analysis.svg" width="480" height="280" alt="Candidate trails through successive layers of a cipher.">
+              <h4>Automated methods and AI-assisted cryptanalysis</h4>
+              <p>We use constraint solvers to search for patterns in ciphers and we study how neural distinguishers can be used in cryptanalysis.</p>
+              <div class="links">
+                <a href="https://github.com/Open-CP/OCP">Open Cryptanalysis Platform</a>
+                <a href="https://eprint.iacr.org/2021/287">Understanding neural distinguishers</a>
+              </div>
+            </article>
+          </section>
+          <section class="topic-ml" aria-labelledby="research-ai">
+            <h3 id="research-ai">AI</h3>
+            <article class="card">
+              <img src="/web/assets/folio/weight-probe.webp" width="480" height="280" alt="A hacker examines a neural network to recover its weights, W.">
+              <h4>AI security</h4>
+              <p>What can a model’s outputs reveal about its weights? How do adversarial inputs change its predictions?</p>
+              <div class="links">
+                <a href="https://eprint.iacr.org/2026/296">Deep networks</a>
+                <a href="https://eprint.iacr.org/2026/464">CNNs with max-pooling</a>
+              </div>
+            </article>
+            <article class="card">
+              <img src="assets/folio/compact-ai.svg" width="480" height="280" alt="The four input combinations and outputs of a two-input XOR rule.">
+              <h4>Interpretable AI</h4>
+              <p>We build AI models whose predictions can be traced through truth tables and rules that people can inspect.</p>
+              <div class="links">
+                <a href="https://ijcai.org/proceedings/2024/2">TTnet</a>
+                <a href="https://arxiv.org/abs/2309.09638">TT-rules</a>
+                <a href="https://proceedings.mlr.press/v306/soegeng26a.html">TT-Sparse</a>
+              </div>
+            </article>
+            <article class="card">
+              <img src="/web/assets/folio/spatial-selection.svg" width="480" height="280" alt="A spatial filter with three selected weights.">
+              <h4>Compact AI</h4>
+              <p>We study how to make AI models as compact as possible for a given task, with a focus on fast inference, resource-constrained environments, and hardware implementations on FPGAs and ASICs.</p>
+              <div class="links">
+                <a href="https://doi.org/10.1007/978-3-032-37627-5_4">Beyond Filter Pruning</a>
+              </div>
+            </article>
+            <article class="card">
+              <img class="encrypted-inference" src="/web/assets/folio/encrypted-inference.webp" width="480" height="280" alt="A neural network processes a locked input and produces a locked output.">
+              <h4>Privacy-preserving AI</h4>
+              <p>We study how to design AI models that run efficiently with privacy-preserving technologies such as fully homomorphic encryption (FHE).</p>
+              <div class="links">
+                <a href="https://arxiv.org/abs/2302.01584">TT-TFHE</a>
+                <a href="https://implicant.ai/">Implicant</a>
+              </div>
+            </article>
+          </section>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="wrap">
+        <strong>Thomas Peyrin · NTU Singapore</strong>
+        <div class="links">
+          <a href="./archive/">News and contact</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

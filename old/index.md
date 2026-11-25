@@ -1,4 +1,5 @@
 ---
+permalink: /old/
 layout: single
 toc: false
 classes: wide

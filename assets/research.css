@@ -1,0 +1,31 @@
+.research-groups { row-gap: 2rem; }
+.topic-crypto {
+  --accent: #246441;
+  --line: #bfd5c8;
+}
+.topic-ml {
+  --accent: #176583;
+  --line: #bdd9df;
+}
+.research-groups > section > h3 {
+  margin-bottom: .75rem;
+  color: var(--accent);
+  font-size: clamp(1.35rem, 2.5vw, 1.7rem);
+}
+.research-groups .card h4 {
+  grid-column: 2;
+  color: var(--accent);
+  margin: 0;
+  font-size: clamp(1.1rem, 2vw, 1.3rem);
+  font-weight: 650;
+  letter-spacing: -.035em;
+  line-height: 1.2;
+  text-wrap: balance;
+}
+.research-groups img.encrypted-inference {
+  box-sizing: border-box;
+  aspect-ratio: 12 / 7;
+  padding-inline: 3.5%;
+  object-fit: contain;
+  background-color: #e1eff1;
+}

@@ -1,4 +1,5 @@
 ---
+permalink: /old/invited/
 layout: single
 toc: false
 classes: wide

@@ -1,10 +1,10 @@
 main:
   - title: "Home"
-    url: /
+    url: /old/
   - title: "Publications"
-    url: /publications/
+    url: /old/publications/
   - title: "Invited Talks"
-    url: /invited/
+    url: /old/invited/
   - title: Syllab
     url: "https://syllab-ntu.github.io/syllab/"
 
@@ -28,74 +28,74 @@ research:
    
 docs:    
   - title: "Home"
-    url: /
+    url: /old/
   - title: "Scientific Activities"
-    url: /activities/
+    url: /old/activities/
   - title: "Publications"
-    url: /publications/
+    url: /old/publications/
   - title: "Invited Talks"
-    url: /invited/
+    url: /old/invited/
   - title: "Resume"
-    url: /resume/
+    url: /old/resume/
   - title: Syllab
     url: "https://syllab-ntu.github.io/syllab/"
     
 docsp:
   - title: "Home"
-    url: /
+    url: /old/
     
   - title: "Scientific Activities"
-    url: /activities/ 
+    url: /old/activities/
         
   - title: Publications
-    url: /publications/
+    url: /old/publications/
     children:
       - title: "2025"
-        url: /publications/#2025
+        url: /old/publications/#2025
       - title: "2024"
-        url: /publications/#2024
+        url: /old/publications/#2024
       - title: "2023"
-        url: /publications/#2023
+        url: /old/publications/#2023
       - title: "2022"
-        url: /publications/#2022
+        url: /old/publications/#2022
       - title: "2021"
-        url: /publications/#2021
+        url: /old/publications/#2021
       - title: "2020"
-        url: /publications/#2020
+        url: /old/publications/#2020
       - title: "2019"
-        url: /publications/#2019
+        url: /old/publications/#2019
       - title: "2018"
-        url: /publications/#2018
+        url: /old/publications/#2018
       - title: "2017"
-        url: /publications/#2017
+        url: /old/publications/#2017
       - title: "2016"
-        url: /publications/#2016
+        url: /old/publications/#2016
       - title: "2015"
-        url: /publications/#2015
+        url: /old/publications/#2015
       - title: "2014"
-        url: /publications/#2014
+        url: /old/publications/#2014
       - title: "2013"
-        url: /publications/#2013
+        url: /old/publications/#2013
       - title: "2012"
-        url: /publications/#2012
+        url: /old/publications/#2012
       - title: "2011"
-        url: /publications/#2011
+        url: /old/publications/#2011
       - title: "2010"
-        url: /publications/#2010      
+        url: /old/publications/#2010
       - title: "before 2009"
-        url: /publications/#2009
+        url: /old/publications/#2009
       - title: "Preprints"
-        url: /publications/#preprints
+        url: /old/publications/#preprints
       - title: "Thesis"
-        url: /publications/#thesis
+        url: /old/publications/#thesis
       - title: "Articles in Magazines"
-        url: /publications/#articles-in-magazines        
+        url: /old/publications/#articles-in-magazines
         
   - title: "Invited Talks"
-    url: /invited/
+    url: /old/invited/
     
   - title: "Resume"
-    url: /resume/
+    url: /old/resume/
     
   - title: Syllab
     url: "https://syllab-ntu.github.io/syllab/"

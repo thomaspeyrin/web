@@ -1,4 +1,5 @@
 ---
+permalink: /old/resume/
 layout: single
 toc: false
 classes: wide

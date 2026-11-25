@@ -1,4 +1,5 @@
 ---
+permalink: /old/activities/
 layout: single
 toc: false
 classes: wide

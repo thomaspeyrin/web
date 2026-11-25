@@ -1,0 +1,64 @@
+html:has(.publication-page) { scroll-behavior: auto; }
+.publication-page { margin-block: 3rem; }
+.publication-layout {
+  display: grid;
+  grid-template-columns: 9.75rem minmax(0, 1fr);
+  gap: clamp(1.75rem, 5vw, 4rem);
+  margin-top: 2rem;
+  align-items: start;
+}
+.year-nav {
+  position: sticky;
+  top: 1rem;
+  display: block;
+  max-height: calc(100vh - 2rem);
+  overflow: auto;
+  border-inline-end: 1px solid var(--line);
+  padding: .3rem 1rem .4rem .25rem;
+  background: var(--paper);
+}
+.index-title { display: block; font-weight: 700; margin-bottom: .6rem; }
+.year-links { display: grid; grid-template-columns: repeat(2, 1fr); gap: .1rem; }
+.year-links a { padding: .22rem .45rem; border-radius: .3rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.year-links a.section-link { grid-column: 1 / -1; }
+.year-links a[aria-current], .year-links a:hover { color: var(--accent); background: color-mix(in srgb, var(--accent) 10%, var(--paper)); }
+.year-select { display: none; }
+.publication-list { margin: 0; min-width: 0; }
+.publication-list h2:first-child { margin-top: 0; }
+@media (max-width: 680px) {
+  .publication-layout { display: block; margin-top: 1.25rem; }
+  .year-nav { position: static; max-height: none; border: 0; border-bottom: 1px solid var(--line); margin-bottom: 1.25rem; padding: .55rem 0; }
+  .year-links { grid-template-columns: repeat(auto-fit, minmax(3.5rem, 1fr)); }
+  .year-nav.enhanced { position: sticky; top: 0; z-index: 1; display: flex; justify-content: space-between; }
+  .year-nav.enhanced .index-title { margin: 0; }
+  .year-nav.enhanced .year-links { display: none; }
+  .year-select { display: block; font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--line); border-radius: .35rem; padding: .3rem; max-width: 60%; }
+  .publication-list h2 { scroll-margin-top: 3.25rem; }
+}
+
+.venue-key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem 1.25rem;
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  font-size: .88rem;
+  font-weight: 650;
+}
+.venue-crypto { --venue-color: #246441; }
+.venue-ml { --venue-color: #176583; }
+.venue-both { --venue-color: #285c65; }
+.venue-other { --venue-color: #505d60; }
+.venue-line, .venue-key li, .publication-list .paper-title,
+.publication-list li > em:first-child, .publication-list li > p > em:first-child,
+.publication-list li::marker { color: var(--venue-color); }
+.venue-line a { color: inherit; }
+.venue-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
