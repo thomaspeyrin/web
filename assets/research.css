@@ -29,3 +29,15 @@
   object-fit: contain;
   background-color: #e1eff1;
 }
+
+@media (width > 850px) {
+  .research-groups {
+    grid-template-rows: auto repeat(4, auto);
+    row-gap: 0;
+  }
+  .research-groups > section {
+    display: grid;
+    grid-row: 1 / -1;
+    grid-template-rows: subgrid;
+  }
+}
