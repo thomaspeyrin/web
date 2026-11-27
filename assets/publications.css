@@ -47,8 +47,8 @@ html:has(.publication-page) { scroll-behavior: auto; }
   font-weight: 650;
 }
 .venue-crypto { --venue-color: #167000; }
-.venue-ml { --venue-color: #1848cc; }
-.venue-both { --venue-color: #007579; }
+.venue-ml { --venue-color: #1046e6; }
+.venue-both { --venue-color: #0071a3; }
 .venue-other { --venue-color: #505d60; }
 .venue-key li, .publication-list li { color: var(--venue-color); }
 .publication-list li :where(p, em, strong, span, a) { color: inherit; }
