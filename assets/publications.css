@@ -46,14 +46,12 @@ html:has(.publication-page) { scroll-behavior: auto; }
   font-size: .88rem;
   font-weight: 650;
 }
-.venue-crypto { --venue-color: #246441; }
-.venue-ml { --venue-color: #176583; }
-.venue-both { --venue-color: #285c65; }
+.venue-crypto { --venue-color: #167000; }
+.venue-ml { --venue-color: #1848cc; }
+.venue-both { --venue-color: #007579; }
 .venue-other { --venue-color: #505d60; }
-.venue-line, .venue-key li, .publication-list .paper-title,
-.publication-list li > em:first-child, .publication-list li > p > em:first-child,
-.publication-list li::marker { color: var(--venue-color); }
-.venue-line a { color: inherit; }
+.venue-key li, .publication-list li { color: var(--venue-color); }
+.publication-list li :where(p, em, strong, span, a) { color: inherit; }
 .venue-sr {
   position: absolute;
   width: 1px;
